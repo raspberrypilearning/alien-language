@@ -4,7 +4,7 @@ First, create a project on machinelearningforkids.co.uk
 --- task ---
 + Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/)
 
-++ Click on **Get Started**
++ Click on **Get Started**
 
 + **If** you have an account, click on **Log In** and type your username and password. Otherwise, click on **Try it now**
 --- /task ---
