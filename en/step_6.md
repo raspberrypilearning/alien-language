@@ -1,6 +1,8 @@
 ## Use Alien words in Scratch
 Now let's use your new machine learning in Scratch
+
 --- task ---
+
 + Click on the **Make** button
 ![Arrow pointing to the make button](images/make-annotated.png)
 
@@ -8,14 +10,17 @@ Now let's use your new machine learning in Scratch
 
 + Click on the **Project templates** button at the top of the screen and
 open the “Alien Language” project template
+
 --- /task ---
 
 --- task ---
+
 + Add the following script to the **alien** sprite. There are already some scripts in the alien sprite to put it in the right place at the start and animate how it walks. **Don’t delete these.** You can add these scripts underneath them.
 ![New scripts to add including new buttons to use your machine learning model](images/add-new-blocks.png)
 
 + It’s time to test! Click the **Green Flag** Make your noises for “left” and “right” to tell the alien which way to walk.
 ![Overview of entire Scratch project](images/test-new-blocks.png)
+
 --- /task ---
 
 You’ve trained your own machine learning model to do speech recognition. You used that to control a character in Scratch.

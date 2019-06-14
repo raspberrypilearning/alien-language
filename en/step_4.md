@@ -1,11 +1,14 @@
 ##Create alien words
 Now before you go any further, it's time to invent your alien words. 
 --- task ---
+
 You need two words – an alien word for “left” and an alien word for “right”. Invent new words that wouldn’t show up in an English dictionary. They can be random noises as long as you can repeat them in the same way every time and will be recognisably different from each other. If you don’t want to make weird noises with your voice, that’s okay - find other ways to make noises. You can click your fingers, clap your hands, squeeze a squeaky toy or do anything else you can think of!
 **Just be sure to remember your new words!**
+
 --- /task ---
 
 --- task ---
+
 + Click on the Train button to start collecting examples.
 
 + Click on the Add example button in the background noise bucket. Recording background noise will help your machine learning model to tell the difference between the sounds you will train it to recognize, and the background noise where you are.
@@ -19,9 +22,11 @@ You need two words – an alien word for “left” and an alien word for “rig
 
 + Repeat that until you have **at least 8** examples of background noise
 ![bucket filled with 8 background examples](images/8-background.png)
+
 --- /task ---
 
 --- task ---
+
 + Click the **Add new label** button in the top right, and create a new
 training bucket called “left”
 
@@ -32,7 +37,9 @@ training bucket called “left”
 ![bucket filled with 8 left examples](images/8-left.png)
 --- /task ---
 
+
 --- task ---
+
 + Click the **Add new label** button in the top right, and create a new
 training bucket called “right”
 
@@ -40,4 +47,5 @@ training bucket called “right”
 
 + Record **at least 8** examples of your alien noise for “right”
 ![bucket filled with 8 right examples](images/8-right.png)
+
 --- /task ---
