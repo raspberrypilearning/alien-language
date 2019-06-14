@@ -1,5 +1,6 @@
 ##Create alien words
-Now before you go any further, it's time to invent your alien words. 
+Now before you go any further, it's time to invent your alien words.
+
 --- task ---
 
 You need two words – an alien word for “left” and an alien word for “right”. Invent new words that wouldn’t show up in an English dictionary. They can be random noises as long as you can repeat them in the same way every time and will be recognisably different from each other. If you don’t want to make weird noises with your voice, that’s okay - find other ways to make noises. You can click your fingers, clap your hands, squeeze a squeaky toy or do anything else you can think of!
@@ -35,6 +36,7 @@ training bucket called “left”
 
 + Record **at least 8** examples of your alien noise for “left”
 ![bucket filled with 8 left examples](images/8-left.png)
+
 --- /task ---
 
 
