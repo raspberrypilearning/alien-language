@@ -38,9 +38,10 @@ title: What you will learn
 
 --- /collapse ---
 
---- no-print ---
-
-### Additional information for educators
+--- collapse ---
+---
+title: Additional information for educators
+---
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_blank"}.
 
@@ -48,7 +49,7 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 
---- /no-print ---
+--- /collapse ---
 
 ### License
 
