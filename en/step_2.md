@@ -1,7 +1,7 @@
-## Use Speech to Text extension
+## Using a pretrained model
 
 --- task ---
-+ Go to [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/)
++ Go to [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
 --- /task ---
 
 --- task ---
@@ -20,4 +20,4 @@ Say “left” or “right”. The cat should move in the direction that you tel
 ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png)
 --- /task ---
 
-You’ve used speech recognition to control a character in Scratch. To get this working quickly, you’ve used a machine learning model that has already been trained for you. This is a general machine learning model that has been trained to recognize English dictionary words. Next, you’ll train a machine learning model for yourself to see how it was done. For the next part of the project, you’ll use your voice to control an alien character that doesn’t understand English! You’ll invent two new words, that wouldn’t be found in an English dictionary, to control your character and train a machine learning model to recognize them.
+You’ve used speech recognition to control a character in Scratch. To get this working quickly, you’ve used a machine learning model that has already been trained for you. This is a general machine learning model that has been trained to recognize English dictionary words. 

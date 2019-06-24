@@ -11,6 +11,7 @@ You need two words – an alien word for “left” and an alien word for “rig
 --- task ---
 
 + Click on the Train button to start collecting examples.
+![Arrow pointing to the train button](images/click-train.png)
 
 + Click on the Add example button in the background noise bucket. Recording background noise will help your machine learning model to tell the difference between the sounds you will train it to recognize, and the background noise where you are.
 ![Arrow pointing to the add example button](images/background-noise-annotated.png)
@@ -30,6 +31,7 @@ You need two words – an alien word for “left” and an alien word for “rig
 
 + Click the **Add new label** button in the top right, and create a new
 training bucket called “left”
+![Arrow pointing to the add new label button](images/8-background-annotated.png)
 
 + Click the **Add example** button in the new left bucket
 ![Arrow pointing to the add example button](images/left-empty-annotated.png)
@@ -42,12 +44,14 @@ training bucket called “left”
 
 --- task ---
 
-+ Click the **Add new label** button in the top right, and create a new
++ Click the **Add new label** button in the top right again, and create a new
 training bucket called “right”
 
 + Click the **Add example** button in the new right bucket
 
 + Record **at least 8** examples of your alien noise for “right”
 ![bucket filled with 8 right examples](images/8-right.png)
+
++ **You must have 8 samples for all three buckets to continue!**
 
 --- /task ---

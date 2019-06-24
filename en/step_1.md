@@ -4,7 +4,17 @@ In this project you will train the computer to understand an alien language. You
 
 ### What you will make
 
+--- no-print ---
+
+![Alien moving left and right to new words, Eeek and Bop](images/journey.gif)
+
+--- /no-print ---
+
+--- print-only ---
+
 ![Overview of entire Scratch project](images/test-new-blocks.png)
+
+--- /print-only ---
 
 --- collapse ---
 ---
@@ -34,7 +44,7 @@ title: What you will learn
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_blank"}.
 
-[Here is a link to the resources for this project -TODO-](http://rpf.io/project-name-go).
+[Here is a link to the resources for this project -TODO-](http://rpf.io/project-name-go){:target="_blank"}.
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 

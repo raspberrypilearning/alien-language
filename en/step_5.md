@@ -4,11 +4,13 @@ Now you need to use the examples you collected in the last step to train the com
 --- task ---
 
 + Click the **“Back to project”** link in the top left
+![Arrow pointing to back to project button](images/8-right-annotated.png)
 
 + Click the **Learn & Test** button
 ![Arrow pointing to Learn and Test button](images/learn-test-annotated.png)
 
-* Click **“Train new machine learning model”**
+* Click **“Train new machine learning model”** 
+This may take a couple of minutes.
 ![Arrow pointing to Train new machine learning model](images/train-annotated.png)
 
 --- /task ---

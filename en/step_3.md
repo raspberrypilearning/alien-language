@@ -1,8 +1,10 @@
 ## Create new project
+Next, you’ll train a machine learning model for yourself to see how it was done. For the next part of the project, you’ll use your voice to control an alien character that doesn’t understand English! You’ll invent two new words, that wouldn’t be found in an English dictionary, to control your character and train a machine learning model to recognize them.
+
 First, create a project on machinelearningforkids.co.uk
 
 --- task ---
-+ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/)
++ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}
 
 + Click on **Get Started**
 
