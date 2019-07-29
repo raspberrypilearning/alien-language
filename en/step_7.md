@@ -10,7 +10,7 @@
 
 --- task ---
 
-+ Can you think of any more projects that you could use a machine learning model for?
++ Can you think of anything else that you could use a machine learning model for?
 
 --- /task ---
 
