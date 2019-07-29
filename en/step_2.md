@@ -16,9 +16,10 @@
 
 --- task ---
 Click on the green flag to test your program.
-Say “left” or “right”. The Scratch cat should move in the direction that you tell it to. Use your voice to try to move the Scratch cat back and forth across the screen. 
-It can be difficult to get it to work. Try to speak calmly and clearly. If it doesn’t work, modify your script, as seen below, to show what it thinks you’re saying.
+Say “left” or “right”. The Scratch cat should move in the direction that you tell it to. Use your voice to try to move the Scratch cat back and forth across the screen. Try to speak calmly and clearly.
+
+It can be difficult to get it to work. If it doesn’t work, change your script so that it looks like the script below, to show what it thinks you’re saying.
 ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png)
 --- /task ---
 
-You have now used speech recognition to control a character in Scratch. To get this working quickly, you have used a machine learning model that has already been trained for you. This is a general machine learning model that has been trained to recognise words in the English dictionary. 
+You have now used speech recognition to control a character in Scratch. In this step, to get your program working quickly, you used a machine learning model that had already been trained for you. It is a general machine learning model that had been trained to recognise words in the English dictionary. 
