@@ -25,7 +25,7 @@ title: What you will need
 + A computer with a microphone
 
 ### Software
-+ An account on machinelearningforkids.co.uk (optional)
++ An account on [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} (optional)
 --- /collapse ---
 
 --- collapse ---
