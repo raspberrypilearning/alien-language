@@ -18,7 +18,7 @@
 Click on the green flag to test your program.
 Say “left” or “right”. The Scratch cat should move in the direction that you tell it to. Use your voice to try to move the Scratch cat back and forth across the screen. Try to speak calmly and clearly.
 
-It can be difficult to get it to work. If it doesn’t work, change your script so that it looks like the script below, to show what it thinks you’re saying.
+It can be difficult to get it to work. If it doesn’t work, add `say` blocks so that your script looks like the script below, to show what it thinks you are saying.
 ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png)
 --- /task ---
 
