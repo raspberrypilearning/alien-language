@@ -1,23 +1,23 @@
-## Create new project
-Next, you’ll train a machine learning model for yourself to see how it was done. For the next part of the project, you’ll use your voice to control an alien character that doesn’t understand English! You’ll invent two new words, that wouldn’t be found in an English dictionary, to control your character and train a machine learning model to recognize them.
+## Create a new project
+In the next few steps, you will train a machine learning model to see how it was done. For the next part of the project, you will use your voice to control an alien character that does not understand English! You will invent two new words that would not be found in an English dictionary. Then, you will use the words to control the alien character, and train a machine learning model to recognise them.
 
-First, create a project on machinelearningforkids.co.uk
+First, go to the Machine Learning for Kids website and create a project.
 
 --- task ---
-+ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}
++ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}.
 
-+ Click on **Get Started**
++ Click on **Get started**.
 
-+ **If** you have an account, click on **Log In** and type your username and password. Otherwise, click on **Try it now**
++ If you have an account, click on **Log in**, then type in your username and password. If you do not have an account, click on **Try it now**.
 --- /task ---
 
 --- task ---
-+ Click on **Projects** on the top menu bar
++ Click on **Projects** in the menu bar at the top of the page.
 
-+ Click the **+ Add a new project** button.
++ Click the **Add a new project** button.
 
-+ Name your project “Alien language” and set it to learn how to recognise **“sounds”**. Click the **Create** button.
++ Name your project `Alien language` and set it to learn how to recognise `sounds`. Then, click the **Create** button.
 ![Creating a project](images/create.png)
 
-+ You should see “Alien language” in the projects list. Click on it.
++ You should see `Alien language` in the projects list. Click on the `Alien language` project.
 --- /task ---
