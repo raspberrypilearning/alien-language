@@ -16,8 +16,8 @@ First, go to the Machine Learning for Kids website and create a project.
 
 + Click the **Add a new project** button.
 
-+ Name your project `Alien language` and set it to learn how to recognise `sounds`. Then, click the **Create** button.
++ Name your project `Alien Language` and set it to learn how to recognise `sounds`. Then, click the **Create** button.
 ![Creating a project](images/create.png)
 
-+ You should see `Alien language` in the projects list. Click on the `Alien language` project.
++ You should see `Alien Language` in the projects list. Click on the `Alien Language` project.
 --- /task ---
