@@ -22,7 +22,8 @@ In this step, you will use your new machine learning in Scratch.
 --- /task ---
 
 You have now trained your own machine learning model to do speech recognition, and used that to control a character in Scratch.
-Unlike the pre-trained model that you used earlier in the project, which had been trained to recognise tens of thousands of words, you have only trained it to recognise two different words. However, the principle is the same.
+Unlike the pretrained model that you used earlier in the project, which had been trained to recognise tens of thousands of words, you have only trained it to recognise two different words. However, the principle is the same.
+
 You have also seen the importance of training the machine learning model to work with a certain background noise.
 
 --- task ---
