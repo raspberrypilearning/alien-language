@@ -4,7 +4,7 @@ In this step, you will invent your alien words.
 --- task ---
 
 You need two words — an alien word for “left” and an alien word for “right”. Invent two new words that would not be in an English dictionary. They can be random noises, as long as you can repeat them in the same way every time and they are recognisably different from each other. If you don’t want to make noises with your voice, that’s okay — you can find other ways to make noises. You can click your fingers, clap your hands, squeeze a squeaky toy, or do anything else you can think of!
-Just be sure to remember your new words!
+Just make sure that you remember your new words!
 
 --- /task ---
 
