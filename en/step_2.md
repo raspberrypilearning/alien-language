@@ -22,4 +22,6 @@ It can be difficult to get it to work. If it doesn’t work, add `say` blocks so
 ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png)
 --- /task ---
 
-You have now used speech recognition to control a character in Scratch. In this step, to get your program working quickly, you used a machine learning model that had already been trained for you. It is a general machine learning model that had been trained to recognise words in the English dictionary. 
+You have now used speech recognition to control a character in Scratch.
+
+In this step, to get your program working quickly, you used a machine learning model that had already been trained for you. It is a general machine learning model that had been trained to recognise words in the English dictionary. 
