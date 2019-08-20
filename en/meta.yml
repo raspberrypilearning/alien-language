@@ -3,7 +3,7 @@ hero_image: images/banner.png
 description: Create your own alien language to move a sprite
 theme: orange
 listed: false
-copyedit: false
+copyedit: true
 technologies: scratch
 software: scratch
 version: 4.0.0
