@@ -8,7 +8,7 @@ First, go to the Machine Learning for Kids website and create a project.
 
 + Click on **Get started**.
 
-+ If you have an account, click on **Log in**, then type in your username and password. If you do not have an account, click on **Try it now**.
++ Click on **Try it now**.
 --- /task ---
 
 --- task ---

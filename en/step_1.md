@@ -21,11 +21,10 @@ In this project, you will train the computer to understand an alien language. Yo
 title: What you will need
 ---
 
-### Hardware
 + A computer with a microphone
 
-### Software
-+ An account on [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} (optional)
++ Internet access
+
 --- /collapse ---
 
 --- collapse ---
@@ -44,10 +43,6 @@ title: Additional information for educators
 ---
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_blank"}.
-
-[Here is a link to the resources for this project -TODO-](http://rpf.io/project-name-go){:target="_blank"}.
-
-You can use the link in the footer to access the GitHub repository for this project, which contains all of the resources for this project (including an example finished project) in the 'en/resources' folder.
 
 --- /collapse ---
 
