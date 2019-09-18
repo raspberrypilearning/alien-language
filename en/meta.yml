@@ -2,7 +2,7 @@ title: Alien language
 hero_image: images/banner.png
 description: Create your own alien language to move a sprite
 theme: orange
-listed: false
+listed: true
 copyedit: true
 technologies: scratch
 software: scratch
