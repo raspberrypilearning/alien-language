@@ -4,6 +4,8 @@
 + Go to [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
 --- /task ---
 
+**Warning:** This step of the project can only be completed using the Google Chrome web browser. If this browser is not available to you, please skip to [step 3: Create a new project](https://projects.raspberrypi.org/en/projects/alien-language/3)
+
 --- task ---
 + Next, load the **Speech to Text** extension. Click the **Extensions** button in the bottom left-hand corner, and then choose **Speech to Text** from the list.
 **Note:** Make sure that you select the **Speech to Text** extension, not the **Text to Speech** extension.
