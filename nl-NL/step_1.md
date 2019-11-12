@@ -1,53 +1,53 @@
-## Introduction
+## Inleiding
 
-In this project, you will train the computer to understand an alien language. You will use that to control an alien character so that it can understand what you tell it to do.
+In dit project zul je de computer trainen om een buitenaardse taal te begrijpen. Je zult dat gebruiken om een buitenaards karakter te besturen, zodat het kan begrijpen wat je zegt dat het moet doen.
 
-### What you will make
+### Wat ga je maken
 
-\--- no-print \---
+--- no-print ---
 
-![Alien moving left and right to new words, Eeek and Bop](images/journey.gif)
+![Alien beweegt links en rechts door nieuwe woorden, Eeek en Bop](images/journey.gif)
 
-\--- /no-print \---
+--- /no-print ---
 
-\--- print-only \---
+--- print-only ---
 
-![Overview of entire Scratch project](images/test-new-blocks.png)
+![Overzicht van het volledige Scratch-project](images/test-new-blocks.png)
 
-\--- /print-only \---
+--- /print-only ---
 
-\--- collapse \---
+--- collapse ---
 ---
-title: What you will need
----
-
-+ A computer with a microphone
-
-+ Internet access
-
-\--- /collapse \---
-
-\--- collapse \---
----
-title: What you will learn
----
-+ How to use the Speech to Text extension in Scratch 3 with a pretrained model
-+ How to train a machine learning model to recognise sounds
-+ How to use your trained machine learning model in Scratch 3
-
-\--- /collapse \---
-
-\--- collapse \---
----
-title: Additional information for educators
+title: Wat heb je nodig
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_blank"}.
++ Een computer met een microfoon
 
-\--- /collapse \---
++ Internettoegang
 
-### Licence
+--- /collapse ---
 
-This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
+--- collapse ---
+---
+title: Wat ga je leren
+---
++ De extensie spraak naar tekst in Scratch 3 gebruiken met een vooraf getraind model
++ Hoe een machine learning model te trainen om geluiden te herkennen
++ Gebruik van jouw getraind machine learning-model in Scratch 3
 
-We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
+--- /collapse ---
+
+--- collapse ---
+---
+title: Aanvullende informatie voor docenten
+---
+
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/alien-language/print) {:target="_ blank"}.
+
+--- /collapse ---
+
+### Licentie
+
+Dit project heeft een dubbele licentie onder zowel een [Creative Commons Attribution Non-Commercial Share-Alike-licentie](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} en een [Apache-licentie versie 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
+
+We willen Dale van machinelearningforkids.co.uk graag bedanken voor al zijn werk aan dit project.
