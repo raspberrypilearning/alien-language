@@ -1,20 +1,20 @@
-## Create a new project
-In the next few steps, you will train a machine learning model to see how it was done. For the next part of the project, you will use your voice to control an alien character that does not understand English! You will invent two new words that would not be found in an English dictionary. Then, you will use the words to control the alien character, and train a machine learning model to recognise them.
+## Maak een nieuw project
+In de volgende paar stappen train je een machine learning-model om te zien hoe dat wordt gedaan. Voor het volgende deel van het project gebruik je je stem om een buitenaards personage te besturen dat geen Engels begrijpt! Je zult twee nieuwe woorden uitvinden die je niet in een woordenboek zult vinden. Vervolgens zul je de woorden gebruiken om het buitenaardse karakter te besturen en een machine learning-model trainen om ze te herkennen.
 
-First, go to the Machine Learning for Kids website and create a project.
+Ga eerst naar de website Machine Learning for Kids en maak een project.
 
-\--- task \---
-+ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}.
+--- task ---
++ Ga naar [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}.
 
-+ Click on **Get started**.
++ Klik op **Begin**.
 
-+ Click on **Try it now**. \--- /task \---
++ Klik op **Probeer nu**. --- /task ---
 
-\--- task \---
-+ Click on **Projects** in the menu bar at the top of the page.
+--- task ---
++ Klik op **Projecten** in de menubalk bovenaan de pagina.
 
-+ Click the **Add a new project** button.
++ Klik op de knop **Voeg een nieuw project toe**.
 
-+ Name your project `Alien Language` and set it to learn how to recognise `sounds`. Then, click the **Create** button. ![Creating a project](images/create.png)
++ Geef je project als naam `Buitenaardse taal` en stel het in om te leren hoe het `geluiden (sounds)` herkent. Klik vervolgens op de knop **Creëer**. ![Een project maken](images/create.png)
 
-+ You should see `Alien Language` in the projects list. Click on the `Alien Language` project. \--- /task \---
++ Je zou `Buitenaardse taal` in de projectenlijst moeten zien. Klik op het project `Buitenaardse taal`. ---/task---
