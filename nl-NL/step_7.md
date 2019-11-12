@@ -1,17 +1,17 @@
-## Challenge: add new commands
+## Uitdaging: voeg nieuwe opdrachten toe
 
-\--- challenge \---
+--- challenge ---
 
-\--- task \---
+--- task ---
 
-+ Now, you could add two more training buckets for “up” and “down”, so that you can control the alien to move in all four directions.
++ Nu zou je nog twee trainings containers toe kunnen voegen voor "omhoog" en "omlaag", zodat je de alien kunt besturen om in alle vier de richtingen te bewegen.
 
-\--- /task \---
+---/task---
 
-\--- task \---
+--- task ---
 
-+ Can you think of anything else that you could use a machine learning model for?
++ Kun je nog iets anders bedenken waarvoor je een machine learning-model zou kunnen gebruiken?
 
-\--- /task \---
+--- /task ---
 
-\--- /challenge \---
+--- /challenge ---
