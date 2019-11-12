@@ -7,24 +7,24 @@ In deze stap gebruik je je nieuwe machine learning-model in Scratch.
 
 + Klik op de knop **Scratch 3** en klik vervolgens op **Open in Scratch 3**.
 
-+ Click on **Project templates** at the top of the screen, then open the **Alien Language** project template.
++ Klik op **Project templates** bovenaan het scherm en open vervolgens de projectsjabloon **Alien Language**.
 
 ---/task---
 
 --- task ---
 
-+ Look at the scripts for the alien sprite. The scripts that are already there will put the alien sprite in the right place at the start and animate how it walks. Do not delete them. Add the script below to the alien sprite, underneath the scripts that are already there. ![New scripts to add including new buttons to use your machine learning model](images/add-new-blocks.png)
++ Kijk naar de scripts voor de alien-sprite. De scripts die er al zijn, zullen de alien sprite aan het begin op de juiste plaats zetten en animeren hoe het loopt. Verwijder ze niet. Voeg het onderstaande script toe aan de alien-sprite, onder de scripts die er al zijn. ![Nieuwe scripts om toe te voegen inclusief nieuwe knoppen om je machine learning-model te gebruiken](images/add-new-blocks.png)
 
-+ Now, test your program! Click on the green flag. Say your words (or make your noises) for “left” and “right” to tell the alien which way to walk.
++ Test nu je programma! Klik op de groene vlag. Zeg je woorden (of maak je geluiden) voor 'links' en 'rechts' om de alien te vertellen welke weg hij moet bewandelen.
 
 --- /task ---
 
-You have now trained your own machine learning model to do speech recognition, and used that to control a character in Scratch. Unlike the pretrained model that you used earlier in the project, which had been trained to recognise tens of thousands of words, you have only trained it to recognise two different words. However, the principle is the same.
+Je hebt nu je eigen machine learning-model getraind om spraakherkenning te doen en dat gebruikt om een karakter in Scratch te besturen. In tegenstelling tot het model dat je eerder in het project hebt gebruikt, dat was getraind om tienduizenden woorden te herkennen, heb je het alleen getraind om twee verschillende woorden te herkennen. Het principe is echter hetzelfde.
 
-You have also seen the importance of training the machine learning model to work with a certain background noise.
+Je hebt ook het belang ingezien van het trainen van het machine learning-model om met een bepaald achtergrondgeluid te werken.
 
 --- task ---
 
-Can you think of an example of a system like this that you have seen before? For example, some cars use speech recognition systems that have been trained to recognise the different commands that you can give to the in-car computer. What other examples have you used?
+Kun je een voorbeeld van een dergelijk systeem bedenken dat je eerder hebt gezien? Sommige auto's gebruiken bijvoorbeeld spraakherkenningssystemen die zijn getraind om de verschillende opdrachten te herkennen die je aan de computer in de auto kunt geven. Welke andere voorbeelden heb je gebruikt?
 
 --- /task ---
