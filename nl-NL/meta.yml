@@ -1,0 +1,21 @@
+---
+title: Buitenaardse taal
+hero_image: images/banner.png
+description: Maak je eigen buitenaardse taal om een sprite te verplaatsen
+theme: orange
+listed: true
+copyedit: true
+technologies: scratch
+software: scratch
+version: 4.0.0
+last_tested: "2019-06-04"
+steps:
+  - title: Inleiding
+  - title: Gebruik een vooraf getraind model
+  - title: Maak een nieuw project
+  - title: Maak buitenaardse woorden
+  - title: Train een nieuw model voor machine learning
+  - title: Gebruik buitenaardse woorden in Scratch
+  - title: "Uitdaging: voeg nieuwe opdrachten toe"
+    challenge: true
+  - title: Wat kun je verder nog doen?
