@@ -1,20 +1,20 @@
-## Create a new project
-In the next few steps, you will train a machine learning model to see how it was done. For the next part of the project, you will use your voice to control an alien character that does not understand English! You will invent two new words that would not be found in an English dictionary. Then, you will use the words to control the alien character, and train a machine learning model to recognise them.
+## أنشئ مشروعًا جديدًا
+في الخطوات القليلة التالية ، ستقوم بتدريب نموذج تعلُّم الآلة لترى كيف تم ذلك. بالنسبة للجزء التالي من المشروع ، ستستخدم صوتك للتحكم في شخصية كائن الفضاء التي لا تفهم اللغة الإنجليزية! سوف تخترع كلمتين جديدتين لن يتم العثور عليهما في قاموس اللغة الإنجليزية. بعد ذلك ، سوف تستخدم الكلمات للتحكم في شخصية كائن الفضاء ، وتدريب نموذج للتعلم الالة للتعرف عليها.
 
-First, go to the Machine Learning for Kids website and create a project.
+أولاً ، انتقل إلى موقع Machine Learning for Kids وإنشاء مشروع.
 
-\--- task \---
-+ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}.
+--- task ---
++ انتقل إلى [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){: target = "_ blank"}.
 
-+ Click on **Get started**.
++ انقر على **لتبدأ**.
 
-+ Click on **Try it now**. \--- /task \---
++ انقر على **جربه الآن**. --- /task ---
 
-\--- task \---
-+ Click on **Projects** in the menu bar at the top of the page.
+--- task ---
++ انقر على **مشاريع** في شريط القائمة في أعلى الصفحة.
 
-+ Click the **Add a new project** button.
++ انقر فوق الزر **إضافة مشروع جديد**.
 
-+ Name your project `Alien Language` and set it to learn how to recognise `sounds`. Then, click the **Create** button. ![Creating a project](images/create.png)
++ قم بتسمية مشروعك `Alien Language` وقم بتعيينه على تعلم كيفية التعرف على `الأصوات `. ثم، انقر فوق زر **اصنع**. ![إنشاء مشروع](images/create.png)
 
-+ You should see `Alien Language` in the projects list. Click on the `Alien Language` project. \--- /task \---
++ يجب أن تشاهد `لغة كائن الفضاء` في قائمة المشاريع. انقر على مشروع `لغة كائن الفضاء`. --- /task ---
