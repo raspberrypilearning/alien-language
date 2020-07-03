@@ -1,17 +1,17 @@
-## Challenge: add new commands
+## التحدي: إضافة أوامر جديدة
 
-\--- challenge \---
+--- تحدي ---
 
-\--- task \---
+--- task ---
 
-+ Now, you could add two more training buckets for “up” and “down”, so that you can control the alien to move in all four directions.
++ الآن ، يمكنك إضافة مجموعتي تدريب إضافيتين "للأعلى" و "للأسفل" ، بحيث يمكنك التحكم في كائن الفضاء للتنقل في جميع الاتجاهات الأربعة.
 
-\--- /task \---
+--- /task ---
 
-\--- task \---
+--- task ---
 
-+ Can you think of anything else that you could use a machine learning model for?
++ هل يمكنك التفكير في أي شيء آخر يمكنك استخدام نموذج تعلم الآلة له؟
 
-\--- /task \---
+---/task--
 
-\--- /challenge \---
+--- /تحدي ---
