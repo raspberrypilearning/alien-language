@@ -1,8 +1,8 @@
 ---
-title: Alien language
+title: لغة غريبة
 hero_image: images/banner.png
-description: Create your own alien language to move a sprite
-theme: orange
+description: قم بإنشاء لغة كائن الفضاء الخاصة بك لتحريك الكائن
+theme: البرتقالي
 listed: true
 copyedit: true
 technologies: scratch
@@ -11,19 +11,19 @@ version: 4.0.0
 last_tested: "2019-06-04"
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: Use a pretrained model
+    title: استخدم نموذجا تم تدريبه مسبقا
   - 
-    title: Create a new project
+    title: أنشئ مشروعًا جديدًا
   - 
-    title: Create alien words
+    title: إنشاء كلمات كائن الفضاء
   - 
-    title: Train a new machine learning model
+    title: تدريب نموذج جديد للتعلم الآلي
   - 
-    title: Use alien words in Scratch
+    title: استخدم كلمات كائن الفضاء في Scratch
   - 
-    title: "Challenge: add new commands"
+    title: "التحدي: إضافة أوامر جديدة"
     challenge: true
   - 
-    title: What next?
+    title: ما التالي؟
