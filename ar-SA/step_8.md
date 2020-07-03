@@ -1,7 +1,7 @@
-## What next?
+## ما التالي؟
 
-If you haven't already, try our other machine learning with Scratch projects.
+إذا لم تكن قد قمت بذلك بالفعل ، فجرب مشاريعنا الاخرى في تعلم الالة باستخدام منصة Scratch.
 
-[Smart Classroom](https://projects.raspberrypi.org/en/projects/smart-classroom)
+[الفصول الذكية](https://projects.raspberrypi.org/en/projects/smart-classroom)
 
-[Journey to school](https://projects.raspberrypi.org/en/projects/journey-to-school)
+[رحلة إلى المدرسة](https://projects.raspberrypi.org/en/projects/journey-to-school)
