@@ -1,7 +1,7 @@
-## What next?
+## Και τώρα;
 
-If you haven't already, try our other machine learning with Scratch projects.
+Εάν δεν το έχεις κάνει ήδη, δοκίμασε τις άλλες μας μηχανές μάθησης με προγράμματα Scratch.
 
-[Smart Classroom](https://projects.raspberrypi.org/en/projects/smart-classroom)
+[Έξυπνη τάξη](https://projects.raspberrypi.org/en/projects/smart-classroom)
 
-[Journey to school](https://projects.raspberrypi.org/en/projects/journey-to-school)
+[Ταξίδι στο σχολείο](https://projects.raspberrypi.org/en/projects/journey-to-school)
