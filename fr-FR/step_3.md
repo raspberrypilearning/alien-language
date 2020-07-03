@@ -1,20 +1,20 @@
-## Create a new project
-In the next few steps, you will train a machine learning model to see how it was done. For the next part of the project, you will use your voice to control an alien character that does not understand English! You will invent two new words that would not be found in an English dictionary. Then, you will use the words to control the alien character, and train a machine learning model to recognise them.
+## Créer un nouveau projet
+Dans les prochaines étapes, tu vas entraîner un modèle d’apprentissage machine pour voir comment cela s’est fait. Pour la suite du projet, tu utiliseras ta voix pour contrôler un personnage extraterrestre qui ne comprend pas l'anglais ! Tu vas inventer deux nouveaux mots qui ne se trouverais pas dans un dictionnaire anglais. Ensuite, tu utiliseras les mots pour contrôler le personnage extraterrestre et entraîneras un modèle d’apprentissage machine pour les reconnaître.
 
-First, go to the Machine Learning for Kids website and create a project.
+Tout d’abord, accède au site Machine Learning for Kids et crée un projet.
 
-\--- task \---
-+ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}.
+--- task ---
++ Va sur [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_ blank"}.
 
-+ Click on **Get started**.
++ Clique sur **Démarrez**.
 
-+ Click on **Try it now**. \--- /task \---
++ Clique sur **Essayer maintenant**. --- /task ---
 
-\--- task \---
-+ Click on **Projects** in the menu bar at the top of the page.
+--- task ---
++ Clique sur **Projets** dans la barre de menus en haut de la page.
 
-+ Click the **Add a new project** button.
++ Clique sur le bouton **Ajouter un nouveau projet**.
 
-+ Name your project `Alien Language` and set it to learn how to recognise `sounds`. Then, click the **Create** button. ![Creating a project](images/create.png)
++ Nomme ton projet `Langue extraterrestre` et configure-le pour apprendre à reconnaître les `sons`. Ensuite, clique sur le bouton **Créer**. ![Créer un projet](images/create.png)
 
-+ You should see `Alien Language` in the projects list. Click on the `Alien Language` project. \--- /task \---
++ Tu devrais voir `Langue extraterrestre` dans la liste des projets. Clique sur le projet `Langue extraterrestre`. --- /task ---
