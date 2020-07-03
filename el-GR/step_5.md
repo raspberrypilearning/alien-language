@@ -1,22 +1,22 @@
-## Train a new machine learning model
-In this step, you will use the examples that you collected in the last step to train the computer how to recognise your new words.
+## Εκπαίδευσε ένα νέο μοντέλο μηχανικής μάθησης
+Σε αυτό το βήμα, θα χρησιμοποιήσεις τα παραδείγματα που δημιούργησες στο τελευταίο βήμα για να εκπαιδεύσεις τον υπολογιστή πώς να αναγνωρίζει τις νέες λέξεις.
 
-\--- task \---
+--- task ---
 
-+ Click the **Back to project** link in the top left-hand corner. ![Arrow pointing to back to project button](images/8-right-annotated.png)
++ Κάνε κλικ στον σύνδεσμο **Επιστροφή στο έργο** στην επάνω αριστερή γωνία. ![Βέλος που δείχνει στο κουμπί "επιστροφή στο έργο"](images/8-right-annotated.png)
 
-+ Click the **Learn & Test** button. ![Arrow pointing to Learn and Test button](images/learn-test-annotated.png)
++ Κάνε κλικ στο κουμπί **Εκμάθηση & Δοκιμή**. ![Βέλος που δείχνει το κουμπί Εκμάθηση και Δοκιμή](images/learn-test-annotated.png)
 
-+ Click on **Train new machine learning model**. This may take a few minutes to complete. ![Arrow pointing to Train new machine learning model](images/train-annotated.png)
++ Κάνε κλικ στο **Εκπαίδευση νέου μοντέλου μηχανικής μάθησης**. Αυτό μπορεί να διαρκέσει μερικά λεπτά για να ολοκληρωθεί. ![Βέλος που δείχνει στο κουμπί Εκπαίδευση νέου μοντέλου μηχανικής μάθησης](images/train-annotated.png)
 
-\--- /task \---
+--- /task ---
 
-\--- task \---
+--- task ---
 
-+ Once the training has finished, click the **Start listening** button to test your machine learning model. Say one of the words (or make one of the sounds) that you have trained the computer to recognise as “left” or “right”. If your machine learning model recognises it, it will display what it thinks you said. ![Arrow pointing to what the computer thinks you did](images/start-listening-annotated.png)
++ Μόλις τελειώσει η εκπαίδευση, κάνε κλικ στο πλήκτρο **Εκκίνηση ακρόασης** για να ελέγξεις το μοντέλο μηχανικής μάθησης. Πες μία από τις λέξεις (ή κάνε έναν από τους ήχους) που έχεις εκπαιδεύσει τον υπολογιστή σου να αναγνωρίζει ως "αριστερά" ή "δεξιά". Αν το μοντέλο της μηχανικής μάθησης το αναγνωρίσει, θα εμφανίσει αυτό που νομίζει ότι είπες. ![Βέλος που δείχνει προς αυτό που ο υπολογιστής πιστεύει ότι είπες](images/start-listening-annotated.png)
 
-+ If you are not happy with how the model is working, go back to the **Train** page and add more examples to all three training buckets.
++ Αν δεν είσαι ευχαριστημένος με το πώς το μοντέλο λειτουργεί, πήγαινε πίσω στην **Εκπαίδευση** και πρόσθεσε περισσότερα παραδείγματα στα τρία σύνολα εκπαίδευσης.
 
-+ When you are happy with your machine learning model, move on to the next step.
++ Όταν είσαι ικανοποιημένος με το μοντέλο μηχανικής μάθησης, προχώρησε στο επόμενο βήμα.
 
-\--- /task \---
+--- /task ---
