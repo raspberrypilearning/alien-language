@@ -2,6 +2,7 @@
 
 --- task ---
 + Va sur [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
+--- /task ---
 
 **Attention :** Cette étape du projet ne peut être effectuée qu'à l'aide du navigateur Web Google Chrome. Si ce navigateur n'est pas à ta disposition, passe à l'[étape 3 : créer un nouveau projet](https://projects.raspberrypi.org/fr-FR/projects/alien-language/3)
 
