@@ -1,22 +1,21 @@
-## Use a pretrained model
+## Utiliser un modèle prédéfini
 
-\--- task \---
-+ Go to [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
-\--- /task \---
+--- task ---
++ Va sur [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_ blank"}
 
-**Warning:** This step of the project can only be completed using the Google Chrome web browser. If this browser is not available to you, please skip to [step 3: Create a new project](https://projects.raspberrypi.org/en/projects/alien-language/3)
+**Attention :** Cette étape du projet ne peut être effectuée qu'à l'aide du navigateur Web Google Chrome. Si ce navigateur n'est pas à ta disposition, passe à l'[étape 3 : créer un nouveau projet](https://projects.raspberrypi.org/en/projects/alien-language/3)
 
-\--- task \---
-+ Next, load the **Speech to Text** extension. Click the **Extensions** button in the bottom left-hand corner, and then choose **Speech to Text** from the list. **Note:** Make sure that you select the **Speech to Text** extension, not the **Text to Speech** extension. ![Arrow pointing to extensions button](images/extensions-annotated.png)
+--- task ---
++ Ensuite, charge l'extension **Synthèse vocale**. Clique sur le bouton **Extensions** dans le coin inférieur gauche, puis choisis **Synthèse vocale** dans la liste. **Remarque :** Assure-toi de bien sélectionner l’extension **Synthèse vocale (Google Chrome browsers only)**. ![Bouton flèche pointant sur les extensions](images/extensions-annotated.png)
 
-+ Use **Events** blocks, **Motions** blocks, and the new **Speech to Text** blocks to create the following scripts. ![New scripts to add](images/S-to-T-blocks.png)
++ Utilise les blocs **Événements**, les blocs **Mouvement** et les nouveaux blocs **Synthèse vocale** pour créer les scripts suivants. ![Nouveaux scripts à ajouter](images/S-to-T-blocks.png)
 
-\--- /task \---
+--- /task ---
 
-\--- task \--- Click on the green flag to test your program. Say “left” or “right”. The Scratch cat should move in the direction that you tell it to. Use your voice to try to move the Scratch cat back and forth across the screen. Try to speak calmly and clearly.
+Clique sur le drapeau vert pour tester ton programme. Dire « gauche » ou « droite ». Le chat Scratch doit se déplacer dans la direction que tu lui demandes. Utilise ta voix pour essayer de déplacer le chat Scratch d'avant en arrière sur l'écran. Essaie de parler calmement et clairement.
 
-It can be difficult to get it to work. If it doesn’t work, add `say` blocks so that your script looks like the script below, to show what it thinks you are saying. ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) \--- /task \---
+Çà peut être difficile de le faire fonctionner. Si cela ne fonctionne pas, ajoute les blocs `dire` afin que ton script ressemble au script ci-dessous, pour montrer ce qu'il pense que tu dis. ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
 
-You have now used speech recognition to control a character in Scratch.
+Tu as maintenant utilisé la reconnaissance vocale pour contrôler un personnage dans Scratch.
 
-In this step, to get your program working quickly, you used a machine learning model that had already been trained for you. It is a general machine learning model that had been trained to recognise words in the English dictionary. 
+Dans cette étape, pour que ton programme fonctionne rapidement, tu as utilisé un modèle d'apprentissage machine qui avait déjà été entraîné pour toi. Il s'agit d'un modèle d'apprentissage machine général qui a été entraîné pour reconnaître les mots du dictionnaire anglais. 
