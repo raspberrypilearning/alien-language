@@ -1,17 +1,17 @@
-## Challenge: add new commands
+## Πρόκληση: πρόσθεσε νέες εντολές
 
-\--- challenge \---
+--- challenge ---
 
-\--- task \---
+--- task ---
 
-+ Now, you could add two more training buckets for “up” and “down”, so that you can control the alien to move in all four directions.
++ Τώρα, θα μπορούσες να προσθέσεις δύο ακόμα σύνολα εκπαίδευσης για το "πάνω" και το "κάτω", έτσι ώστε να μπορείς να κάνεις τον εξωγήινο να κινείται και στις τέσσερις κατευθύνσεις.
 
-\--- /task \---
+--- /task ---
 
-\--- task \---
+--- task ---
 
-+ Can you think of anything else that you could use a machine learning model for?
++ Μπορείς να σκεφτείς κάτι άλλο που θα μπορούσε να χρησιμοποιήσει ένα μοντέλο μηχανικής μάθησης;
 
-\--- /task \---
+--- /task ---
 
-\--- /challenge \---
+--- /challenge ---
