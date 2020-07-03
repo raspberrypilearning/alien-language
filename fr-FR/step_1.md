@@ -1,53 +1,53 @@
 ## Introduction
 
-In this project, you will train the computer to understand an alien language. You will use that to control an alien character so that it can understand what you tell it to do.
+Dans ce projet, tu vas apprendre à l'ordinateur à comprendre une langue extraterrestre. Tu vas utiliser cela pour contrôler un personnage extraterrestre afin qu'il puisse comprendre ce que tu lui dis de faire.
 
-### What you will make
+### Ce que tu feras
 
-\--- no-print \---
+--- no-print ---
 
-![Alien moving left and right to new words, Eeek and Bop](images/journey.gif)
+![L'extraterrestre se déplaçant de gauche à droite pour de nouveaux mots, Eeek et Bop](images/journey.gif)
 
-\--- /no-print \---
+--- /no-print ---
 
-\--- print-only \---
+--- print-only ---
 
-![Overview of entire Scratch project](images/test-new-blocks.png)
+![Vue d'ensemble du projet Scratch complet](images/test-new-blocks.png)
 
-\--- /print-only \---
+--- /print-only ---
 
-\--- collapse \---
+--- collapse ---
 ---
-title: What you will need
----
-
-+ A computer with a microphone
-
-+ Internet access
-
-\--- /collapse \---
-
-\--- collapse \---
----
-title: What you will learn
----
-+ How to use the Speech to Text extension in Scratch 3 with a pretrained model
-+ How to train a machine learning model to recognise sounds
-+ How to use your trained machine learning model in Scratch 3
-
-\--- /collapse \---
-
-\--- collapse \---
----
-title: Additional information for educators
+title: Ce qu'il te faut
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_blank"}.
++ Un ordinateur avec un micro
 
-\--- /collapse \---
++ Un accès à Internet
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Ce que tu vas apprendre
+---
++ Comment utiliser l'extension « Synthèse vocale » dans Scratch 3 avec un modèle prédéfini
++ Comment entraîner un modèle d'apprentissage machine pour reconnaître des sons
++ Comment utiliser ton modèle d'apprentissage machine entraîné dans Scratch 3
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Informations supplémentaires pour les éducateurs
+---
+
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/en/projects/alien-language/print) {:target="_blank"}.
+
+--- /collapse ---
 
 ### Licence
 
-This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
+Ce projet fait l'objet d'une double licence, à la fois sous une licence [Creative Commons Attribution, une licence à part égale et non commerciale](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_ blank"} et une licence [Apache, version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_ blank"}
 
-We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
+Nous aimerions remercier Dale de machinelearningforkids.co.uk pour tout son travail sur ce projet.
