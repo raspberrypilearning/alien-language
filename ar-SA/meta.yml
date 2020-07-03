@@ -1,0 +1,21 @@
+---
+title: لغة غريبة
+hero_image: images/banner.png
+description: قم بإنشاء لغة كائن الفضاء الخاصة بك لتحريك الكائن
+theme: orange
+listed: true
+copyedit: true
+technologies: scratch
+software: scratch
+version: 4.0.0
+last_tested: "2019-06-04"
+steps:
+  - title: المقدمة
+  - title: استخدم نموذجا تم تدريبه مسبقا
+  - title: أنشئ مشروعًا جديدًا
+  - title: إنشاء كلمات كائن الفضاء
+  - title: تدريب نموذج جديد للتعلم الآلي
+  - title: استخدم كلمات كائن الفضاء في Scratch
+  - title: "التحدي: إضافة أوامر جديدة"
+    challenge: true
+  - title: ما التالي؟

@@ -1,0 +1,21 @@
+---
+title: Γλώσσα εξωγήινου
+hero_image: images/banner.png
+description: Δημιούργησε τη δική σου γλώσσα εξωγήινων για να κινείς ένα αντικείμενο
+theme: orange
+listed: true
+copyedit: true
+technologies: scratch
+software: scratch
+version: 4.0.0
+last_tested: "2019-06-04"
+steps:
+  - title: Εισαγωγή
+  - title: Χρησιμοποίησε ένα ήδη εκπαιδευμένο μοντέλο
+  - title: Δημιούργησε ένα νέο έργο
+  - title: Δημιουργία ξένων λέξεων
+  - title: Εκπαίδευσε ένα νέο μοντέλο μηχανικής μάθησης
+  - title: Χρησιμοποίησε εξωγήινες λέξεις στο Scratch
+  - title: "Πρόκληση: πρόσθεσε νέες εντολές"
+    challenge: true
+  - title: Και τώρα;
