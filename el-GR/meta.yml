@@ -1,7 +1,7 @@
 ---
-title: Alien language
+title: Γλώσσα εξωγήινου
 hero_image: images/banner.png
-description: Create your own alien language to move a sprite
+description: Δημιούργησε τη δική σου γλώσσα εξωγήινων για να κινείς ένα αντικείμενο
 theme: orange
 listed: true
 copyedit: true
@@ -11,19 +11,19 @@ version: 4.0.0
 last_tested: "2019-06-04"
 steps:
   - 
-    title: Introduction
+    title: Εισαγωγή
   - 
-    title: Use a pretrained model
+    title: Χρησιμοποίησε ένα ήδη εκπαιδευμένο μοντέλο
   - 
-    title: Create a new project
+    title: Δημιούργησε ένα νέο έργο
   - 
-    title: Create alien words
+    title: Δημιουργία εξωγήινων λέξεων
   - 
-    title: Train a new machine learning model
+    title: Εκπαίδευσε ένα νέο μοντέλο μηχανικής μάθησης
   - 
-    title: Use alien words in Scratch
+    title: Χρησιμοποίησε εξωγήινες λέξεις στο Scratch
   - 
-    title: "Challenge: add new commands"
+    title: "Πρόκληση: πρόσθεσε νέες εντολές"
     challenge: true
   - 
-    title: What next?
+    title: Τι υπάρχει στη συνέχεια;
