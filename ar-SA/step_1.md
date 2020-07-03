@@ -1,53 +1,53 @@
-## Introduction
+## المقدمة
 
-In this project, you will train the computer to understand an alien language. You will use that to control an alien character so that it can understand what you tell it to do.
+في هذا المشروع ، سوف تقوم بتدريب الكمبيوتر لفهم لغة كائن الفضاء. ستستخدم ذلك للتحكم في شخصية غريبة حتى تتمكن من فهم ما تطلب منه للقيام به.
 
-### What you will make
+### ما الذي ستصنعه
 
-\--- no-print \---
+- بدون طباعة -
 
-![Alien moving left and right to new words, Eeek and Bop](images/journey.gif)
+![كائن الفضاء يتحرك يسار ويمين إلى كلمات جديدة ، Eeek و Bop](images/journey.gif)
 
-\--- /no-print \---
+--- /بدون طباعة ---
 
-\--- print-only \---
+--- طباعة فقط ---
 
-![Overview of entire Scratch project](images/test-new-blocks.png)
+![نظرة عامة على مشروع سكراتش بأكمله](images/test-new-blocks.png)
 
-\--- /print-only \---
+--- / للطباعة فقط -
 
-\--- collapse \---
+--- collapse ---
 ---
-title: What you will need
----
-
-+ A computer with a microphone
-
-+ Internet access
-
-\--- /collapse \---
-
-\--- collapse \---
----
-title: What you will learn
----
-+ How to use the Speech to Text extension in Scratch 3 with a pretrained model
-+ How to train a machine learning model to recognise sounds
-+ How to use your trained machine learning model in Scratch 3
-
-\--- /collapse \---
-
-\--- collapse \---
----
-title: Additional information for educators
+title: ما ستحتاج إليه
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_blank"}.
++ كمبيوتر مع ميكروفون
 
-\--- /collapse \---
++ خدمة الإنترنت
 
-### Licence
+--- /collapse ---
 
-This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
+--- collapse ---
+---
+title: ما الذي ستتعلمه
+---
++ كيفية استخدام ملحق الكلام إلى نص في Scratch 3 مع نموذج prerained
++ كيفية تدريب نموذج تعلُّم الآلة للتعرف على الأصوات
++ كيفية استخدام نموذجك في تدريب الالة في سكراتش 3
 
-We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
+--- /collapse ---
+
+--- collapse ---
+---
+title: معلومات إضافية للمعلمين
+---
+
+إذا كنت بحاجة إلى طباعة هذا المشروع ، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_blank"}.
+
+--- /collapse ---
+
+### رخصة
+
+هذا المشروع مرخص بشكل مزدوج بموجب [ ترخيص Creative Commons Attribution Non-Commercial Share-Alike ](http://creativecommons.org/licenses/by-nc-sa/4.0/) {: target = "_ blank"} و [ ترخيص Apache الإصدار 2.0 ](http://www.apache.org/licenses/LICENSE-2.0) {: target = "_ blank"}
+
+نود أن نشكر دايل من machinelearningforkids.co.uk على جميع أعماله في هذا المشروع.
