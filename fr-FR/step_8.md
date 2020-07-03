@@ -1,6 +1,6 @@
-## What next?
+## Et ensuite ?
 
-If you haven't already, try our other machine learning with Scratch projects.
+Si tu ne l'as pas déjà fait, essaie notre autre apprentissage machine avec les projets Scratch.
 
 [Smart Classroom](https://projects.raspberrypi.org/en/projects/smart-classroom)
 
