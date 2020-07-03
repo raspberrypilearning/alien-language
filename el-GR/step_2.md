@@ -1,22 +1,22 @@
-## Use a pretrained model
+## Χρησιμοποίησε ένα ήδη ρυθμισμένο μοντέλο
 
-\--- task \---
-+ Go to [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
-\--- /task \---
+--- task ---
++ Πήγαινε στο [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
+--- /task ---
 
-**Warning:** This step of the project can only be completed using the Google Chrome web browser. If this browser is not available to you, please skip to [step 3: Create a new project](https://projects.raspberrypi.org/en/projects/alien-language/3)
+**Προειδοποίηση:** Αυτό το βήμα του έργου μπορεί να ολοκληρωθεί μόνο χρησιμοποιώντας το πρόγραμμα περιήγησης ιστού Google Chrome. Εάν αυτό το πρόγραμμα περιήγησης δεν είναι διαθέσιμο για σένα, πήγαινε στο [βήμα 3: Δημιούργησε ένα νέο έργο](https://projects.raspberrypi.org/en/projects/alien-language/3)
 
-\--- task \---
-+ Next, load the **Speech to Text** extension. Click the **Extensions** button in the bottom left-hand corner, and then choose **Speech to Text** from the list. **Note:** Make sure that you select the **Speech to Text** extension, not the **Text to Speech** extension. ![Arrow pointing to extensions button](images/extensions-annotated.png)
+--- task ---
++ Στη συνέχεια, φόρτωσε την επέκταση **Κείμενο σε Ομιλία**. Κάνε κλικ στο κουμπί **Προσθήκη Επέκτασης** στην κάτω αριστερή γωνία και, στη συνέχεια, επίλεξε **Ομιλία σε Κείμενο** από τη λίστα. **Σημείωση:** Βεβαιώσου ότι έχεις επιλέξει την επέκταση **Ομιλία σε Κείμενο** και όχι την επέκταση **Κείμενο σε Ομιλία**. ![Βέλος που δείχνει το κουμπί επεκτάσεων](images/extensions-annotated.png)
 
-+ Use **Events** blocks, **Motions** blocks, and the new **Speech to Text** blocks to create the following scripts. ![New scripts to add](images/S-to-T-blocks.png)
++ Χρησιμοποίησε τα μπλοκ από τις κατηγορίες **Συμβάντα**, **Κίνηση** και **Ομιλία σε Κείμενο** για να δημιουργήσεις το παρακάτω σενάριο. ![Νέες εντολές για προσθήκη](images/S-to-T-blocks.png)
 
-\--- /task \---
+--- /task ---
 
-\--- task \--- Click on the green flag to test your program. Say “left” or “right”. The Scratch cat should move in the direction that you tell it to. Use your voice to try to move the Scratch cat back and forth across the screen. Try to speak calmly and clearly.
+--- task --- Κάνε κλικ στην πράσινη σημαία για να ελέγξεις τον κώδικά σου. Πες "left" (αριστερά) ή "right" (δεξιά). Η γάτα του Scratch θα πρέπει να κινηθεί προς την κατεύθυνση στην οποία της λες. Χρησιμοποίησε τη φωνή σου για να μετακινήσεις τη γάτα του Scratch εμπρός και πίσω στην οθόνη. Προσπάθησε να μιλάς ήρεμα και καθαρά.
 
-It can be difficult to get it to work. If it doesn’t work, add `say` blocks so that your script looks like the script below, to show what it thinks you are saying. ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) \--- /task \---
+Μπορεί να είναι δύσκολο να το κάνεις να λειτουργήσει. Εάν δεν λειτουργεί, βάλε μερικά μπλοκ `πες` έτσι ώστε το σενάριό σου να μοιάζει με το παρακάτω σενάριο, για να δείχνει τι πιστεύει ότι λες. ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
 
-You have now used speech recognition to control a character in Scratch.
+Τώρα έχεις χρησιμοποιήσει την αναγνώριση ομιλίας για τον έλεγχο ενός χαρακτήρα στο Scratch.
 
-In this step, to get your program working quickly, you used a machine learning model that had already been trained for you. It is a general machine learning model that had been trained to recognise words in the English dictionary. 
+Σε αυτό το βήμα, για να λειτουργήσει γρήγορα το πρόγραμμά σου, χρησιμοποίησες ένα μοντέλο μηχανικής μάθησης που είχε ήδη εκπαιδευτεί για εσένα. Είναι ένα γενικό μοντέλο μηχανικής μάθησης που έχει εκπαιδευτεί για να αναγνωρίζει λέξεις στο αγγλικό λεξικό. 
