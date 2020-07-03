@@ -4,19 +4,19 @@ In this project, you will train the computer to understand an alien language. Yo
 
 ### What you will make
 
-\--- no-print \---
+--- no-print ---
 
 ![Alien moving left and right to new words, Eeek and Bop](images/journey.gif)
 
-\--- /no-print \---
+--- /no-print ---
 
-\--- print-only \---
+--- print-only ---
 
 ![Overview of entire Scratch project](images/test-new-blocks.png)
 
-\--- /print-only \---
+--- /print-only ---
 
-\--- collapse \---
+--- collapse ---
 ---
 title: What you will need
 ---
@@ -25,9 +25,9 @@ title: What you will need
 
 + Internet access
 
-\--- /collapse \---
+--- /collapse ---
 
-\--- collapse \---
+--- collapse ---
 ---
 title: What you will learn
 ---
@@ -35,16 +35,16 @@ title: What you will learn
 + How to train a machine learning model to recognise sounds
 + How to use your trained machine learning model in Scratch 3
 
-\--- /collapse \---
+--- /collapse ---
 
-\--- collapse \---
+--- collapse ---
 ---
 title: Additional information for educators
 ---
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_blank"}.
 
-\--- /collapse \---
+--- /collapse ---
 
 ### Licence
 
