@@ -1,13 +1,13 @@
 ## Create alien words
 In this step, you will invent your alien words.
 
-\--- task \---
+--- task ---
 
 You need two words — an alien word for “left” and an alien word for “right”. Invent two new words that would not be in an English dictionary. They can be random noises, as long as you can repeat them in the same way every time and they are recognisably different from each other. If you don’t want to make noises with your voice, that’s okay — you can find other ways to make noises. You can click your fingers, clap your hands, squeeze a squeaky toy, or do anything else you can think of! Just make sure that you remember your new words!
 
-\--- /task \---
+--- /task ---
 
-\--- task \---
+--- task ---
 
 + Click the **Train** button to start to collect examples. ![Arrow pointing to the train button](images/click-train.png)
 
@@ -19,9 +19,9 @@ You need two words — an alien word for “left” and an alien word for “rig
 
 + Repeat those steps until you have **at least 8 examples** of background noise. ![bucket filled with 8 background examples](images/8-background.png)
 
-\--- /task \---
+--- /task ---
 
-\--- task \---
+--- task ---
 
 + Click the **Add new label** button in the top right-hand corner, and create a new training bucket called `left`. ![Arrow pointing to the add new label button](images/8-background-annotated.png)
 
@@ -29,10 +29,10 @@ You need two words — an alien word for “left” and an alien word for “rig
 
 + Record **at least 8 examples** of your alien word for “left”. ![bucket filled with 8 left examples](images/8-left.png)
 
-\--- /task \---
+--- /task ---
 
 
-\--- task \---
+--- task ---
 
 + Click the **Add new label** button in the top right-hand corner again, and create a new training bucket called `right`.
 
@@ -42,4 +42,4 @@ You need two words — an alien word for “left” and an alien word for “rig
 
 + **Note:** By the end of this step, you must have eight examples in each of the three buckets.
 
-\--- /task \---
+--- /task ---
