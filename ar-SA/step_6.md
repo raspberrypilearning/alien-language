@@ -1,30 +1,30 @@
-## Use alien words in Scratch
-In this step, you will use your new machine learning in Scratch.
+## استخدم كلمات كائن الفضاء في سكراتش
+في هذه الخطوة ، سوف تستخدم تعلم الآلة الجديد في Scratch.
 
-\--- task \---
+--- task ---
 
-+ Click the **Make** button. ![Arrow pointing to the make button](images/make-annotated.png)
++ انقر فوق الزر **صنع**. ![سهم يشير إلى زر صنع](images/make-annotated.png)
 
-+ Click the **Scratch 3** button, then click on **Open in Scratch 3**.
++ انقر فوق زر **سكراتش 3** ، ثم انقر فوق **فتح في سكراتش 3**.
 
-+ Click on **Project templates** at the top of the screen, then open the **Alien Language** project template.
++ انقر فوق **Project templates** في الجزء العلوي من الشاشة ، ثم اختر مشروع **Alien Language**.
 
-\--- /task \---
+--- /task ---
 
-\--- task \---
+--- task ---
 
-+ Look at the scripts for the alien sprite. The scripts that are already there will put the alien sprite in the right place at the start and animate how it walks. Do not delete them. Add the script below to the alien sprite, underneath the scripts that are already there. ![New scripts to add including new buttons to use your machine learning model](images/add-new-blocks.png)
++ إلقاء نظرة على البرامج النصية لكائن الفضاء. التعليمات البرمجية الموجودة بالفعل ستضع الكائن الفضائي في المكان المناسب في البداية وتحريك كيفية سيره. لا تحذفهم. أضف التعليمات البرمجية أدناه إلى شخصية كائن الفضاء ، أسفل التعليمات البرمجية الموجودة بالفعل. ![اضافة تعليمات برمجية جديدة تحتوي على ازرار تستخدم في تدريب الالة الخاصة بك](images/add-new-blocks.png)
 
-+ Now, test your program! Click on the green flag. Say your words (or make your noises) for “left” and “right” to tell the alien which way to walk.
++ الآن ، اختبر البرنامج الخاص بك! انقر على العلم الأخضر. قل كلماتك (أو قم بأصواتك) "يسار" و "يمين" لتخبر كائن الفضاء اي طريق يمشي.
 
-\--- /task \---
+--- /task ---
 
-You have now trained your own machine learning model to do speech recognition, and used that to control a character in Scratch. Unlike the pretrained model that you used earlier in the project, which had been trained to recognise tens of thousands of words, you have only trained it to recognise two different words. However, the principle is the same.
+لقد قمت الآن بتدريب نموذج تعلم الآلة الخاص بك على التعرف على الكلام واستخدمت ذلك للتحكم في شخصية في سكراتش. على عكس النموذج الذي تم اختباره مسبقًا والذي استخدمته سابقًا في المشروع ، والذي تم تدريبه على التعرف على عشرات الآلاف من الكلمات ، فقد قمت بتدريبه فقط على التعرف على كلمتين مختلفتين. ومع ذلك ، فإن المبدأ هو نفسه.
 
-You have also seen the importance of training the machine learning model to work with a certain background noise.
+لقد رأيت أيضًا أهمية تدريب نموذج تدريب الآلة على التعامل مع ضجيج خلفية اصوات اخرى.
 
-\--- task \---
+--- task ---
 
-Can you think of an example of a system like this that you have seen before? For example, some cars use speech recognition systems that have been trained to recognise the different commands that you can give to the in-car computer. What other examples have you used?
+هل يمكنك التفكير في مثال لنظام مثل هذا الذي رأيته من قبل؟ على سبيل المثال ، تستخدم بعض السيارات أنظمة التعرف على الكلام التي تم تدريبها للتعرف على الأوامر المختلفة التي يمكنك تقديمها للحاسوب الموجود في السيارة. ما هي الأمثلة الأخرى التي استخدمتها؟
 
-\--- /task \---
+---/task---
