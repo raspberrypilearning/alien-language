@@ -1,22 +1,22 @@
-## Train a new machine learning model
-In this step, you will use the examples that you collected in the last step to train the computer how to recognise your new words.
+## تدريب نموذج تعلم الآلة الجديد
+في هذه الخطوة ، سوف تستخدم الأمثلة التي قمت بجمعها في الخطوة الأخيرة لتدريب الكمبيوتر على كيفية التعرف على كلماتك الجديدة.
 
-\--- task \---
+--- task ---
 
-+ Click the **Back to project** link in the top left-hand corner. ![Arrow pointing to back to project button](images/8-right-annotated.png)
++ انقر على الرابط **رجوع إلى المشروع** في الركن الأيسر العلوي. ![سهم يشير إلى العودة إلى زر المشروع](images/8-right-annotated.png)
 
-+ Click the **Learn & Test** button. ![Arrow pointing to Learn and Test button](images/learn-test-annotated.png)
++ انقر فوق زر**تعلم & اختبار**. ![سهم يشير إلى زر التعلم والاختبار](images/learn-test-annotated.png)
 
-+ Click on **Train new machine learning model**. This may take a few minutes to complete. ![Arrow pointing to Train new machine learning model](images/train-annotated.png)
++ انقر على **تدريب نموذج التعلم الآلي الجديد**. قد يستغرق هذا بضع دقائق حتى يكتمل. ![يشير السهم لتدريب نموذج تعلم الآلة الجديد](images/train-annotated.png)
 
-\--- /task \---
+---/task--
 
-\--- task \---
+--- task ---
 
-+ Once the training has finished, click the **Start listening** button to test your machine learning model. Say one of the words (or make one of the sounds) that you have trained the computer to recognise as “left” or “right”. If your machine learning model recognises it, it will display what it thinks you said. ![Arrow pointing to what the computer thinks you did](images/start-listening-annotated.png)
++ وبمجرد الانتهاء من التدريب، انقر فوق زر**بدء الاستماع** لاختبار نموذج تدريب الالة. قل إحدى الكلمات (أو قم بأحد الأصوات) التي قمت بتدريب الحاسوب للتعرف عليها كـ "يسار" أو "يمين". إذا كان نموذج التعلم الآلي الخاص بك يتعرف عليه ، فسيعرض ما يعتقد أنه قلته. ![يشير السهم إلى ما يعتقد الكمبيوتر فعله](images/start-listening-annotated.png)
 
-+ If you are not happy with how the model is working, go back to the **Train** page and add more examples to all three training buckets.
++ إذا لم تكن راضيًا عن كيفية عمل النموذج ، فارجع إلى صفحة **Train** وأضف المزيد من الأمثلة إلى مجموعات التدريب الثلاثة.
 
-+ When you are happy with your machine learning model, move on to the next step.
++ عندما تكون راضيًا عن نموذج التعلم الآلي الخاص بك ، انتقل إلى الخطوة التالية.
 
-\--- /task \---
+--- /task ---
