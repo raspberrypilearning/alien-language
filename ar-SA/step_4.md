@@ -1,45 +1,45 @@
-## Create alien words
-In this step, you will invent your alien words.
+## إنشاء كلمات كائن الفضاء
+في هذه الخطوة ، سوف تخترع كلمات كائن الفضاء.
 
-\--- task \---
+--- task ---
 
-You need two words — an alien word for “left” and an alien word for “right”. Invent two new words that would not be in an English dictionary. They can be random noises, as long as you can repeat them in the same way every time and they are recognisably different from each other. If you don’t want to make noises with your voice, that’s okay — you can find other ways to make noises. You can click your fingers, clap your hands, squeeze a squeaky toy, or do anything else you can think of! Just make sure that you remember your new words!
+تحتاج إلى كلمتين - كلمة كائن الفضاء لل "يسار" وكلمة كائن الفضاء لـل "يمين". اخترع كلمتين جديدتين لن تكونا في قاموس اللغة الإنجليزية. يمكن أن تكون ضوضاء بشكل عشوائي ، طالما يمكنك تكرارها بالطريقة نفسها في كل مرة وتكون مختلفة بشكل ملحوظ عن بعضها البعض. إذا كنت لا تريد أن تصدر أصواتًا بصوتك ، فلا بأس بذلك - يمكنك العثور على طرق أخرى لعمل الضوضاء. يمكنك النقر فوق أصابعك أو تصفيق يديك أو الضغط على لعبة صاربة أو القيام بأي شيء آخر يمكنك التفكير فيه! فقط تأكد من تذكر كلماتك الجديدة!
 
-\--- /task \---
+---/task--
 
-\--- task \---
+--- task ---
 
-+ Click the **Train** button to start to collect examples. ![Arrow pointing to the train button](images/click-train.png)
++ انقر على زر **تدريب** للبدء في جمع الأمثلة. ![سهم يشير إلى زر ملحقات](images/click-train.png)
 
-+ Click the **Add example** button in the **background noise** bucket. Recording background noise will help your machine learning model to tell the difference between the sounds that you will train it to recognise, and the background noise where you are. ![Arrow pointing to the add example button](images/background-noise-annotated.png)
++ انقر على زر **إضافة مثال** لاضافته في **background noise** (المقصود بها المكان الذي انت به خلال تسجيل صوت يختلف عن الكلمتين التي سوف تحرك بها كائن الفضاء). سيساعد تسجيل background noise نموذج تدريب الالة على تحديد الفرق بين الأصوات التي ستقوم بتدريبها للتعرف عليها ، والاصوات التي في مكانك. ![سهم يشير إلى زر إضافة مثال](images/background-noise-annotated.png)
 
-+ Click on the microphone to record 2 seconds of background noise. ![Arrow pointing to microphone button](images/add-example-annotated.png)
++ انقر على الميكروفون لتسجيل ضجيج الخلفية لمدة ثانيتين. ![السهم مشيرا إلى زر الميكروفون](images/add-example-annotated.png)
 
-+ Click the **Add** button to save your recording. ![Arrow pointing to add button](images/save-example-annotated.png)
++ انقر فوق زر **اضافة** لحفظ التسجيل الخاص بك. ![سهم يشير إلى إضافة زر](images/save-example-annotated.png)
 
-+ Repeat those steps until you have **at least 8 examples** of background noise. ![bucket filled with 8 background examples](images/8-background.png)
++ كرر هذه الخطوات حتى يكون لديك **8 أمثلة على الأقل** لضوضاء الخلفية. ![محتوى يحتوي على 8 امثلة](images/8-background.png)
 
-\--- /task \---
+--- /task ---
 
-\--- task \---
+--- task ---
 
-+ Click the **Add new label** button in the top right-hand corner, and create a new training bucket called `left`. ![Arrow pointing to the add new label button](images/8-background-annotated.png)
++ انقر فوق زر **اضافة تسمية جديدة** في أعلى الزاوية اليمنى للصفحة، وانشاء محتوى تدريب جديد باسم`left` يجب ان تكون التسمية باللغة الانكليزية. ![سهم يشير إلى زر إضافة تسمية جديدة](images/8-background-annotated.png)
 
-+ Click the **Add example** button in the new **left** bucket. ![Arrow pointing to the add example button](images/left-empty-annotated.png)
++ انقر على زر**إضافة مثال** الموجود في المحتوى**left** الجديد. ![سهم يشير إلى زر إضافة مثال](images/left-empty-annotated.png)
 
-+ Record **at least 8 examples** of your alien word for “left”. ![bucket filled with 8 left examples](images/8-left.png)
++ سجل ** عن لا يقل عن 8 أمثلة** لكلمة "left" لكائن الفضاء. ![محتو يحتوي على 8 امثلة لكلمة اليسار](images/8-left.png)
 
-\--- /task \---
+--- /task ---
 
 
-\--- task \---
+--- task ---
 
-+ Click the **Add new label** button in the top right-hand corner again, and create a new training bucket called `right`.
++ انقر فوق زر **اضافة تسمية جديدة** في أعلى الزاوية اليمنى للصفحة، وانشاء محتوى تدريب جديد باسم`Right` يجب ان تكون التسمية باللغة الانكليزية.
 
-+ Click the **Add example** button in the new **right** bucket.
++ انقر على زر**إضافة مثال** الموجود في المحتوى**Right** الجديد.
 
-+ Record **at least 8 examples** of your alien word for “right”. ![bucket filled with 8 right examples](images/8-right.png)
++ سجل ** عن لا يقل عن 8 أمثلة** لكلمة "Right" لكائن الفضاء. ![محتو يحتوي على 8 امثلة لكلمة اليمين](images/8-right.png)
 
-+ **Note:** By the end of this step, you must have eight examples in each of the three buckets.
++ **ملاحظة:** بنهاية هذه الخطوة ، يجب أن يكون لديك ثمانية أمثلة في كل محتوى من المجموعات الثلاثة.
 
-\--- /task \---
+---/task---
