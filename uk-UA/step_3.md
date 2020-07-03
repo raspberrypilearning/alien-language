@@ -3,18 +3,18 @@ In the next few steps, you will train a machine learning model to see how it was
 
 First, go to the Machine Learning for Kids website and create a project.
 
-\--- task \---
+--- task ---
 + Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}.
 
 + Click on **Get started**.
 
-+ Click on **Try it now**. \--- /task \---
++ Click on **Try it now**. --- /task ---
 
-\--- task \---
+--- task ---
 + Click on **Projects** in the menu bar at the top of the page.
 
 + Click the **Add a new project** button.
 
 + Name your project `Alien Language` and set it to learn how to recognise `sounds`. Then, click the **Create** button. ![Creating a project](images/create.png)
 
-+ You should see `Alien Language` in the projects list. Click on the `Alien Language` project. \--- /task \---
++ You should see `Alien Language` in the projects list. Click on the `Alien Language` project. --- /task ---
