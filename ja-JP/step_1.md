@@ -1,6 +1,6 @@
 ## はじめに
 
-In this project, you will train the computer to understand an alien language. You will use that to control an alien character so that it can understand what you tell it to do.
+このプロジェクトでは、コンピューターがエイリアンの言葉を理解 (りかい) できるようにトレーニングします。 You will use that to control an alien character so that it can understand what you tell it to do.
 
 ### 作るもの
 
@@ -12,7 +12,7 @@ In this project, you will train the computer to understand an alien language. Yo
 
 --- print-only ---
 
-![Overview of entire Scratch project](images/test-new-blocks.png)
+![Scratch プロジェクト全体の概要 (がいよう)](images/test-new-blocks.png)
 
 --- /print-only ---
 
@@ -21,7 +21,7 @@ In this project, you will train the computer to understand an alien language. Yo
 title: 必要（ひつよう）なもの
 ---
 
-+ A computer with a microphone
++ マイク付きのコンピューター
 
 + インターネットへの接続 (せつぞく)
 
@@ -31,9 +31,9 @@ title: 必要（ひつよう）なもの
 ---
 title: 学ぶこと
 ---
-+ How to use the Speech to Text extension in Scratch 3 with a pretrained model
-+ How to train a machine learning model to recognise sounds
-+ How to use your trained machine learning model in Scratch 3
++ Scratch 3 で事前トレーニングずみモデルを使用して Speech to Text 拡張機能 (かくちょうきのう) を使用する方法
++ 機械学習 (きかいがくしゅう) モデルが音を認識 (にんしき) するようにトレーニングする方法
++ トレーニングした機械学習モデルをScratch 3で使用する方法
 
 --- /collapse ---
 
@@ -48,6 +48,6 @@ title：教育者向けの追加情報
 
 ### ライセンス
 
-This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
+このプロジェクトは、[クリエイティブ・コモンズ 表示 - 非営利 - 継承 ライセンス](http://creativecommons.org/licenses/by-nc-sa/4.0/) {:target="_ blank"}および[ Apache ライセンス・バージョン2.0 ](http://www.apache.org/licenses/LICENSE-2.0){:target="_ blank"} (英語) の両方の下でデュアルライセンスされています。
 
-We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
+このプロジェクトに関するすべてに対して machinelearningforkids.co.uk の Dale 氏に感謝します。
