@@ -1,15 +1,14 @@
-## Use a pretrained model
+## 事前学習ずみのモデルを使用する
 
 --- task ---
-+ Go to [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
---- /task ---
++ ウェブブラウザで [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_ blank"} を開きます。 --- / task ---
 
-**Warning:** This step of the project can only be completed using the Google Chrome web browser. If this browser is not available to you, please skip to [step 3: Create a new project](https://projects.raspberrypi.org/en/projects/alien-language/3)
+**(注意)**プロジェクトのこのステップは、Google Chrome ウェブブラウザ上でしかできません。 Google Chrome ブラウザがない場合は、[ステップ3: 新しいプロジェクトを作成する](https://projects.raspberrypi.org/en/projects/alien-language/3)に進んでください。
 
 --- task ---
-+ Next, load the **Speech to Text** extension. Click the **Extensions** button in the bottom left-hand corner, and then choose **Speech to Text** from the list. **Note:** Make sure that you select the **Speech to Text** extension, not the **Text to Speech** extension. ![Arrow pointing to extensions button](images/extensions-annotated.png)
++ 次に、 **Speech to Text** 拡張機能 (かくちょうきのう) を読みこみます。 左下すみの **拡張機能を追加** (ついか) ボタンをクリックし、リストから **Speech to Text** をえらびます。 **(注)** **音声合成** 拡張機能ではなく、 **Speech to Text** 拡張機能をえらびましょう。 ![拡張機能ボタンを指す矢印 (やじるし)](images/extensions-annotated.png)
 
-+ Use **Events** blocks, **Motions** blocks, and the new **Speech to Text** blocks to create the following scripts. ![New scripts to add](images/S-to-T-blocks.png)
++ Use **Events** blocks, **Motions** blocks, and the new **Speech to Text** blocks to create the following scripts. ![追加する新しいスクリプト](images/S-to-T-blocks.png)
 
 --- /task ---
 
