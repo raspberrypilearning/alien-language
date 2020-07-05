@@ -1,5 +1,5 @@
-## Train a new machine learning model
-In this step, you will use the examples that you collected in the last step to train the computer how to recognise your new words.
+## 新しい機械学習モデルをトレーニングする
+このステップでは、前のステップで収集したサンプルを使用して、コンピューターが新しい単語を認識するようにトレーニングします。
 
 --- task ---
 
