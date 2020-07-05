@@ -1,16 +1,16 @@
-## Challenge: add new commands
+## チャレンジ: 新しいコマンドを追加する
 
 --- challenge ---
 
 --- task ---
 
-+ Now, you could add two more training buckets for “up” and “down”, so that you can control the alien to move in all four directions.
++ 次に、「up」(上) と「down」(下) の2つのトレーニングバケットを追加するとエイリアンを4方向すべてに動かすことができます。
 
 --- /task ---
 
 --- task ---
 
-+ Can you think of anything else that you could use a machine learning model for?
++ 機械学習モデルを使用できるものは他にありますか？
 
 --- /task ---
 
