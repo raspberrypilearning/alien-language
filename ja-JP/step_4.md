@@ -1,45 +1,45 @@
-## Create alien words
-In this step, you will invent your alien words.
+## エイリアン語を作る
+このステップでは、エイリアン語を考え出します。
 
 --- task ---
 
-You need two words — an alien word for “left” and an alien word for “right”. Invent two new words that would not be in an English dictionary. They can be random noises, as long as you can repeat them in the same way every time and they are recognisably different from each other. If you don’t want to make noises with your voice, that’s okay — you can find other ways to make noises. You can click your fingers, clap your hands, squeeze a squeaky toy, or do anything else you can think of! Just make sure that you remember your new words!
+「左」を表すエイリアン語と「右」を表すエイリアン語の2つが必要です。 英語の辞書にはない2つの新しい単語を考え出しましょう。 毎回同じようにくり返すことができて、2つの音がはっきりとちがう音だと認識されるのであれば、でたらめな音でもかまいません。 声を使いたくなくても、だいじょうぶです。ほかにも音を立てる方法があります。 指を鳴らしたり、手をたたいたり、音の出るおもちゃをにぎるなど、何でもかまいません！ ただし、新しい単語 (または音) が何であるかをわすれないように気をつけましょう！
 
 --- /task ---
 
 --- task ---
 
-+ Click the **Train** button to start to collect examples. ![Arrow pointing to the train button](images/click-train.png)
++ **トレーニング** ボタンをクリックして、サンプルの収集 (しゅうしゅう) を開始します。 ![トレーニングボタンを指す矢印](images/click-train.png)
 
-+ Click the **Add example** button in the **background noise** bucket. Recording background noise will help your machine learning model to tell the difference between the sounds that you will train it to recognise, and the background noise where you are. ![Arrow pointing to the add example button](images/background-noise-annotated.png)
++ **background noise** (バックグラウンドノイズ - まわりのざつ音) バケットにある**例 (れい) を追加**ボタンをクリックします。 バックグラウンドノイズを録音 (ろくおん) することで、機械学習モデルが認識するようにトレーニングする音と、今いる場所のバックグラウンドノイズのちがいを区別 (くべつ) するのに役立ちます。 ![「例を追加」ボタンを指す矢印](images/background-noise-annotated.png)
 
-+ Click on the microphone to record 2 seconds of background noise. ![Arrow pointing to microphone button](images/add-example-annotated.png)
++ マイクをクリックして、2秒間のバックグラウンドノイズを録音します。 ![マイクボタンを指す矢印](images/add-example-annotated.png)
 
-+ Click the **Add** button to save your recording. ![Arrow pointing to add button](images/save-example-annotated.png)
++ **追加** ボタンをクリックして、録音を保存します。 ![追加ボタンを指す矢印](images/save-example-annotated.png)
 
-+ Repeat those steps until you have **at least 8 examples** of background noise. ![bucket filled with 8 background examples](images/8-background.png)
++ バックグラウンドノイズの**少なくとも8つのサンプル** ができるまで、この手順 (てじゅん) をくり返します。 ![8つのバックグラウンドノイズのサンプルが入ったバケット](images/8-background.png)
 
 --- /task ---
 
 --- task ---
 
-+ Click the **Add new label** button in the top right-hand corner, and create a new training bucket called `left`. ![Arrow pointing to the add new label button](images/8-background-annotated.png)
++ 右上すみにある**新しいラベルを追加**ボタンをクリックし、 `left` (左) という新しいトレーニングバケットを作成します。 ![「新しいラベルを追加」ボタンを指す矢印](images/8-background-annotated.png)
 
-+ Click the **Add example** button in the new **left** bucket. ![Arrow pointing to the add example button](images/left-empty-annotated.png)
++ 新しい **left**バケットの **例を追加** ボタンをクリックします。 ![「例を追加」ボタンを指す矢印](images/left-empty-annotated.png)
 
-+ Record **at least 8 examples** of your alien word for “left”. ![bucket filled with 8 left examples](images/8-left.png)
++ 「左」を表すエイリアン語の **少なくとも8つのサンプル**を録音します。 ![8つの「左」の音のサンプルが入ったバケット](images/8-left.png)
 
 --- /task ---
 
 
 --- task ---
 
-+ Click the **Add new label** button in the top right-hand corner again, and create a new training bucket called `right`.
++ 右上すみにある**新しいラベルを追加**ボタンをもう一度クリックし、 `right` (右) という新しいトレーニングバケットを作成します。
 
-+ Click the **Add example** button in the new **right** bucket.
++ 新しい **right** バケットの **例を追加** ボタンをクリックします。
 
-+ Record **at least 8 examples** of your alien word for “right”. ![bucket filled with 8 right examples](images/8-right.png)
++ 「右」を表すエイリアン語の **少なくとも8つのサンプル**を録音します。 ![8つの「右」の音のサンプルが入ったバケット](images/8-right.png)
 
-+ **Note:** By the end of this step, you must have eight examples in each of the three buckets.
++ **(注)** このステップを終わる前に、3つのバケットのそれぞれに8つのサンプルが必要です。
 
 --- /task ---
