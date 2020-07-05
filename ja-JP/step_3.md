@@ -1,20 +1,20 @@
-## Create a new project
-In the next few steps, you will train a machine learning model to see how it was done. For the next part of the project, you will use your voice to control an alien character that does not understand English! You will invent two new words that would not be found in an English dictionary. Then, you will use the words to control the alien character, and train a machine learning model to recognise them.
+## 新しいプロジェクトを作成する
+ここからのステップでは、機械学習 (きかいがくしゅう) モデルをトレーニングして、どのように行うのかを見ていきます。 プロジェクトの次の部分では、声を使って、英語 (えいご) が分からないエイリアンのキャラクターを操作 (そうさ) します。 英語の辞書 (じしょ) にはない2つの新しい単語 (たんご) を考え出してください。 その単語を使ってエイリアンのキャラクターを操作します。また機械学習モデルがその単語を認識 (にんしき) するようにトレーニングします。
 
-First, go to the Machine Learning for Kids website and create a project.
-
---- task ---
-+ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}.
-
-+ Click on **Get started**.
-
-+ Click on **Try it now**. --- /task ---
+まず、Machine Learning for Kidsのウェブサイトにアクセスして、プロジェクトを作成します。
 
 --- task ---
-+ Click on **Projects** in the menu bar at the top of the page.
++ ウェブブラウザで [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_ blank"} を開きます。
 
-+ Click the **Add a new project** button.
++ **開始**をクリックします。
 
-+ Name your project `Alien Language` and set it to learn how to recognise `sounds`. Then, click the **Create** button. ![Creating a project](images/create.png)
++ **すぐに試す** (ためす) をクリックします。 --- /task ---
 
-+ You should see `Alien Language` in the projects list. Click on the `Alien Language` project. --- /task ---
+--- task ---
++ ページ上部のメニューバーで**プロジェクト**をクリックします。
+
++ **新しいプロジェクトの追加** (ついか) ボタンをクリックします。
+
++ プロジェクト名に `Alien Language` (エイリアン語) と入力して、 `音声`を認識させるように設定 (せってい) します。(プロジェクト名に日本語は使えません) 次に、 **作成** ボタンをクリックします。 ![プロジェクトを作成する](images/create.png)
+
++ プロジェクトのリストに `Alien Language` が表示 (ひょうじ) されます。 `Alien Language` プロジェクトをクリックします。 --- /task ---
