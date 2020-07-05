@@ -13,18 +13,18 @@
 
 --- task ---
 
-+ エイリアンのスプライトのスクリプトを見てください。 The scripts that are already there will put the alien sprite in the right place at the start and animate how it walks. Do not delete them. Add the script below to the alien sprite, underneath the scripts that are already there. ![機械学習モデルを使用するための新しいボタンをふくむ、追加する新しいスクリプト](images/add-new-blocks.png)
++ エイリアンのスプライトのスクリプトを見てください。 初めから入っているスクリプトは、開始時にエイリアンのスプライトを真ん中に配置 (はいち) し、エイリアンの動き方を決めるものです。 このスクリプトを削除 (さくじょ) しないでください。 エイリアンのスプライトのすでにあるスクリプトの下に、このスクリプトを追加します。 ![機械学習モデルを使用するための新しいボタンをふくむ、追加する新しいスクリプト](images/add-new-blocks.png)
 
-+ Now, test your program! Click on the green flag. Say your words (or make your noises) for “left” and “right” to tell the alien which way to walk.
++ さあ、プログラムをテストしましょう！ 緑の旗 (はた) をクリックします。 「左」と「右」を表す単語を言って（または音を立てて）エイリアンにどちらの方向に歩くかをつたえます。
 
 --- /task ---
 
-You have now trained your own machine learning model to do speech recognition, and used that to control a character in Scratch. Unlike the pretrained model that you used earlier in the project, which had been trained to recognise tens of thousands of words, you have only trained it to recognise two different words. However, the principle is the same.
+これで、音声認識を行うための機械学習モデルをトレーニングし、それを使って Scratch のキャラクターを操作できました。 プロジェクトのステップ2で使った、数万の単語を認識するようにトレーニングされた事前トレーニングモデルとはことなり、ここでは2つのちがう単語を認識するようにトレーニングしただけです。 しかし、原理は同じです。
 
-You have also seen the importance of training the machine learning model to work with a certain background noise.
+また、あるバックグラウンドノイズがあっても動作するように機械学習モデルをトレーニングすることの大切さも分かりました。
 
 --- task ---
 
-Can you think of an example of a system like this that you have seen before? For example, some cars use speech recognition systems that have been trained to recognise the different commands that you can give to the in-car computer. What other examples have you used?
+今までに見たことのあるシステムので、このようなものは思いつきますか？ たとえば、自動車の中には、車載 (しゃさい) コンピューターにつたえることができるさまざまなコマンドを認識するようにトレーニングされた音声認識システムを使用しているものがあります。 他にどのようなものを使ったことがありますか？
 
 --- /task ---
