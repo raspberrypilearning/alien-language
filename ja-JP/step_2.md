@@ -8,14 +8,14 @@
 --- task ---
 + 次に、 **Speech to Text** 拡張機能 (かくちょうきのう) を読みこみます。 左下すみの **拡張機能を追加** (ついか) ボタンをクリックし、リストから **Speech to Text** をえらびます。 **(注)** **音声合成** 拡張機能ではなく、 **Speech to Text** 拡張機能をえらびましょう。 ![拡張機能ボタンを指す矢印 (やじるし)](images/extensions-annotated.png)
 
-+ Use **Events** blocks, **Motions** blocks, and the new **Speech to Text** blocks to create the following scripts. ![追加する新しいスクリプト](images/S-to-T-blocks.png)
++ **イベント** ブロック、 **動き** ブロック、および新しい **音声認識** (にんしき) ブロックを使って、このスクリプトを作成します。　 ![追加する新しいスクリプト](images/S-to-T-blocks.png)
 
 --- /task ---
 
---- task --- Click on the green flag to test your program. Say “left” or “right”. The Scratch cat should move in the direction that you tell it to. Use your voice to try to move the Scratch cat back and forth across the screen. Try to speak calmly and clearly.
+--- task --- 緑の旗 (はた) をクリックしてプログラムをテストします。 マイクに向かって「左」または「右」と言いましょう。 Scratch のネコはあなたが言う方向に動くはずです。 声を使って Scratch のネコを左右に動かしてみてください。 おちついてはっきりと話すようにしましょう。
 
-It can be difficult to get it to work. If it doesn’t work, add `say` blocks so that your script looks like the script below, to show what it thinks you are saying. ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
+場合によってはうまく動かないことがあります。 そのときは、（音声）`と言う`ブロックを追加してみてください。スクリプトはこのようになり、声がスプライトにどう聞こえたかが表示 (ひょうじ) されます。 ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
 
-You have now used speech recognition to control a character in Scratch.
+これで、音声認識を使用して Scratch のキャラクターを操作 (そうさ) できました。
 
-In this step, to get your program working quickly, you used a machine learning model that had already been trained for you. It is a general machine learning model that had been trained to recognise words in the English dictionary. 
+このステップでは、プログラムがすぐにうまく動くように、すでにトレーニングされた機械学習モデルを使用しました。 これは、英語 (えいご) の辞書 (じしょ) にある単語を認識するようにトレーニングされた一般的 (いっぱんてき) な機械学習モデルです。 
