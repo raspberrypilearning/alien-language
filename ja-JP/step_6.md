@@ -1,19 +1,19 @@
-## Use alien words in Scratch
-In this step, you will use your new machine learning in Scratch.
+## Scratch でエイリアン語を使う
+このステップでは、新しい機械学習をScratchで使用します。
 
 --- task ---
 
-+ Click the **Make** button. ![Arrow pointing to the make button](images/make-annotated.png)
++ **プログラム作成** ボタンをクリックします。 ![「プログラム作成」ボタンを指す矢印](images/make-annotated.png)
 
-+ Click the **Scratch 3** button, then click on **Open in Scratch 3**.
++ **Scratch 3** ボタンをクリックしてから、 **Scratch 3で開く**をクリックします。
 
-+ Click on **Project templates** at the top of the screen, then open the **Alien Language** project template.
++ 上部の **プロジェクトテンプレート** をクリックし、 **Alien Language** プロジェクトテンプレートを開きます。
 
 --- /task ---
 
 --- task ---
 
-+ Look at the scripts for the alien sprite. The scripts that are already there will put the alien sprite in the right place at the start and animate how it walks. Do not delete them. Add the script below to the alien sprite, underneath the scripts that are already there. ![New scripts to add including new buttons to use your machine learning model](images/add-new-blocks.png)
++ エイリアンのスプライトのスクリプトを見てください。 The scripts that are already there will put the alien sprite in the right place at the start and animate how it walks. Do not delete them. Add the script below to the alien sprite, underneath the scripts that are already there. ![機械学習モデルを使用するための新しいボタンをふくむ、追加する新しいスクリプト](images/add-new-blocks.png)
 
 + Now, test your program! Click on the green flag. Say your words (or make your noises) for “left” and “right” to tell the alien which way to walk.
 
