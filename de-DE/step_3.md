@@ -1,20 +1,20 @@
-## Create a new project
-In the next few steps, you will train a machine learning model to see how it was done. For the next part of the project, you will use your voice to control an alien character that does not understand English! You will invent two new words that would not be found in an English dictionary. Then, you will use the words to control the alien character, and train a machine learning model to recognise them.
+## Erstelle ein neues Projekt
+In den nächsten Schritten wirst du ein maschinelles Lernmodell trainieren, um zu sehen, wie es erstellt wurde. Im nächsten Teil des Projekts steuerst du mit deiner Stimme einen außerirdischen Charakter, der kein Deutsch versteht! Du wirst zwei neue Wörter erfinden, die in einem deutschen Wörterbuch nicht zu finden sind. Verwende die Wörter anschließend, um den außerirdischen Charakter zu steuern und trainiere ein maschinelles Lernmodell, um sie wieder erkennen zu lassen.
 
-First, go to the Machine Learning for Kids website and create a project.
-
---- task ---
-+ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}.
-
-+ Click on **Get started**.
-
-+ Click on **Try it now**. --- /task ---
+Rufe zunächst die Website für maschinelles Lernen für Kinder auf und erstelle ein Projekt.
 
 --- task ---
-+ Click on **Projects** in the menu bar at the top of the page.
++ Gehe zu [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){: target = "_ blank"}. Ändere die Sprache in der rechten Menüleiste 'Language' auf Deutsch.
 
-+ Click the **Add a new project** button.
++ Klicke auf **Los geht's**.
 
-+ Name your project `Alien Language` and set it to learn how to recognise `sounds`. Then, click the **Create** button. ![Creating a project](images/create.png)
++ Klicke auf **Jetzt testen**. --- /task ---
 
-+ You should see `Alien Language` in the projects list. Click on the `Alien Language` project. --- /task ---
+--- task ---
++ Klicke in der Menüleiste oben auf der Seite auf **Projekte**.
+
++ Klicke auf die Schaltfläche **Erstelle ein neues Projekt**.
+
++ Nenne dein Projekt `Alien Sprache` und lege fest, wie `Sounds` (Geräusche) erkannt werden. Klicke dann auf die Schaltfläche **Erstelle**. ![Ein Projekt erstellen](images/create.png)
+
++ Du solltest `Alien Sprache` in der Projektliste sehen. Klicke auf auf das Projekt `Alien Sprache`. --- /task ---
