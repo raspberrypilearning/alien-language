@@ -1,53 +1,53 @@
-## Introduction
+## Einleitung
 
-In this project, you will train the computer to understand an alien language. You will use that to control an alien character so that it can understand what you tell it to do.
+In diesem Projekt wirst du den Computer trainieren, um eine außerirdische Sprache zu verstehen. Du wirst einen Alien-Charakter steuern, damit dieser versteht, was du ihm sagst.
 
-### What you will make
+### Was du machen wirst
 
 --- no-print ---
 
-![Alien moving left and right to new words, Eeek and Bop](images/journey.gif)
+![Alien bewegt sich nach links und rechts, um neue Wörter zu finden, Eeek und Bop](images/journey.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Overview of entire Scratch project](images/test-new-blocks.png)
+![Übersicht über das gesamte Scratch-Projekt](images/test-new-blocks.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Was du brauchen wirst
 ---
 
-+ A computer with a microphone
++ Ein Computer mit Mikrofon
 
-+ Internet access
++ Einen Internetzugang
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Was du lernen wirst
 ---
-+ How to use the Speech to Text extension in Scratch 3 with a pretrained model
-+ How to train a machine learning model to recognise sounds
-+ How to use your trained machine learning model in Scratch 3
++ Wie du eine Sprache-zu-Text-Erweiterung in Scratch 3 mit einem vorab trainierten Modell benutzt
++ Wie man ein maschinelles Lernmodell trainiert, um Geräusche zu erkennen
++ Wie du dein trainiertes maschinelles Lernmodell in Scratch 3 verwendest
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Zusätzliche Informationen für Pädagogen
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_blank"}.
+Wenn du dieses Projekt ausdrucken möchtest, verwende die [druckerfreundliche Version](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_blank"}.
 
---- /collapse ---
+--- /collapse---
 
-### Licence
+### Lizenz
 
-This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
+Dieses Projekt ist zweifach lizenziert, sowohl unter einer [Creative Commons nicht-kommerziellen Weitergabelizenz](http://creativecommons.org/licenses/by-nc-sa/4.0/){: target = "_ blank"} und einer [Apache Lizenz Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){: target = "_ blank"}
 
-We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
+Wir möchten Dale von machinelearningforkids.co.uk für seine Arbeit an diesem Projekt danken.
