@@ -39,7 +39,7 @@ title: 学ぶこと
 
 --- collapse ---
 ---
-title：教育者向けの追加情報
+title: 教育者向けの追加情報
 ---
 
 このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/ja-JP/projects/alien-language/print){:target="_blank"}を使用してください。
@@ -48,6 +48,6 @@ title：教育者向けの追加情報
 
 ### ライセンス
 
-このプロジェクトは、[クリエイティブ・コモンズ 表示 - 非営利 - 継承 ライセンス](http://creativecommons.org/licenses/by-nc-sa/4.0/) {:target="_ blank"}および[ Apache ライセンス・バージョン2.0 ](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"} (英語) の両方の下でデュアルライセンスされています。
+このプロジェクトは、[クリエイティブ・コモンズ 表示 - 非営利 - 継承 ライセンス](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}および[ Apache ライセンス・バージョン2.0 ](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"} (英語) の両方の下でデュアルライセンスされています。
 
 このプロジェクトに関するすべてに対して machinelearningforkids.co.uk の Dale 氏に感謝します。
