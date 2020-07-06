@@ -1,30 +1,30 @@
-## Use alien words in Scratch
-In this step, you will use your new machine learning in Scratch.
+## Verwende außerirdische Wörter in Scratch
+In diesem Schritt verwendest du dein neues maschinelles Lernen in Scratch.
 
 --- task ---
 
-+ Click the **Make** button. ![Arrow pointing to the make button](images/make-annotated.png)
++ Klicke auf die Schaltfläche **Machen**. ![Pfeil, der auf die Schaltfläche "Machen" zeigt](images/make-annotated.png)
 
-+ Click the **Scratch 3** button, then click on **Open in Scratch 3**.
++ Klicke auf die Schaltfläche **Scratch 3** und dann auf **In Scratch 3 öffnen**.
 
-+ Click on **Project templates** at the top of the screen, then open the **Alien Language** project template.
++ Klicke oben auf dem Bildschirm auf **Projektvorlagen** und öffne dann die Projektvorlage **Alien Language**.
 
 --- /task ---
 
 --- task ---
 
-+ Look at the scripts for the alien sprite. The scripts that are already there will put the alien sprite in the right place at the start and animate how it walks. Do not delete them. Add the script below to the alien sprite, underneath the scripts that are already there. ![New scripts to add including new buttons to use your machine learning model](images/add-new-blocks.png)
++ Schaue dir die Skripte für die Alien-Figur an. Die Skripte, die bereits vorhanden sind, bringen die Alien-Figur zu Beginn an die richtige Stelle und animieren es, wie es läuft. Lösche sie nicht. Füge das folgende Skript unter den Skripten, die bereits vorhanden sind, zu der Alien-Figur hinzu. ![Neue hinzuzufügende Skripte, einschließlich neuer Schaltflächen zur Verwendung deines Modells für maschinelles Lernen](images/add-new-blocks.png)
 
-+ Now, test your program! Click on the green flag. Say your words (or make your noises) for “left” and “right” to tell the alien which way to walk.
++ Teste jetzt dein Programm! Klicke auf die grüne Flagge. Sage deine Worte (oder mache deine Geräusche) für "links" und "rechts", um dem Außerirdischen zu sagen, welchen Weg er gehen sollen.
 
 --- /task ---
 
-You have now trained your own machine learning model to do speech recognition, and used that to control a character in Scratch. Unlike the pretrained model that you used earlier in the project, which had been trained to recognise tens of thousands of words, you have only trained it to recognise two different words. However, the principle is the same.
+Du hast jetzt dein eigenes Modell für maschinelles Lernen für die Spracherkennung trainiert und damit einen Charakter in Scratch gesteuert. Im Gegensatz zu dem zuvor in diesem Projekt verwendeten vortrainierten Modell, das zum Erkennen von Zehntausenden von Wörtern trainiert wurde, wurde es nur zum Erkennen von zwei verschiedenen Wörtern trainiert. Das Prinzip ist jedoch dasselbe.
 
-You have also seen the importance of training the machine learning model to work with a certain background noise.
+Du hast auch erkannt, wie wichtig es ist, das Modell für maschinelles Lernen für die Arbeit mit bestimmten Hintergrundgeräuschen zu trainieren.
 
 --- task ---
 
-Can you think of an example of a system like this that you have seen before? For example, some cars use speech recognition systems that have been trained to recognise the different commands that you can give to the in-car computer. What other examples have you used?
+Kannst du Dir ein Beispiel für ein solches System vorstellen, das du zuvor gesehen hast? Beispielsweise verwenden einige Fahrzeuge Spracherkennungssysteme, die darauf trainiert wurden, die verschiedenen Befehle zu erkennen, die du an den Computer im Auto geben kannst. Welche anderen Beispiele hast Du verwendet?
 
 --- /task ---
