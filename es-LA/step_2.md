@@ -1,22 +1,22 @@
-## Use a pretrained model
+## Usa un modelo preentrenado
 
 --- task ---
-+ Go to [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
++ Ve a [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
 --- /task ---
 
-**Warning:** This step of the project can only be completed using the Google Chrome web browser. If this browser is not available to you, please skip to [step 3: Create a new project](https://projects.raspberrypi.org/en/projects/alien-language/3)
+** Advertencia: ** Este paso del proyecto solo se puede completar usando el navegador web Google Chrome. Si no dispones de este navegador, ve al [paso 3: Crea un nuevo proyecto ](https://projects.raspberrypi.org/en/projects/alien-language/3)
 
 --- task ---
-+ Next, load the **Speech to Text** extension. Click the **Extensions** button in the bottom left-hand corner, and then choose **Speech to Text** from the list. **Note:** Make sure that you select the **Speech to Text** extension, not the **Text to Speech** extension. ![Arrow pointing to extensions button](images/extensions-annotated.png)
++ Luego, carga la extensión **Reconocimiento de voz**. Nota: Puede aparecerte en inglés como "Speech to Text". Haz clic en el botón **Añadir Extensión** en la esquina inferior izquierda y luego elige **Reconocimiento de voz** de la lista. **Nota:** Asegúrate de seleccionar la extensión **Reconocimiento de voz ("Speech to Text")**, no la extensión **Texto a voz**. ![Flecha que apunta al botón de extensiones](images/extensions-annotated.png)
 
-+ Use **Events** blocks, **Motions** blocks, and the new **Speech to Text** blocks to create the following scripts. ![New scripts to add](images/S-to-T-blocks.png)
++ Usa los bloques de **Eventos**, **Movimientos** y los nuevos bloques de **Reconocimiento de voz** para crear los siguientes bloques de código. ![Nuevo código para agregar](images/S-to-T-blocks.png)
 
 --- /task ---
 
---- task --- Click on the green flag to test your program. Say “left” or “right”. The Scratch cat should move in the direction that you tell it to. Use your voice to try to move the Scratch cat back and forth across the screen. Try to speak calmly and clearly.
+--- task --- Haz clic en la bandera verde para probar tu código. Di "izquierda" (left) o "derecha" (right). El gato Scratch debe moverse en la dirección que le pidas. Usa tu voz para intentar mover el gato Scratch de un lado a otro de la pantalla. Intenta hablar con calma y claridad.
 
-It can be difficult to get it to work. If it doesn’t work, add `say` blocks so that your script looks like the script below, to show what it thinks you are saying. ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
+Puede ser difícil hacer que funcione. Si no funciona, añade bloques `decir` para que tu código se vea como el que aparece a continuación, y muestre lo que el programa cree que estás diciendo. ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
 
-You have now used speech recognition to control a character in Scratch.
+Acabas de utilizar el reconocimiento de voz para controlar un personaje en Scratch.
 
-In this step, to get your program working quickly, you used a machine learning model that had already been trained for you. It is a general machine learning model that had been trained to recognise words in the English dictionary. 
+En este paso, para que tu programa funcionara rápidamente, utilizaste un modelo de aprendizaje automático que ya había sido entrenado previamente para ti. Es un modelo general de aprendizaje automático que ha sido entrenado para reconocer palabras de un diccionario en inglés. 
