@@ -1,22 +1,22 @@
-## Use a pretrained model
+## 使用預先準備好的模型
 
 --- task ---
-+ Go to [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
---- /task ---
++ 前往 [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target=“_ blank”}
+--- / task-
 
-**Warning:** This step of the project can only be completed using the Google Chrome web browser. If this browser is not available to you, please skip to [step 3: Create a new project](https://projects.raspberrypi.org/en/projects/alien-language/3)
+**警告：** 專案中的這個步驟只能在 Google Chrome 瀏覽器中執行。 如果你沒有這個瀏覽器，請跳到[步驟3：創造新專案](https://projects.raspberrypi.org/en/projects/alien-language/3)
 
 --- task ---
-+ Next, load the **Speech to Text** extension. Click the **Extensions** button in the bottom left-hand corner, and then choose **Speech to Text** from the list. **Note:** Make sure that you select the **Speech to Text** extension, not the **Text to Speech** extension. ![Arrow pointing to extensions button](images/extensions-annotated.png)
++ 接下來，添加 **語音識別** 的擴展功能。 單擊左下角的 **添加擴展** 按鈕，然後從列表中選擇 **語音識別**。 **注意：** 確保選擇 **語音識別** 擴展功能，而不是 **文字轉語音** 擴展功能。 ![指向擴展按鈕的箭頭](images/extensions-annotated.png)
 
-+ Use **Events** blocks, **Motions** blocks, and the new **Speech to Text** blocks to create the following scripts. ![New scripts to add](images/S-to-T-blocks.png)
++ 使用 **事件** 積木， **動作** 積木和新加入的 **語音識別** 積木來創建以下腳本。 ![要添加的新腳本](images/S-to-T-blocks.png)
 
 --- /task ---
 
---- task --- Click on the green flag to test your program. Say “left” or “right”. The Scratch cat should move in the direction that you tell it to. Use your voice to try to move the Scratch cat back and forth across the screen. Try to speak calmly and clearly.
+--- task --- 點擊綠色旗子來測試你的程式。 說「左」或「右」。 貓咪角色應該會照你指示的方向移動。 試試用你的聲音使貓咪角色在螢幕上來回移動。 試著用冷靜和清晰的語調。
 
-It can be difficult to get it to work. If it doesn’t work, add `say` blocks so that your script looks like the script below, to show what it thinks you are saying. ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
+這操作起來可能很困難。 如果行不通，請添加`說出`積木，你的腳本看起來會像以下腳本，如此貓咪角色上方會顯示他認為你說出的指示。 --- /task ---
 
-You have now used speech recognition to control a character in Scratch.
+現在，你已經學會使用語音識別來控制 Scratch 中的角色。
 
-In this step, to get your program working quickly, you used a machine learning model that had already been trained for you. It is a general machine learning model that had been trained to recognise words in the English dictionary. 
+在此步驟中，為了使程序快速運行，你使用了已訓練的機器學習模型。 這是一種經過訓練以識別詞典中單詞的通用機器學習模型。 
