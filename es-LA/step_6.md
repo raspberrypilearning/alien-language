@@ -7,7 +7,7 @@ En este paso, utilizarás tu nuevo aprendizaje automático en Scratch.
 
 + Haz clic en el botón **Scratch 3**, luego haz clic en **Abrir en Scratch 3**.
 
-+ Haz clic en **Plantillas de proyecto** en la parte superior de la pantalla, luego abre la plantilla de proyecto **Lenguaje alienígena**.
++ Haz clic en **Project templates** (Plantillas de proyecto) en la parte superior de la pantalla, luego abre la plantilla de proyecto **Alien Language** (Lenguaje Alienígena).
 
 --- /task ---
 

@@ -17,4 +17,4 @@ Primero, ve al sitio web Machine Learning for Kids y crea un proyecto.
 
 + Nombra tu proyecto como `Lenguaje Alienígena` y configúralo para aprender a reconocer `sonidos`. Luego, haz clic en el botón **Crear**. ![Creando un proyecto](images/create.png)
 
-+ Deberías ver `Lenguaje alienígena` en la lista de proyectos. Haz clic en el proyecto `Lenguaje Alienígena`. --- /task ---
++ Deberías ver `Lenguaje Alienígena` en la lista de proyectos. Haz clic en el proyecto `Lenguaje Alienígena`. --- /task ---
