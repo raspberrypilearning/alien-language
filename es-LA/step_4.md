@@ -23,9 +23,9 @@ Necesitarás dos palabras: una palabra alienígena para "izquierda" y otra para 
 
 --- task ---
 
-+ Haz clic en el botón **Agregar nueva etiqueta** en la esquina superior derecha y crea un nuevo contenedor de entrenamiento llamado `izquierda`. ![Flecha que apunta al botón agregar nueva etiqueta](images/8-background-annotated.png)
++ Haz clic en el botón **Añadir etiqueta** en la esquina superior derecha y crea un nuevo contenedor de entrenamiento llamado `izquierda`. ![Flecha que apunta al botón agregar nueva etiqueta](images/8-background-annotated.png)
 
-+ Haga clic en el botón **Agregar ejemplo** en el nuevo contenedor para **izquierda**. ![Flecha que apunta al botón agregar ejemplo](images/left-empty-annotated.png)
++ Haga clic en el botón **Añade un ejemplo** en el nuevo contenedor para **izquierda**. ![Flecha que apunta al botón agregar ejemplo](images/left-empty-annotated.png)
 
 + Graba **al menos 8 ejemplos** de tu palabra alienígena para "izquierda". ![contenedor lleno de 8 ejemplos para izquierda](images/8-left.png)
 
@@ -34,9 +34,9 @@ Necesitarás dos palabras: una palabra alienígena para "izquierda" y otra para 
 
 --- task ---
 
-+ Vuelve a hacer clic en el botón **Agregar nueva etiqueta** en la esquina superior derecha y crea un nuevo contenedor de entrenamiento llamado `derecha`.
++ Vuelve a hacer clic en el botón **Añadir etiqueta** en la esquina superior derecha y crea un nuevo contenedor de entrenamiento llamado `derecha`.
 
-+ Haz clic en el botón **Agregar ejemplo** en el nuevo contenedor para **derecha**.
++ Haz clic en el botón **Añade un ejemplo** en el nuevo contenedor para **derecha**.
 
 + Graba **al menos 8 ejemplos** de tu palabra alienígena para "derecha". ![contenedor lleno de 8 ejemplos para derecha](images/8-right.png)
 
