@@ -1,7 +1,7 @@
 ---
-title: Alien language
+title: 外星語
 hero_image: images/banner.png
-description: Create your own alien language to move a sprite
+description: 創建自己的外星語來移動精靈
 theme: orange
 listed: true
 copyedit: true
@@ -11,19 +11,19 @@ version: 4.0.0
 last_tested: "2019-06-04"
 steps:
   - 
-    title: Introduction
+    title: 簡介
   - 
-    title: Use a pretrained model
+    title: 使用預先準備好的模型
   - 
-    title: Create a new project
+    title: 建立一個新的專案
   - 
-    title: Create alien words
+    title: 創建外星詞匯
   - 
-    title: Train a new machine learning model
+    title: 訓練新的機器學習模型
   - 
-    title: Use alien words in Scratch
+    title: 在Scratch中使用外星詞匯
   - 
-    title: "Challenge: add new commands"
+    title: "挑戰：添加新命令"
     challenge: true
   - 
-    title: What next?
+    title: 接下來呢？
