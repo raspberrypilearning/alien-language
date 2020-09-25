@@ -1,8 +1,8 @@
 ---
-title: Alien language
+title: Lenguaje Alienígena
 hero_image: images/banner.png
-description: Create your own alien language to move a sprite
-theme: orange
+description: Crea tu propio lenguaje alienígena para mover un objeto
+theme: naranja
 listed: true
 copyedit: true
 technologies: scratch
@@ -11,19 +11,19 @@ version: 4.0.0
 last_tested: "2019-06-04"
 steps:
   - 
-    title: Introduction
+    title: Introducción
   - 
-    title: Use a pretrained model
+    title: Usa un modelo preentrenado
   - 
-    title: Create a new project
+    title: Crea un nuevo proyecto
   - 
-    title: Create alien words
+    title: Crea palabras alienígenas
   - 
-    title: Train a new machine learning model
+    title: Entrena un nuevo modelo de aprendizaje automático
   - 
-    title: Use alien words in Scratch
+    title: Usa palabras alienígenas en Scratch
   - 
-    title: "Challenge: add new commands"
+    title: "Desafío: añadir nuevos comandos"
     challenge: true
   - 
-    title: What next?
+    title: '¿Qué sigue?'
