@@ -1,5 +1,5 @@
-## Create a new project
-In the next few steps, you will train a machine learning model to see how it was done. For the next part of the project, you will use your voice to control an alien character that does not understand English! You will invent two new words that would not be found in an English dictionary. Then, you will use the words to control the alien character, and train a machine learning model to recognise them.
+## 創建一個新專案
+在接下來的幾個步驟中，你將訓練機器學習模型以了解它是如何完成的。 For the next part of the project, you will use your voice to control an alien character that does not understand English! You will invent two new words that would not be found in an English dictionary. Then, you will use the words to control the alien character, and train a machine learning model to recognise them.
 
 First, go to the Machine Learning for Kids website and create a project.
 
