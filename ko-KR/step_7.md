@@ -1,16 +1,16 @@
-## Challenge: add new commands
+## 도전 과제 : 새로운 명령 추가
 
 --- challenge ---
 
 --- task ---
 
-+ Now, you could add two more training buckets for “up” and “down”, so that you can control the alien to move in all four directions.
++ 이제“위쪽”과 “아래쪽”에 두 개의 훈련 버킷을 더 추가하여 외계인이 네 방향 모두로 움직 이도록 제어 할 수 있습니다.
 
 --- /task ---
 
 --- task ---
 
-+ Can you think of anything else that you could use a machine learning model for?
++ 머신 러닝 모델을 사용할 수있는 다른 것을 생각할 수 있습니까?
 
 --- /task ---
 
