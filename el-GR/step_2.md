@@ -1,4 +1,4 @@
-## Χρησιμοποίησε ένα ήδη ρυθμισμένο μοντέλο
+## Χρησιμοποίησε ένα ήδη εκπαιδευμένο μοντέλο
 
 --- task ---
 + Πήγαινε στο [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
