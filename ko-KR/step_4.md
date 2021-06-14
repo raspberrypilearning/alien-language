@@ -1,45 +1,45 @@
-## Create alien words
-In this step, you will invent your alien words.
+## 외계인 단어 만들기
+이 단계에서는 외계인 단어를 발명합니다.
 
 --- task ---
 
-You need two words — an alien word for “left” and an alien word for “right”. Invent two new words that would not be in an English dictionary. They can be random noises, as long as you can repeat them in the same way every time and they are recognisably different from each other. If you don’t want to make noises with your voice, that’s okay — you can find other ways to make noises. You can click your fingers, clap your hands, squeeze a squeaky toy, or do anything else you can think of! Just make sure that you remember your new words!
+"왼쪽"의 외계인 단어와 "오른쪽"의 외계인 단어가 필요합니다. 영어 사전에없는 두 개의 새로운 단어를 발명하십시오. 매번 같은 방식으로 반복 할 수 있고 서로 구별 할 차이가 있는 한, 임의의 소음일 수 있습니다. 목소리로 소음을 내고 싶지 않다면 괜찮습니다. 다른 소리를내는 방법을 찾을 수 있습니다. 손가락을 클릭하거나 손 cla을 치거나 삐걱 거리는 장난감을 쥐거나 다른 생각을 할 수 있습니다! 새로운 단어를 기억하십시오!
 
 --- /task ---
 
 --- task ---
 
-+ Click the **Train** button to start to collect examples. ![Arrow pointing to the train button](images/click-train.png)
++ **Train** 버튼을 클릭하여 예제 수집을 시작합니다. ![기차 버튼을 가리키는 화살표](images/click-train.png)
 
-+ Click the **Add example** button in the **background noise** bucket. Recording background noise will help your machine learning model to tell the difference between the sounds that you will train it to recognise, and the background noise where you are. ![Arrow pointing to the add example button](images/background-noise-annotated.png)
++ **백그라운드 노이즈** 버킷에서 **예제** 추가 버튼을 클릭하십시오. 배경 소음을 녹음하면 기계 학습 모델이 인식하도록 훈련시킬 소리와 배경 소음 간의 차이를 알 수 있습니다. ![예제 추가 버튼을 가리키는 화살표](images/background-noise-annotated.png)
 
-+ Click on the microphone to record 2 seconds of background noise. ![Arrow pointing to microphone button](images/add-example-annotated.png)
++ 마이크를 클릭하여 2 초의 배경 소음을 녹음합니다. ![마이크 버튼을 가리키는 화살표](images/add-example-annotated.png)
 
-+ Click the **Add** button to save your recording. ![Arrow pointing to add button](images/save-example-annotated.png)
++ **추가** 버튼을 클릭하여 기록을 저장하십시오. ![추가 버튼을 가리키는 화살표](images/save-example-annotated.png)
 
-+ Repeat those steps until you have **at least 8 examples** of background noise. ![bucket filled with 8 background examples](images/8-background.png)
++ **적어도 8개의 예제** 배경 잡음이 될 때까지 이러한 단계를 반복합니다. ![8 개의 백그라운드 예제로 채워진 버킷](images/8-background.png)
 
 --- /task ---
 
 --- task ---
 
-+ Click the **Add new label** button in the top right-hand corner, and create a new training bucket called `left`. ![Arrow pointing to the add new label button](images/8-background-annotated.png)
++ 오른쪽 상단 모서리에있는 **새 레이블 추가** 버튼을 클릭하고 `left`라는 새로운 훈련 바구니를 만듭니다. ![새 라벨 추가 버튼을 가리키는 화살표](images/8-background-annotated.png)
 
-+ Click the **Add example** button in the new **left** bucket. ![Arrow pointing to the add example button](images/left-empty-annotated.png)
++ 새로운 **left** 바구니에서 **예제 추가** 버튼을 클릭하십시오. ![예제 추가 버튼을 가리키는 화살표](images/left-empty-annotated.png)
 
-+ Record **at least 8 examples** of your alien word for “left”. ![bucket filled with 8 left examples](images/8-left.png)
++ **적어도 8개 예제**의 “left”관련 외계인 단어를 기록하십시오. ![8 개의 left 예제로 채워진 바구니](images/8-left.png)
 
 --- /task ---
 
 
 --- task ---
 
-+ Click the **Add new label** button in the top right-hand corner again, and create a new training bucket called `right`.
++ 오른쪽 상단 모서리에있는 **새 레이블 추가** 버튼을 다시 클릭하고 `right`이라는 새 훈련 바구니를 만듭니다.
 
-+ Click the **Add example** button in the new **right** bucket.
++ 새로운 **right** 바구니에서 **예제 추가** 버튼을 클릭하십시오.
 
-+ Record **at least 8 examples** of your alien word for “right”. ![bucket filled with 8 right examples](images/8-right.png)
++ “right”에 관련 외계어의 **적어도 8개의 예제**를 기록하십시오. ![8 가지의 right 예제로 채워진 바구니](images/8-right.png)
 
-+ **Note:** By the end of this step, you must have eight examples in each of the three buckets.
++ **참고:** 이 단계를 마치면, 3 개의 바구니 각각에 8 개의 예제가 있어야합니다.
 
 --- /task ---
