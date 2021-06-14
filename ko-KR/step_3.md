@@ -1,20 +1,20 @@
-## Create a new project
-In the next few steps, you will train a machine learning model to see how it was done. For the next part of the project, you will use your voice to control an alien character that does not understand English! You will invent two new words that would not be found in an English dictionary. Then, you will use the words to control the alien character, and train a machine learning model to recognise them.
+## 새 프로젝트 만들기
+다음 몇 단계에서는 머신 러닝 모델을 학습하여 수행 방법을 확인합니다. 프로젝트의 다음 부분에서는 음성을 사용하여 영어를 이해하지 못하는 외계인 캐릭터를 제어합니다! 영어 사전에는없는 두 개의 새로운 단어를 발명하게됩니다. 그런 다음 단어를 사용하여 외계인 캐릭터를 제어하고 기계 학습 모델을 훈련시켜 이를 인식합니다.
 
-First, go to the Machine Learning for Kids website and create a project.
-
---- task ---
-+ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}.
-
-+ Click on **Get started**.
-
-+ Click on **Try it now**. --- /task ---
+먼저 Machine Learning for Kids 웹 사이트로 이동하여 프로젝트를 작성하십시오.
 
 --- task ---
-+ Click on **Projects** in the menu bar at the top of the page.
++ [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){: target = "_ blank"}로 이동하십시오.
 
-+ Click the **Add a new project** button.
++ **시작하기**를 클릭하십시오.
 
-+ Name your project `Alien Language` and set it to learn how to recognise `sounds`. Then, click the **Create** button. ![Creating a project](images/create.png)
++ **지금 사용해보기**를 클릭하십시오. --- /task ---
 
-+ You should see `Alien Language` in the projects list. Click on the `Alien Language` project. --- /task ---
+--- task ---
++ 페이지 상단의 메뉴 막대에서 **프로젝트** 을 클릭하십시오.
+
++ **새 프로젝트 추가** 버튼을 클릭하십시오.
+
++ 프로젝트의 이름을 `Alien Language` 로 지정하고 `소리를 인식하는 방법을 배우도록 설정하십시오`. 그런 다음 **Create** 버튼을 클릭하십시오. ![프로젝트 만들기](images/create.png)
+
++ 프로젝트 목록에 `Alien Language` 이 표시되어야합니다. `Alien Language` 프로젝트를 클릭하십시오. --- /task ---
