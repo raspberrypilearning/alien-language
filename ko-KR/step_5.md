@@ -1,22 +1,22 @@
-## Train a new machine learning model
-In this step, you will use the examples that you collected in the last step to train the computer how to recognise your new words.
+## 새로운 머신 러닝 모델 훈련
+이 단계에서는 마지막 단계에서 수집 한 예제를 사용하여 컴퓨터에서 새 단어를 인식하는 방법을 학습시킵니다.
 
 --- task ---
 
-+ Click the **Back to project** link in the top left-hand corner. ![Arrow pointing to back to project button](images/8-right-annotated.png)
++ 왼쪽 상단에 있는 **프로젝트로 되돌아가기** 링크를 클릭하십시오. ![프로젝트로 되돌아가는 버튼을 가리키는 화살표](images/8-right-annotated.png)
 
-+ Click the **Learn & Test** button. ![Arrow pointing to Learn and Test button](images/learn-test-annotated.png)
++ **학습하기 & 테스트하기** 버튼을 클릭하십시오. ![학습 및 테스트 버튼을 가리키는 화살표](images/learn-test-annotated.png)
 
-+ Click on **Train new machine learning model**. This may take a few minutes to complete. ![Arrow pointing to Train new machine learning model](images/train-annotated.png)
++ **새 기계 학습 모델 훈련**을 클릭하십시오. 완료하는 데 몇 분이 걸릴 수 있습니다. ![새로운 머신 러닝 모델 훈련을 가리키는 화살표](images/train-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-+ Once the training has finished, click the **Start listening** button to test your machine learning model. Say one of the words (or make one of the sounds) that you have trained the computer to recognise as “left” or “right”. If your machine learning model recognises it, it will display what it thinks you said. ![Arrow pointing to what the computer thinks you did](images/start-listening-annotated.png)
++ 교육이 완료되면 **청취 시작** 버튼을 클릭하여 기계 학습 모델을 테스트하십시오. 컴퓨터가 "왼쪽"또는 "오른쪽"으로 인식하도록 훈련시킨 단어 중 하나 (또는 소리 중 하나)를 말합니다. 머신 러닝 모델이 이를 인식하면, 사용자가 말했다고 생각한 것을 표시합니다. ![컴퓨터에서 사용자가했다고 생각하는 작업을 가리키는 화살표](images/start-listening-annotated.png)
 
-+ If you are not happy with how the model is working, go back to the **Train** page and add more examples to all three training buckets.
++ 모델의 작동 방식이 마음에 들지 않으면, **훈련하기** 페이지로 돌아가서 모든 세 개의 훈련 바구니에 더 많은 예제를 추가하십시오.
 
-+ When you are happy with your machine learning model, move on to the next step.
++ 머신 러닝 모델에 만족하면 다음 단계로 넘어갑니다.
 
 --- /task ---
