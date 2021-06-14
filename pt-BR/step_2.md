@@ -1,22 +1,22 @@
-## Use a pretrained model
+## Use um modelo pré-treinado
 
 --- task ---
-+ Go to [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
++ Vá para [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){: target = "_ blank"}
 --- /task ---
 
-**Warning:** This step of the project can only be completed using the Google Chrome web browser. If this browser is not available to you, please skip to [step 3: Create a new project](https://projects.raspberrypi.org/en/projects/alien-language/3)
+** Aviso: ** Esta etapa do projeto só pode ser concluída usando o navegador Google Chrome. Se este navegador não estiver disponível para você, por favor, pule para [ etapa 3: Criar um novo projeto ](https://projects.raspberrypi.org/en/projects/alien-language/3)
 
 --- task ---
-+ Next, load the **Speech to Text** extension. Click the **Extensions** button in the bottom left-hand corner, and then choose **Speech to Text** from the list. **Note:** Make sure that you select the **Speech to Text** extension, not the **Text to Speech** extension. ![Arrow pointing to extensions button](images/extensions-annotated.png)
++ Em seguida, carregue a extensão **Fala para Texto**. Clique no botão **Extensões** no canto inferior esquerdo e, em seguida, escolha **Fala para texto** na lista. **Nota:** Certifique-se de selecionar a extensão **Fala para texto**, não a extensão **Texto para fala**. ![Arrow pointing to extensions button](images/extensions-annotated.png)
 
-+ Use **Events** blocks, **Motions** blocks, and the new **Speech to Text** blocks to create the following scripts. ![New scripts to add](images/S-to-T-blocks.png)
++ Use blocos de **Eventos**, blocos de **Movimento** e os novos blocos **Fala para Texto** para criar os seguintes scripts. ![New scripts to add](images/S-to-T-blocks.png)
 
 --- /task ---
 
---- task --- Click on the green flag to test your program. Say “left” or “right”. The Scratch cat should move in the direction that you tell it to. Use your voice to try to move the Scratch cat back and forth across the screen. Try to speak calmly and clearly.
+--- task --- Clique na bandeira verde para testar seu programa. Diga "esquerda" ou "direita". O gato do Scratch deve se mover na direção que você disser para ele ir. Use sua voz para tentar mover o gato do Scratch para frente e para trás na tela. Tente falar com calma e clareza.
 
-It can be difficult to get it to work. If it doesn’t work, add `say` blocks so that your script looks like the script below, to show what it thinks you are saying. ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
+Pode ser difícil fazer funcionar. Se não funcionar, adicione os blocos ` diga ` para que seu código se pareça com o código abaixo, para mostrar o que ele acha que você está dizendo. ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
 
-You have now used speech recognition to control a character in Scratch.
+Você agora usou o reconhecimento de fala para controlar um personagem no Scratch.
 
-In this step, to get your program working quickly, you used a machine learning model that had already been trained for you. It is a general machine learning model that had been trained to recognise words in the English dictionary. 
+Nesta etapa, para que seu programa funcione rapidamente, você utilizou um modelo de aprendizado de máquina que já havia sido treinado para você. It is a general machine learning model that had been trained to recognise words in the English dictionary. 
