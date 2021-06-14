@@ -1,53 +1,53 @@
-## Introduction
+## 소개
 
-In this project, you will train the computer to understand an alien language. You will use that to control an alien character so that it can understand what you tell it to do.
+이 프로젝트에서는 외계 언어를 이해하도록 컴퓨터를 훈련시킵니다. 당신이 말하는 것을 이해할 수 있도록 외계인 캐릭터를 통제하기 위해 그것을 사용할 것입니다.
 
-### What you will make
+### 만들 작품
 
 --- no-print ---
 
-![Alien moving left and right to new words, Eeek and Bop](images/journey.gif)
+![새로운 단어 Eeek와 Bop으로 왼쪽과 오른쪽으로 이동하는 외계인](images/journey.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Overview of entire Scratch project](images/test-new-blocks.png)
+![전체 스크래치 프로젝트 개요](images/test-new-blocks.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: 준비물
 ---
 
-+ A computer with a microphone
++ 마이크가 있는 컴퓨터
 
-+ Internet access
++ 인터넷 액세스
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: 배우게 될 것
 ---
-+ How to use the Speech to Text extension in Scratch 3 with a pretrained model
-+ How to train a machine learning model to recognise sounds
-+ How to use your trained machine learning model in Scratch 3
++ 사전 훈련 된 모델로 Scratch 3에서 Speech to Text 확장을 사용하는 방법
++ 소리를 인식하도록 기계 학습 모델을 훈련시키는 방법
++ Scratch 3에서 훈련 된 기계 학습 모델을 사용하는 방법
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: 교육자를 위한 추가 정보
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_blank"}.
+이 프로젝트를 인쇄하려면, [프린트용 버전](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_blank"}을 사용하십시오.
 
 --- /collapse ---
 
-### Licence
+### 라이센스
 
-This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
+이 프로젝트는 [Creative Commons Attribution 비영리 목적 라이센스](http://creativecommons.org/licenses/by-nc-sa/4.0/){: target = "_ blank"} 및 [Apache 라이센스 버전 2.0](http://www.apache.org/licenses/LICENSE-2.0){: target = "_ blank"}에 따라 이중 라이센스가 부여됩니다.
 
-We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
+이 프로젝트에 대한 그의 모든 작업에 대해 machinelearningforkids.co.uk의 Dale에게 감사의 말씀을 전합니다.
