@@ -1,7 +1,7 @@
-## What next?
+## 더 나아가기
 
-If you haven't already, try our other machine learning with Scratch projects.
+아직 못했다면, 스크래치 프로젝트로 다른 머신 러닝을 시도해보십시오.
 
-[Smart Classroom](https://projects.raspberrypi.org/en/projects/smart-classroom)
+[스마트 교실](https://projects.raspberrypi.org/en/projects/smart-classroom)
 
-[Journey to school](https://projects.raspberrypi.org/en/projects/journey-to-school)
+[학교로의 여정](https://projects.raspberrypi.org/en/projects/journey-to-school)
