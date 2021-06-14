@@ -1,29 +1,29 @@
 ---
-title: Alien language
+title: 외계인 언어
 hero_image: images/banner.png
-description: Create your own alien language to move a sprite
+description: 스프라이트를 움직일 수있는 나만의 외국어 만들기
 theme: orange
 listed: true
 copyedit: true
-technologies: scratch
+technologies: 스크래치
 software: scratch
 version: 4.0.0
 last_tested: "2019-06-04"
 steps:
   - 
-    title: Introduction
+    title: 소개
   - 
-    title: Use a pretrained model
+    title: 사전 훈련 된 모델 사용
   - 
-    title: Create a new project
+    title: 새 프로젝트 만들기
   - 
-    title: Create alien words
+    title: 외계인 단어 만들기
   - 
-    title: Train a new machine learning model
+    title: 새로운 머신 러닝 모델 훈련
   - 
-    title: Use alien words in Scratch
+    title: 스크래치에서 외계인 단어 사용
   - 
-    title: "Challenge: add new commands"
+    title: "도전 과제 : 새로운 명령 추가"
     challenge: true
   - 
-    title: What next?
+    title: 더 나아가기
