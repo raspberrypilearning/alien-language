@@ -1,22 +1,22 @@
-## Use a pretrained model
+## 사전 훈련 된 모델 사용
 
 --- task ---
-+ Go to [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
---- /task ---
++ [machinelearningforkids.co.uk/scratch3으로 이동](https://machinelearningforkids.co.uk/scratch3/){: target = "_ blank"}
+--- / task ---
 
-**Warning:** This step of the project can only be completed using the Google Chrome web browser. If this browser is not available to you, please skip to [step 3: Create a new project](https://projects.raspberrypi.org/en/projects/alien-language/3)
+**경고** 이 프로젝트의 이번 단계는 구글 크롬 웹브라우져를 사용해야 완료할 수 있습니다. 이 브라우져를 사용할 수 없는 경우 [단계 3: 새 프로젝트 만들기](https://projects.raspberrypi.org/en/projects/alien-language/3)로 건너 뛰십시오.
 
 --- task ---
-+ Next, load the **Speech to Text** extension. Click the **Extensions** button in the bottom left-hand corner, and then choose **Speech to Text** from the list. **Note:** Make sure that you select the **Speech to Text** extension, not the **Text to Speech** extension. ![Arrow pointing to extensions button](images/extensions-annotated.png)
++ 그런 다음 **Speech to Text** 확장명을 로드하십시오. 왼쪽 하단에서 **확장** 단추를 클릭 한 다음 목록에서 **Speech to Text** 를 선택합니다. **참고 :** **Text to Speech** 확장이 아닌 **Speech to Text** 확장을 선택하십시오. ![확장 버튼을 가리키는 화살표](images/extensions-annotated.png)
 
-+ Use **Events** blocks, **Motions** blocks, and the new **Speech to Text** blocks to create the following scripts. ![New scripts to add](images/S-to-T-blocks.png)
++ **이벤트** 블록, **모션** 블록 및 새로운 **Speech to Text** 블록을 사용하여 다음 스크립트를 작성하십시오. ![추가 할 새로운 스크립트](images/S-to-T-blocks.png)
 
 --- /task ---
 
---- task --- Click on the green flag to test your program. Say “left” or “right”. The Scratch cat should move in the direction that you tell it to. Use your voice to try to move the Scratch cat back and forth across the screen. Try to speak calmly and clearly.
+--- task --- 이제 녹색 깃발을 클릭하여 코드를 실행하십시오. "왼쪽"또는 "오른쪽"이라고 말합니다. 스크래치 고양이는 당신이 말한 방향으로 움직여야 합니다. 음성을 사용하여 스크래치 고양이를 화면에서 앞뒤로 움직여보십시오. 차분하고 명확하게 말해보세요.
 
-It can be difficult to get it to work. If it doesn’t work, add `say` blocks so that your script looks like the script below, to show what it thinks you are saying. ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
+작동시키기가 어려울 수 있습니다. 작동하지 않으면 스크립트가 아래 스크립트처럼 보이도록 `말하기` 블록을 추가하여 사용자가 말하는 것을 보여줍니다. ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
 
-You have now used speech recognition to control a character in Scratch.
+이제 음성 인식을 사용하여 스크래치에서 캐릭터를 제어했습니다.
 
-In this step, to get your program working quickly, you used a machine learning model that had already been trained for you. It is a general machine learning model that had been trained to recognise words in the English dictionary. 
+이 단계에서는 프로그램이 빠르게 작동하도록 하기 위해 이미 훈련 된 기계 학습 모델을 사용했습니다. 이것은 영어 사전에서 단어를 인식하도록 훈련 된 일반적인 기계 학습 모델입니다. 
