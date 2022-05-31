@@ -8,14 +8,18 @@ copyedit: true
 technologies: scratch
 software: scratch
 version: 4.0.0
-last_tested: "2019-06-04"
+last_tested: '2019-06-04'
 steps:
-  - title: भूमिका
-  - title: एक पूर्व प्रशिक्षित मॉडल का उपयोग करें
-  - title: एक नई परियोजना बनाएं
-  - title: एलियन शब्द बनाएं
-  - title: एक नए मशीन लर्निंग मॉडल को प्रशिक्षित करें
-  - title: Scratch में एलियन शब्दों का प्रयोग करें
-  - title: "चुनौती: नए आदेश जोड़ें"
-    challenge: true
-  - title: आगे क्या?
+- title: भूमिका
+- title: एक पूर्व प्रशिक्षित मॉडल का उपयोग करें
+- title: एक नई परियोजना बनाएं
+  completion:
+  - engaged
+- title: एलियन शब्द बनाएं
+- title: एक नए मशीन लर्निंग मॉडल को प्रशिक्षित करें
+- title: Scratch में एलियन शब्दों का प्रयोग करें
+  completion:
+  - internal
+- title: 'चुनौती: नए आदेश जोड़ें'
+  challenge: true
+- title: आगे क्या?

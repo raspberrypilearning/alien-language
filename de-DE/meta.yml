@@ -8,14 +8,18 @@ copyedit: true
 technologies: Scratch
 software: Scratch
 version: 4.0.0
-last_tested: "2019-06-04"
+last_tested: '2019-06-04'
 steps:
-  - title: Einleitung
-  - title: Verwende ein vortrainiertes Modell
-  - title: Erstelle ein neues Projekt
-  - title: Erstelle außerirdische Wörter
-  - title: Trainiere ein neues maschinelles Lernmodell
-  - title: Verwende außerirdische Wörter in Scratch
-  - title: "Herausforderung: Neue Befehle hinzufügen"
-    challenge: true
-  - title: Wie geht es weiter?
+- title: Einleitung
+- title: Verwende ein vortrainiertes Modell
+- title: Erstelle ein neues Projekt
+  completion:
+  - engaged
+- title: Erstelle außerirdische Wörter
+- title: Trainiere ein neues maschinelles Lernmodell
+- title: Verwende außerirdische Wörter in Scratch
+  completion:
+  - internal
+- title: 'Herausforderung: Neue Befehle hinzufügen'
+  challenge: true
+- title: Wie geht es weiter?

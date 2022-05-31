@@ -8,14 +8,18 @@ copyedit: true
 technologies: scratch
 software: scratch
 version: 4.0.0
-last_tested: "2019-06-04"
+last_tested: '2019-06-04'
 steps:
-  - title: Inleiding
-  - title: Gebruik een vooraf getraind model
-  - title: Maak een nieuw project
-  - title: Maak buitenaardse woorden
-  - title: Train een nieuw model voor machine learning
-  - title: Gebruik buitenaardse woorden in Scratch
-  - title: "Uitdaging: voeg nieuwe opdrachten toe"
-    challenge: true
-  - title: Wat kun je verder nog doen?
+- title: Inleiding
+- title: Gebruik een vooraf getraind model
+- title: Maak een nieuw project
+  completion:
+  - engaged
+- title: Maak buitenaardse woorden
+- title: Train een nieuw model voor machine learning
+- title: Gebruik buitenaardse woorden in Scratch
+  completion:
+  - internal
+- title: 'Uitdaging: voeg nieuwe opdrachten toe'
+  challenge: true
+- title: Wat kun je verder nog doen?

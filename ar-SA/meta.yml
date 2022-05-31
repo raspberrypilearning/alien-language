@@ -8,14 +8,18 @@ copyedit: true
 technologies: scratch
 software: scratch
 version: 4.0.0
-last_tested: "2019-06-04"
+last_tested: '2019-06-04'
 steps:
-  - title: المقدمة
-  - title: استخدم نموذجا تم تدريبه مسبقا
-  - title: أنشئ مشروعًا جديدًا
-  - title: إنشاء كلمات كائن الفضاء
-  - title: تدريب نموذج جديد للتعلم الآلي
-  - title: استخدم كلمات كائن الفضاء في Scratch
-  - title: "التحدي: إضافة أوامر جديدة"
-    challenge: true
-  - title: ما التالي؟
+- title: المقدمة
+- title: استخدم نموذجا تم تدريبه مسبقا
+- title: أنشئ مشروعًا جديدًا
+  completion:
+  - engaged
+- title: إنشاء كلمات كائن الفضاء
+- title: تدريب نموذج جديد للتعلم الآلي
+- title: استخدم كلمات كائن الفضاء في Scratch
+  completion:
+  - internal
+- title: 'التحدي: إضافة أوامر جديدة'
+  challenge: true
+- title: ما التالي؟
