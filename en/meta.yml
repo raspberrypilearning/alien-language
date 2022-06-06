@@ -11,13 +11,15 @@ version: 4.0.0
 last_tested: '2019-06-04'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Use a pretrained model
 - title: Create a new project
+  completion:
+  - engaged
 - title: Create alien words
 - title: Train a new machine learning model
-  completion: internal
 - title: Use alien words in Scratch
+  completion:
+  - internal
 - title: 'Challenge: add new commands'
   challenge: true
 - title: What next?

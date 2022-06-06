@@ -11,13 +11,15 @@ version: 4.0.0
 last_tested: '2019-06-04'
 steps:
 - title: はじめに
-  completion: engaged
 - title: 事前学習ずみのモデルを使用する
 - title: 新しいプロジェクトを作成 (さくせい) する
+  completion:
+  - engaged
 - title: エイリアン語を作る
 - title: 新しい機械学習モデルをトレーニングする
-  completion: internal
 - title: Scratch でエイリアン語を使う
+  completion:
+  - internal
 - title: 'チャレンジ: 新しいコマンドを追加する'
   challenge: true
 - title: 次は何をしましょうか？

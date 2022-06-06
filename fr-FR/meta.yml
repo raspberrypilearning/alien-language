@@ -11,13 +11,15 @@ version: 4.0.0
 last_tested: '2019-06-04'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Utiliser un modèle prédéfini
 - title: Créer un nouveau projet
+  completion:
+  - engaged
 - title: Créer des mots extraterrestres
 - title: Entraîner un nouveau modèle d'apprentissage machine
-  completion: internal
 - title: Utiliser des mots extraterrestres dans Scratch
+  completion:
+  - internal
 - title: 'Défi : ajouter de nouvelles commandes'
   challenge: true
 - title: Et ensuite ?

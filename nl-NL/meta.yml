@@ -11,13 +11,15 @@ version: 4.0.0
 last_tested: '2019-06-04'
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Gebruik een vooraf getraind model
 - title: Maak een nieuw project
+  completion:
+  - engaged
 - title: Maak buitenaardse woorden
 - title: Train een nieuw model voor machine learning
-  completion: internal
 - title: Gebruik buitenaardse woorden in Scratch
+  completion:
+  - internal
 - title: 'Uitdaging: voeg nieuwe opdrachten toe'
   challenge: true
 - title: Wat kun je verder nog doen?
