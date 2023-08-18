@@ -1,16 +1,16 @@
-## Challenge: add new commands
+## Desafio: adicionar novos comandos
 
 --- challenge ---
 
---- task ---
+---  task ---
 
-+ Now, you could add two more training buckets for “up” and “down”, so that you can control the alien to move in all four directions.
++ Agora, você pode adicionar mais duas caixas de treinamento para "para cima" e "para baixo", para poder controlar o alienígena a se mover nas quatro direções.
 
 --- /task ---
 
 --- task ---
 
-+ Can you think of anything else that you could use a machine learning model for?
++ Você consegue pensar em outra coisa para a qual poderia usar um modelo de aprendizado de máquina?
 
 --- /task ---
 
