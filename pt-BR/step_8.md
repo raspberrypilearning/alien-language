@@ -1,7 +1,7 @@
-## What next?
+## O que vem a seguir?
 
-If you haven't already, try our other machine learning with Scratch projects.
+Se ainda não o fez, experimente nosso outro aprendizado de máquina com projetos Scratch.
 
-[Smart Classroom](https://projects.raspberrypi.org/en/projects/smart-classroom)
+[Sala de aula inteligente](https://projects.raspberrypi.org/en/projects/smart-classroom)
 
-[Journey to school](https://projects.raspberrypi.org/en/projects/journey-to-school)
+[Viagem à escola](https://projects.raspberrypi.org/en/projects/journey-to-school)
