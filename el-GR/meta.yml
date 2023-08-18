@@ -8,7 +8,7 @@ copyedit: true
 technologies: scratch
 software: scratch
 version: 4.0.0
-last_tested: "2019-06-04"
+last_tested: '2019-06-04'
 steps:
   - 
     title: Εισαγωγή
@@ -16,14 +16,18 @@ steps:
     title: Χρησιμοποίησε ένα ήδη εκπαιδευμένο μοντέλο
   - 
     title: Δημιούργησε ένα νέο έργο
+    completion:
+      - engaged
   - 
     title: Δημιουργία ξένων λέξεων
   - 
     title: Εκπαίδευσε ένα νέο μοντέλο μηχανικής μάθησης
   - 
     title: Χρησιμοποίησε εξωγήινες λέξεις στο Scratch
+    completion:
+      - internal
   - 
-    title: "Πρόκληση: πρόσθεσε νέες εντολές"
+    title: 'Πρόκληση: πρόσθεσε νέες εντολές'
     challenge: true
   - 
     title: Και τώρα;
