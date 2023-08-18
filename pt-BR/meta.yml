@@ -8,7 +8,7 @@ copyedit: true
 technologies: scratch
 software: scratch
 version: 3
-last_tested: "2019-06-04"
+last_tested: '2019-06-04'
 steps:
   - 
     title: Introdução
@@ -16,14 +16,18 @@ steps:
     title: Use um modelo pré-treinado
   - 
     title: Crie um novo projeto
+    completion:
+      - engaged
   - 
     title: Crie palavras alienígenas
   - 
     title: Treine um novo modelo de aprendizado de máquina
   - 
     title: Use palavras alienígenas no Scratch
+    completion:
+      - internal
   - 
-    title: "Desafio: adicionar novos comandos"
+    title: 'Desafio: adicionar novos comandos'
     challenge: true
   - 
     title: O que vem depois?
