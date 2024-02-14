@@ -1,22 +1,22 @@
-## Train a new machine learning model
-In this step, you will use the examples that you collected in the last step to train the computer how to recognise your new words.
+## Addestra un nuovo modello di apprendimento automatico
+In questo passaggio, utilizzerai gli esempi raccolti nell'ultimo passaggio per addestrare il computer a riconoscere le tue nuove parole.
 
 --- task ---
 
-+ Click the **Back to project** link in the top left-hand corner. ![Arrow pointing to back to project button](images/8-right-annotated.png)
++ Fai clic sul link **Ritorna ai progetti** nell'angolo in alto a sinistra. ![Freccia che punta al pulsante ritorna ai progetti](images/8-right-annotated.png)
 
-+ Click the **Learn & Test** button. ![Arrow pointing to Learn and Test button](images/learn-test-annotated.png)
++ Fai clic sul pulsante **Impara & Testa**. ![Freccia che punta al pulsante Impara e Testa](images/learn-test-annotated.png)
 
-+ Click on **Train new machine learning model**. This may take a few minutes to complete. ![Arrow pointing to Train new machine learning model](images/train-annotated.png)
++ Fai clic su **Addestra nuovi modelli di machine learning**. Il completamento potrebbe richiedere alcuni minuti. ![Freccia che punta a Addestra nuovi modelli di machine learning](images/train-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-+ Once the training has finished, click the **Start listening** button to test your machine learning model. Say one of the words (or make one of the sounds) that you have trained the computer to recognise as “left” or “right”. If your machine learning model recognises it, it will display what it thinks you said. ![Arrow pointing to what the computer thinks you did](images/start-listening-annotated.png)
++ Al termine dell'allenamento, fai clic sul pulsante **Inizia ad ascoltare** per testare il tuo modello di apprendimento automatico. Pronuncia una delle parole (o crea uno dei suoni) che hai addestrato il computer a riconoscere come "sinistra" o "destra". Se il tuo modello di apprendimento automatico lo riconosce, mostrerà ciò che pensa tu abbia detto. ![Freccia che indica ciò che il computer pensa tu abbia fatto](images/start-listening-annotated.png)
 
-+ If you are not happy with how the model is working, go back to the **Train** page and add more examples to all three training buckets.
++ Se non sei soddisfatto del funzionamento del modello, torna alla pagina **Addestramento** e aggiungi altri esempi a tutti e tre i riquadri di allenamento.
 
-+ When you are happy with your machine learning model, move on to the next step.
++ Quando sei soddisfatto del tuo modello di apprendimento automatico, vai al passaggio successivo.
 
 --- /task ---
