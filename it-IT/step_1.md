@@ -1,53 +1,53 @@
-## Introduction
+## Introduzione
 
-In this project, you will train the computer to understand an alien language. You will use that to control an alien character so that it can understand what you tell it to do.
+In questo progetto, addestrerai il computer a comprendere una lingua aliena. Lo userai per controllare un personaggio alieno in modo che possa capire cosa gli dici di fare.
 
-### What you will make
+### Che cosa creerai
 
 --- no-print ---
 
-![Alien moving left and right to new words, Eeek and Bop](images/journey.gif)
+![Alieno che si sposta a destra e sinistra con nuove parole, Eeek e Bop](images/journey.gif)
 
 --- /no-print ---
 
 --- print-only ---
 
-![Overview of entire Scratch project](images/test-new-blocks.png)
+![Panoramica dell'intero progetto Scratch](images/test-new-blocks.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Di cosa avrai bisogno
 ---
 
-+ A computer with a microphone
++ Un computer con un microfono
 
-+ Internet access
++ accesso ad Internet
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Cosa imparerai
 ---
-+ How to use the Speech to Text extension in Scratch 3 with a pretrained model
-+ How to train a machine learning model to recognise sounds
-+ How to use your trained machine learning model in Scratch 3
++ Come usare l'estensione Riconoscimento della voce in Scratch 3 con un modello predisposto
++ Come addestrare un modello di apprendimento automatico a riconoscere i suoni
++ Come utilizzare il modello di apprendimento automatico addestrato in Scratch 3
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Informazioni aggiuntive per gli educatori
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_blank"}.
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_blank"}.
 
 --- /collapse ---
 
-### Licence
+### Licenza
 
-This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
+Questo progetto ha una doppia licenza, sia [Licenza Creative Commons Attribution Non-Commercial Share-Alike](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} che [Licenza Apache Versione 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
 
-We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
+Vorremmo ringraziare Dale di machinelearningforkids.co.uk per tutto il suo lavoro su questo progetto.
