@@ -1,45 +1,45 @@
-## Create alien words
-In this step, you will invent your alien words.
+## Crea parole aliene
+In questo passaggio, inventerai le tue parole aliene.
 
 --- task ---
 
-You need two words — an alien word for “left” and an alien word for “right”. Invent two new words that would not be in an English dictionary. They can be random noises, as long as you can repeat them in the same way every time and they are recognisably different from each other. If you don’t want to make noises with your voice, that’s okay — you can find other ways to make noises. You can click your fingers, clap your hands, squeeze a squeaky toy, or do anything else you can think of! Just make sure that you remember your new words!
+Hai bisogno di due parole: una parola aliena per "sinistra" e una parola aliena per "destra". Inventa due nuove parole che non sarebbero presenti in un dizionario italiano. Possono essere rumori casuali, purché tu possa ripeterli nello stesso modo ogni volta e siano riconoscibili l'uno dall'altro. Se non vuoi fare rumori con la tua voce, va bene - puoi trovare altri modi per fare rumori. Puoi schioccare le dita, battere le mani, stringere un giocattolo cigolante o fare qualsiasi altra cosa ti venga in mente! Assicurati solo di ricordare le tue nuove parole!
 
 --- /task ---
 
 --- task ---
 
-+ Click the **Train** button to start to collect examples. ![Arrow pointing to the train button](images/click-train.png)
++ Fai clic sul pulsante **Train** per iniziare a raccogliere esempi. ![Freccia che punta al pulsante dell'addestramento](images/click-train.png)
 
-+ Click the **Add example** button in the **background noise** bucket. Recording background noise will help your machine learning model to tell the difference between the sounds that you will train it to recognise, and the background noise where you are. ![Arrow pointing to the add example button](images/background-noise-annotated.png)
++ Fai clic sul pulsante **Aggiungi un esempio** nel riquadro **background noise**. La registrazione del background noise (rumore di fondo) aiuterà il tuo modello di apprendimento automatico a distinguere tra i suoni che deve riconoscere e il rumore di fondo in cui ti trovi. ![Freccia che punta al pulsante Aggiungi un esempio](images/background-noise-annotated.png)
 
-+ Click on the microphone to record 2 seconds of background noise. ![Arrow pointing to microphone button](images/add-example-annotated.png)
++ Fai clic sul microfono per registrare 2 secondi di rumore di fondo. ![Freccia che punta al pulsante del microfono](images/add-example-annotated.png)
 
-+ Click the **Add** button to save your recording. ![Arrow pointing to add button](images/save-example-annotated.png)
++ Fare clic sul pulsante **Aggiungi** per salvare la registrazione. ![Freccia che punta al pulsante aggiungi](images/save-example-annotated.png)
 
-+ Repeat those steps until you have **at least 8 examples** of background noise. ![bucket filled with 8 background examples](images/8-background.png)
++ Ripeti questi passaggi finché non hai **almeno 8 esempi** di rumore di fondo. ![riquadro riempito con 8 esempi di sottofondo](images/8-background.png)
 
 --- /task ---
 
 --- task ---
 
-+ Click the **Add new label** button in the top right-hand corner, and create a new training bucket called `left`. ![Arrow pointing to the add new label button](images/8-background-annotated.png)
++ Fai clic sul pulsante **Aggiungi una nuova etichetta** nell'angolo in alto a destra e crea un nuovo riquadro di allenamento chiamato `sinistra`. ![Freccia che punta al pulsante Aggiungi una nuova etichetta](images/8-background-annotated.png)
 
-+ Click the **Add example** button in the new **left** bucket. ![Arrow pointing to the add example button](images/left-empty-annotated.png)
++ Fai clic sul pulsante **Aggiungi esempio** nel nuovo riquadro **sinistra**. ![Freccia che punta al pulsante Aggiungi un esempio](images/left-empty-annotated.png)
 
-+ Record **at least 8 examples** of your alien word for “left”. ![bucket filled with 8 left examples](images/8-left.png)
++ Registra **almeno 8 esempi** della tua parola aliena che significa "sinistra". ![riquadro riempito con 8 esempi per sinistra](images/8-left.png)
 
 --- /task ---
 
 
 --- task ---
 
-+ Click the **Add new label** button in the top right-hand corner again, and create a new training bucket called `right`.
++ Fai di nuovo clic sul pulsante **Aggiungi una nuova etichetta** nell'angolo in alto a destra e crea un nuovo riquadro di addestramento chiamato `destra`.
 
-+ Click the **Add example** button in the new **right** bucket.
++ Fai clic sul pulsante **Aggiungi un esempio** nel nuovo riquadro **destra**.
 
-+ Record **at least 8 examples** of your alien word for “right”. ![bucket filled with 8 right examples](images/8-right.png)
++ Registra **almeno 8 esempi** della tua parola aliena che significa "destra". ![riquadro riempito con 8 esempi per destra](images/8-right.png)
 
-+ **Note:** By the end of this step, you must have eight examples in each of the three buckets.
++ **Nota:** Alla fine di questo passaggio, è necessario disporre di otto esempi in ciascuno dei tre riquadri.
 
 --- /task ---
