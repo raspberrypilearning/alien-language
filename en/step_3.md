@@ -27,13 +27,10 @@ Now you will record eight examples of each word so that it can learn to recognis
 
 --- task ---
 + Click on **Add example** and record yourself saying your alien word. 
+
++ Repeat until you have recorded **at least eight examples** of your alien word for "left".
 --- /task ---
 
 --- task ---
-+ Repeat the process to record **at least eight examples** of your alien word for "left".
---- /task ---
-
-
---- task ---
-+ Create another label called `right` and repeat the process to record eight examples of your alien word for "right". 
++ Create another label called `right` and record eight examples of your alien word for "right". 
 --- /task ---
