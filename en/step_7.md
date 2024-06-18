@@ -1,17 +1,7 @@
-## Challenge: add new commands
+## What next?
 
---- challenge ---
+If you haven't already, try our other machine learning with Scratch projects.
 
---- task ---
+[Smart Classroom](https://projects.raspberrypi.org/en/projects/smart-classroom)
 
-+ Now, you could add two more training buckets for “up” and “down”, so that you can control the alien to move in all four directions.
-
---- /task ---
-
---- task ---
-
-+ Can you think of anything else that you could use a machine learning model for?
-
---- /task ---
-
---- /challenge ---
+[Journey to school](https://projects.raspberrypi.org/en/projects/journey-to-school)

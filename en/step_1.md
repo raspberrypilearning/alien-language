@@ -1,6 +1,6 @@
 ## Introduction
 
-Train the computer to understand an alien language and use it to control an alien. 
+Train a machine learning model to recognise an alien language and use it to control an alien. 
 
 --- no-print ---
 

@@ -1,57 +1,27 @@
-## Create alien words
-In this step, you will invent your alien words.
+## Train a new machine learning model
+In this step, you will use the examples that you collected in the last step to train the computer how to recognise your new words.
 
 --- task ---
 
-You need two words — an alien word for “left” and an alien word for “right”. Invent two new words that would not be in an English dictionary. They can be random noises, as long as you can repeat them in the same way every time and they are recognisably different from each other. If you don’t want to make noises with your voice, that’s okay — you can find other ways to make noises. You can click your fingers, clap your hands, squeeze a squeaky toy, or do anything else you can think of!
-Just make sure that you remember your new words!
++ Click the **Back to project** link in the top left-hand corner.
+![Arrow pointing to back to project button](images/8-right-annotated.png)
+
++ Click the **Learn & Test** button.
+![Arrow pointing to Learn and Test button](images/learn-test-annotated.png)
+
++ Click on **Train new machine learning model**. 
+This may take a few minutes to complete.
+![Arrow pointing to Train new machine learning model](images/train-annotated.png)
 
 --- /task ---
 
 --- task ---
 
-+ Click the **Train** button to start to collect examples.
-![Arrow pointing to the train button](images/click-train.png)
++ Once the training has finished, click the **Start listening** button to test your machine learning model. Say one of the words (or make one of the sounds) that you have trained the computer to recognise as “left” or “right”. If your machine learning model recognises it, it will display what it thinks you said.
+![Arrow pointing to what the computer thinks you did](images/start-listening-annotated.png)
 
-+ Click the **Add example** button in the **background noise** bucket. Recording background noise will help your machine learning model to tell the difference between the sounds that you will train it to recognise, and the background noise where you are.
-![Arrow pointing to the add example button](images/background-noise-annotated.png)
++ If you are not happy with how the model is working, go back to the **Train** page and add more examples to all three training buckets.
 
-+ Click on the microphone to record 2 seconds of background noise.
-![Arrow pointing to microphone button](images/add-example-annotated.png)
-
-+ Click the **Add** button to save your recording.
-![Arrow pointing to add button](images/save-example-annotated.png)
-
-+ Repeat those steps until you have **at least 8 examples** of background noise.
-![bucket filled with 8 background examples](images/8-background.png)
-
---- /task ---
-
---- task ---
-
-+ Click the **Add new label** button in the top right-hand corner, and create a new
-training bucket called `left`.
-![Arrow pointing to the add new label button](images/8-background-annotated.png)
-
-+ Click the **Add example** button in the new **left** bucket.
-![Arrow pointing to the add example button](images/left-empty-annotated.png)
-
-+ Record **at least 8 examples** of your alien word for “left”.
-![bucket filled with 8 left examples](images/8-left.png)
-
---- /task ---
-
-
---- task ---
-
-+ Click the **Add new label** button in the top right-hand corner again, and create a new
-training bucket called `right`.
-
-+ Click the **Add example** button in the new **right** bucket.
-
-+ Record **at least 8 examples** of your alien word for “right”.
-![bucket filled with 8 right examples](images/8-right.png)
-
-+ **Note:** By the end of this step, you must have eight examples in each of the three buckets.
++ When you are happy with your machine learning model, move on to the next step.
 
 --- /task ---
