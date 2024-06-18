@@ -2,6 +2,8 @@
 
 Train a machine learning model to recognise an alien language and use it to control an alien. 
 
+To complete this project, you will need a **microphone**.
+
 --- no-print ---
 
 ![Alien moving left and right to new words, Eeek and Bop](images/journey.gif)
