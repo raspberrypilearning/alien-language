@@ -16,7 +16,7 @@ steps:
   completion:
   - engaged
 - title: Train the model
-- title: Use alien words in Scratch
+- title: Control the alien
   completion:
   - internal
 - title: 'Challenge: add new commands'
