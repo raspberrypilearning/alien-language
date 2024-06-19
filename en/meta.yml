@@ -19,6 +19,4 @@ steps:
 - title: Control the alien
   completion:
   - internal
-- title: 'Challenge: add new commands'
-  challenge: true
 - title: What next?
