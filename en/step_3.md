@@ -1,10 +1,9 @@
 ## Invent two words
 
-First, you will collect samples of background noise. This will elp your machine learning model to tell the difference between the sounds that you will train it to recognise, and the background noise where you are.
+First, you will collect samples of background noise. This will help your machine learning model to tell the difference between the sounds that you will train it to recognise, and the background noise where you are.
 
 --- task ---
-+ Click the **Add example** button in **background noise**.
-![Arrow pointing to the add example button](images/background-noise.png)
++ Click the **+ Add example** button in **background noise**.
 
 + Click on the microphone to record 2 seconds of background noise.
 ![Arrow pointing to microphone button](images/record-button.png)
@@ -13,7 +12,7 @@ First, you will collect samples of background noise. This will elp your machine 
 --- /task ---
 
 --- task ---
-+ Repeat those steps until you have **at least 8 examples** of background noise.
++ Repeat those steps until you have **at least eight examples** of background noise.
 ![bucket filled with 8 background examples](images/8-background.png)
 --- /task ---
 
@@ -26,9 +25,9 @@ Now you will record eight examples of each word so that it can learn to recognis
 --- /task ---
 
 --- task ---
-+ Click on **Add example** and record yourself saying your alien word. 
++ Click on **Add example** and record yourself saying your alien word for "left". 
 
-+ Repeat until you have recorded **at least eight examples** of your alien word for "left".
++ Repeat until you have recorded **at least eight examples**.
 --- /task ---
 
 --- task ---

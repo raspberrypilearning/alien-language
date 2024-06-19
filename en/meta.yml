@@ -15,7 +15,7 @@ steps:
 - title: Create alien words
   completion:
   - engaged
-- title: Train a new machine learning model
+- title: Train the model
 - title: Use alien words in Scratch
   completion:
   - internal
