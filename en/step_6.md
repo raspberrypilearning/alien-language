@@ -1,7 +1,8 @@
-## You've completed the project 🎉
+## Challenge
 
-If you are following the [Machine Learning with Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning) pathway, you can move on to the [Smart Assistant](https://projects.raspberrypi.org/en/projects/smart-assistant) project. In this project, you will train a smart assistant to be able to control a light and a fan by typing commands.
+--- challenge ---
+--- task ---
+**Move up and down**: Go back to your model and add two more labels for "up" and "down", then modify your Scratch code so that you can move the alien in all four directions.
+--- /task ---
 
-
-
-
+--- /challenge ---
