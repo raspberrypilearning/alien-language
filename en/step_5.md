@@ -19,7 +19,9 @@ Now that your model can distinguish between words, you can use it in a Scratch p
 ![Alien language project](images/alien-language.png)
 --- /task ---
 
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. 
+Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. This project template also contains special 'walk left' and 'walk right' blocks inside "My blocks". Find both at the bottom of the blocks list.
+
+![New blocks](images/new-blocks.png)
 
 --- task ---
 
