@@ -1,6 +1,6 @@
-## Introduction
+## What you will make
 
-Train a machine learning model to recognise an alien language and use it to control an alien. 
+Train a machine learning model to recognise an alien language and use it in Scratch to control an alien. 
 
 You will need a **microphone**.
 
