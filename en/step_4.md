@@ -19,7 +19,7 @@ Once the training has finished, you can test how well your model recognises the 
 
 + Click the **Start listening** button, then say your alien word for "left". 
 
-If your machine learning model recognises it, it will display what it thinks you said.
+If your machine learning model recognises it, it will display what it predicts you said.
 ![Arrow pointing to the start listening button](images/test-your-model.png)
 
 + Test whether the model recognises your alien word for "right" as well.
