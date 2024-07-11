@@ -16,17 +16,17 @@ Now that your model can distinguish between words, you can use it in a Scratch p
 --- task ---
 + Click on **Project templates** at the top and select the 'Alien language' project to load the alien sprite, which already has some code added. 
 
-![Alien language project](images/alien-language.png)
+![Alien language project is selected in the Scratch templates](images/alien-language.png)
 --- /task ---
 
 Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. This project template also contains special 'walk left' and 'walk right' blocks inside "My Blocks". Find both at the bottom of the blocks list.
 
-![New blocks](images/new-blocks.png)
+![Alien language blocks shown in the menu underneath My Blocks and Images](images/new-blocks.png)
 
 --- task ---
 
 + Make sure you have the **Alien** sprite selected, then click on the **Code** tab and add this code. (Keep the code that is already there!)
-![Add code to control the alien](images/control-alien-blocks.png)
+![Add code to control the alien: When flag clicked, start listening. When I hear left, say left and walk left. When I hear right, say right and walk right.](images/control-alien-blocks.png)
 
 --- /task ---
 

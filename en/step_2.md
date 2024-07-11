@@ -22,11 +22,11 @@
 
 --- task ---
 + Click on the **Train** button.
-![Project main menu](images/project-train.png)
+![Project main menu with an arrow pointing to the train button](images/project-train.png)
 
 + If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
 
-![Allow the microphone](images/allow-microphone.png)
+![Popup asking you to allow the microphone, with an arrow pointing to allow every visit](images/allow-microphone.png)
 --- /task ---
 
 

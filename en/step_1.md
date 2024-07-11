@@ -10,12 +10,6 @@ You will need a **microphone**.
 
 --- /no-print ---
 
---- print-only ---
-
-![Overview of entire Scratch project](images/test-new-blocks.png)
-
---- /print-only ---
-
 --- collapse ---
 ---
 title: License
