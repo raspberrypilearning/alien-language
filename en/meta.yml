@@ -12,7 +12,7 @@ last_tested: '2019-06-04'
 steps:
 - title: What you will make
 - title: Set up the project
-- title: Create alien words
+- title: Invent two words
   completion:
   - engaged
 - title: Train the model
