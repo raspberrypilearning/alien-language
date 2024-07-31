@@ -7,12 +7,9 @@ You will need a **microphone**.
 --- no-print ---
 
 <html>
-  <div style="position: relative; overflow: hidden; padding-top: 177.78%;">
-    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 50%; height: 50%; border: none;" src="https://www.youtube.com/embed/GPWWZrw4Tn0?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-    </iframe>
-  </div>
+    <iframe style="max-width: 448px;" width="100%" height="796" src="https://www.youtube.com/embed/GPWWZrw4Tn0?rel=0&cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+    </iframe>    
 </html>
-
 
 --- /no-print ---
 
