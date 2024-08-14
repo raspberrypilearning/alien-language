@@ -15,6 +15,16 @@ You will need a **microphone**.
 
 --- collapse ---
 ---
+title: No YouTube? Download the videos!
+---
+
+You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/alien-language-go){:target="_blank"}. 
+
+
+--- /collapse ---
+
+--- collapse ---
+---
 title: License
 ---
 
