@@ -16,7 +16,6 @@ title: Where are my voice recordings stored?
 - Our projects do not require you to create an account or log in. For our projects, the examples you use to make the model are only stored temporarily in your browser (only on your machine).
 --- /collapse ---
 
-
 --- collapse ---
 ---
 title: No YouTube? Download the videos!
