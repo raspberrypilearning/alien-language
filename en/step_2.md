@@ -1,29 +1,41 @@
-## Use a pretrained model
+## Set up the project
+
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/KdybBTJ979k?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
+
 
 --- task ---
-+ Go to [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
---- /task ---
++ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser. 
 
-**Warning:** This step of the project can only be completed using the Google Chrome web browser. If this browser is not available to you, please skip to [step 3: Create a new project](https://projects.raspberrypi.org/en/projects/alien-language/3)
++ Click on **Get started**.
 
---- task ---
-+ Next, load the **Speech to Text** extension. Click the **Extensions** button in the bottom left-hand corner, and then choose **Speech to Text** from the list.
-**Note:** Make sure that you select the **Speech to Text** extension, not the **Text to Speech** extension.
-![Arrow pointing to extensions button](images/extensions-annotated.png)
-
-+ Use **Events** blocks, **Motions** blocks, and the new **Speech to Text** blocks to create the following scripts.
-![New scripts to add](images/S-to-T-blocks.png)
-
++ Click on **Try it now**.
 --- /task ---
 
 --- task ---
-Click on the green flag to test your program.
-Say “left” or “right”. The Scratch cat should move in the direction that you tell it to. Use your voice to try to move the Scratch cat back and forth across the screen. Try to speak calmly and clearly.
++ Click on **Projects** in the menu bar at the top.
 
-It can be difficult to get it to work. If it doesn’t work, add `say` blocks so that your script looks like the script below, to show what it thinks you are saying.
-![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png)
++ Click on the **+ Add a new project** button.
+
++ Name your project `Alien language` and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**.
+![Creating a project](images/create-project.png)
+
++ You should now see 'Alien language' in the projects list. Click on the project.
+![Project list with alien language listed](images/projects-list.png)
 --- /task ---
 
-You have now used speech recognition to control a character in Scratch.
+--- task ---
++ Click on the **Train** button.
+![Project main menu with an arrow pointing to the train button](images/project-train.png)
 
-In this step, to get your program working quickly, you used a machine learning model that had already been trained for you. It is a general machine learning model that had been trained to recognise words in the English dictionary. 
++ If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
+
+![Popup asking you to allow the microphone, with an arrow pointing to allow every visit](images/allow-microphone.png)
+--- /task ---
+
+
+
