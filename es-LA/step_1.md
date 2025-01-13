@@ -1,53 +1,44 @@
-## Introducción
+## Lo que harás
 
-En este proyecto, entrenarás a la computadora para que entienda un idioma alienígena. Lo usarás para controlar a un personaje alienígena, de tal manera que pueda entender lo que le digas que haga.
+Train a machine learning model to recognise an alien language and use it in Scratch to control an alien.
 
-### Lo que harás
+You will need a **microphone**.
 
---- no-print ---
-
-![Alienígena moviéndose de izquierda a derecha con nuevas palabras, Eeek y Bop](images/journey.gif)
-
---- /no-print ---
-
---- print-only ---
-
-![Resumen general de todo el proyecto en Scratch](images/test-new-blocks.png)
-
---- /print-only ---
+![An alien moving left and right with the commands Eek and Bop](images/whatyouwillmake.gif)
 
 --- collapse ---
+
 ---
-title: Lo que necesitarás
+title: Where are my voice recordings stored?
 ---
 
-+ Una computadora con un micrófono
-
-+ Conexión a Internet
+- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data.
+- This project does not require you to create an account or log in. For this project, the examples you use to make the model are only stored temporarily in your browser (only on your machine).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Lo que aprenderás
+title: No YouTube? Download the videos!
 ---
-+ Cómo usar la extensión de Reconocimiento de voz en Scratch 3 con un modelo preentrenado
-+ Cómo entrenar un modelo de aprendizaje automático para reconocer sonidos
-+ Cómo usar tu propio modelo de aprendizaje automático entrenado en Scratch 3
+
+You can [download all the videos for this project](https://rpf.io/p/en/alien-language-go){:target="_blank"}.
+
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Información adicional para educadores
+title: License
 ---
 
-Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_blank"}.
-
---- /collapse ---
-
-### Licencia
-
-Este proyecto actúa bajo una doble licencia: [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){: target = "_ blank"} y [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){: target = "_ blank"}
+This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
 
 Nos gustaría dar las gracias a Dale de machinelearningforkids.co.uk por todo su trabajo en este proyecto.
+
+--- /collapse ---
+
+
+
+
+
