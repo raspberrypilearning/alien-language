@@ -1,17 +1,3 @@
-## Desafio: adicionar novos comandos
+## What can you do now?
 
---- challenge ---
-
----  task ---
-
-+ Agora, você pode adicionar mais duas caixas de treinamento para "para cima" e "para baixo", para poder controlar o alienígena a se mover nas quatro direções.
-
---- /task ---
-
---- task ---
-
-+ Você consegue pensar em outra coisa para a qual poderia usar um modelo de aprendizado de máquina?
-
---- /task ---
-
---- /challenge ---
+There are lots of other machine learning and AI projects in the [Machine learning with Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning) pathway.
