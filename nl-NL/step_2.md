@@ -1,22 +1,33 @@
-## Gebruik een vooraf getraind model
+## Set up the project
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/KdybBTJ979k?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
 --- task ---
-+ Ga naar [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_ blank"}
---- / task ---
++ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
 
-**Waarschuwing:** Deze stap van het project kan alleen worden voltooid met de webbrowser Google Chrome. Als deze browser voor jou niet beschikbaar is, ga dan naar [stap 3: Maak een nieuw project](https://projects.raspberrypi.org/en/projects/alien-language/3)
++ Click on **Get started**.
+
++ Click on **Try it now**. --- /task ---
 
 --- task ---
-+ Laad vervolgens de extensie **Spraak naar tekst**. Klik op de knop **Uitbreiding** in de linkerbenedenhoek en kies vervolgens **Spraak naar tekst** in de lijst. **Opmerking:** Zorg ervoor dat je de extensie **Spraak naar tekst** selecteert, en niet de extensie **Tekst naar spraak**. ![Pijl wijzend naar extensies knop](images/extensions-annotated.png)
++ Click on **Projects** in the menu bar at the top.
 
-+ Gebruik **Gebeurtenissen** blokken, **Beweging** blokken en de nieuwe **Spraak naar tekst** blokken om de volgende scripts te maken. ![Nieuwe scripts om toe te voegen](images/S-to-T-blocks.png)
++ Click on the **+ Add a new project** button.
 
---- /task ---
++ Name your project `Alien language` and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**. ![Creating a project](images/create-project.png)
 
---- task --- Klik op de groene vlag om je programma te testen. Zeg "links" of "rechts". De Scratch-kat zou in de richting moeten gaan die jij zegt. Gebruik je stem om de Scratch-kat over het scherm heen en weer te bewegen. Probeer kalm en duidelijk te spreken.
++ You should now see 'Alien language' in the projects list. Click on the project. ![Project list with alien language listed](images/projects-list.png) --- /task ---
 
-Het kan moeilijk zijn om het te laten werken. Als het niet werkt, voeg dan `zeg` blokken toe zodat je script eruitziet als het onderstaande script, om te laten zien wat het denkt dat je zegt. ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
+--- task ---
++ Click on the **Train** button. ![Project main menu with an arrow pointing to the train button](images/project-train.png)
 
-Je hebt nu spraakherkenning gebruikt om een karakter in Scratch te besturen.
++ If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
 
-In deze stap gebruikte je een machine learning-model dat al voor jouw was getraind om je programma snel te laten werken. Het is een algemeen model voor machine learning dat is getraind om woorden in het Engelse woordenboek te herkennen. 
+![Popup asking you to allow the microphone, with an arrow pointing to allow every visit](images/allow-microphone.png) --- /task ---
+
+
+
