@@ -1,45 +1,36 @@
-## Crea parole aliene
-In questo passaggio, inventerai le tue parole aliene.
+## Train the model
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/o4J5c0o5lVE?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
+
+You have gathered the examples you need, now you will use these examples to train your machine learning model.
 
 --- task ---
 
-Hai bisogno di due parole: una parola aliena per "sinistra" e una parola aliena per "destra". Inventa due nuove parole che non sarebbero presenti in un dizionario italiano. Possono essere rumori casuali, purché tu possa ripeterli nello stesso modo ogni volta e siano riconoscibili l'uno dall'altro. Se non vuoi fare rumori con la tua voce, va bene - puoi trovare altri modi per fare rumori. Puoi schioccare le dita, battere le mani, stringere un giocattolo cigolante o fare qualsiasi altra cosa ti venga in mente! Assicurati solo di ricordare le tue nuove parole!
++ Click on **Back to project** in the top left-hand corner.
+
++ Click on **Learn & Test**.
+
++ Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete. ![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
 
 --- /task ---
+
+Once the training has finished, you can test how well your model recognises the alien words you have invented.
 
 --- task ---
 
-+ Fai clic sul pulsante **Train** per iniziare a raccogliere esempi. ![Freccia che punta al pulsante dell'addestramento](images/click-train.png)
++ Click the **Start listening** button, then say your alien word for "left".
 
-+ Fai clic sul pulsante **Aggiungi un esempio** nel riquadro **background noise**. La registrazione del background noise (rumore di fondo) aiuterà il tuo modello di apprendimento automatico a distinguere tra i suoni che deve riconoscere e il rumore di fondo in cui ti trovi. ![Freccia che punta al pulsante Aggiungi un esempio](images/background-noise-annotated.png)
+If your machine learning model recognises it, it will display what it predicts you said. ![Arrow pointing to the start listening button](images/test-your-model.png)
 
-+ Fai clic sul microfono per registrare 2 secondi di rumore di fondo. ![Freccia che punta al pulsante del microfono](images/add-example-annotated.png)
-
-+ Fare clic sul pulsante **Aggiungi** per salvare la registrazione. ![Freccia che punta al pulsante aggiungi](images/save-example-annotated.png)
-
-+ Ripeti questi passaggi finché non hai **almeno 8 esempi** di rumore di fondo. ![riquadro riempito con 8 esempi di sottofondo](images/8-background.png)
++ Test whether the model recognises your alien word for "right" as well.
 
 --- /task ---
 
---- task ---
-
-+ Fai clic sul pulsante **Aggiungi una nuova etichetta** nell'angolo in alto a destra e crea un nuovo riquadro di allenamento chiamato `sinistra`. ![Freccia che punta al pulsante Aggiungi una nuova etichetta](images/8-background-annotated.png)
-
-+ Fai clic sul pulsante **Aggiungi esempio** nel nuovo riquadro **sinistra**. ![Freccia che punta al pulsante Aggiungi un esempio](images/left-empty-annotated.png)
-
-+ Registra **almeno 8 esempi** della tua parola aliena che significa "sinistra". ![riquadro riempito con 8 esempi per sinistra](images/8-left.png)
-
---- /task ---
+If you are not happy with how the model is working, go back to the **Train** page and add more examples, then train your model again.
 
 
---- task ---
 
-+ Fai di nuovo clic sul pulsante **Aggiungi una nuova etichetta** nell'angolo in alto a destra e crea un nuovo riquadro di addestramento chiamato `destra`.
-
-+ Fai clic sul pulsante **Aggiungi un esempio** nel nuovo riquadro **destra**.
-
-+ Registra **almeno 8 esempi** della tua parola aliena che significa "destra". ![riquadro riempito con 8 esempi per destra](images/8-right.png)
-
-+ **Nota:** Alla fine di questo passaggio, è necessario disporre di otto esempi in ciascuno dei tre riquadri.
-
---- /task ---
