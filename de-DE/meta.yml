@@ -11,23 +11,23 @@ version: 4.0.0
 last_tested: '2019-06-04'
 steps:
   - 
-    title: Einleitung
+    title: What you will make
   - 
-    title: Verwende ein trainiertes Modell
+    title: Set up the project
   - 
-    title: Erstelle ein neues Projekt
+    title: Invent two words
     completion:
       - engaged
   - 
-    title: Erstelle außerirdische Wörter
+    title: Train the model
   - 
-    title: Trainiere ein neues maschinelles Lernmodell
-  - 
-    title: Verwende Wörter von Außerirdischen in Scratch
+    title: Control the alien
     completion:
       - internal
   - 
-    title: 'Herausforderung: Neue Befehle hinzufügen'
+    title: 'Challenge'
     challenge: true
   - 
-    title: Was kommt als Nächstes?
+    title: What can you do now?
+    completion:
+      - external
