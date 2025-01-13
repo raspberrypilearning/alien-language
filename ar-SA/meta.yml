@@ -11,23 +11,23 @@ version: 4.0.0
 last_tested: '2019-06-04'
 steps:
   - 
-    title: المقدمة
+    title: What you will make
   - 
-    title: استخدم نموذجا تم تدريبه مسبقا
+    title: Set up the project
   - 
-    title: أنشئ مشروعًا جديدًا
+    title: Invent two words
     completion:
       - engaged
   - 
-    title: إنشاء كلمات كائن الفضاء
+    title: Train the model
   - 
-    title: تدريب نموذج جديد للتعلم الآلي
-  - 
-    title: استخدم كلمات كائن الفضاء في Scratch
+    title: Control the alien
     completion:
       - internal
   - 
-    title: 'التحدي: إضافة أوامر جديدة'
+    title: 'Challenge'
     challenge: true
   - 
-    title: ما التالي؟
+    title: What can you do now?
+    completion:
+      - external
