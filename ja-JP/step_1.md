@@ -1,53 +1,44 @@
-## はじめに
+## 作るもの
 
-このプロジェクトでは、コンピューターがエイリアンの言葉を理解 (りかい) できるようにトレーニングします。 それにより、エイリアンがあなたの指示 (しじ) したことを理解しているかのようにエイリアンのキャラクターを動かすことができます。
+Train a machine learning model to recognise an alien language and use it in Scratch to control an alien.
 
-### 作るもの
+You will need a **microphone**.
 
---- no-print ---
-
-![新しい単語「Eeek」と「Bop」で左右に動くエイリアン](images/journey.gif)
-
---- /no-print ---
-
---- print-only ---
-
-![Scratch プロジェクト全体の概要 (がいよう)](images/test-new-blocks.png)
-
---- /print-only ---
+![An alien moving left and right with the commands Eek and Bop](images/whatyouwillmake.gif)
 
 --- collapse ---
+
 ---
-title: 必要（ひつよう）なもの
+title: Where are my voice recordings stored?
 ---
 
-+ マイク付きのコンピューター
-
-+ インターネットへの接続 (せつぞく)
+- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data.
+- This project does not require you to create an account or log in. For this project, the examples you use to make the model are only stored temporarily in your browser (only on your machine).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: 学ぶこと
+title: No YouTube? Download the videos!
 ---
-+ Scratch 3 で事前トレーニングずみモデルを使用して Speech to Text 拡張機能 (かくちょうきのう) を使用する方法
-+ 機械学習 (きかいがくしゅう) モデルが音を認識 (にんしき) するようにトレーニングする方法
-+ トレーニングした機械学習モデルをScratch 3で使用する方法
+
+You can [download all the videos for this project](https://rpf.io/p/en/alien-language-go){:target="_blank"}.
+
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title：教育者向けの追加情報
+title: License
 ---
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_ blank"}を使用してください。
-
---- /collapse ---
-
-### ライセンス
-
-このプロジェクトは、[クリエイティブ・コモンズ 表示 - 非営利 - 継承 ライセンス](http://creativecommons.org/licenses/by-nc-sa/4.0/) {:target="_ blank"}および[ Apache ライセンス・バージョン2.0 ](http://www.apache.org/licenses/LICENSE-2.0){:target="_ blank"} (英語) の両方の下でデュアルライセンスされています。
+This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
 
 このプロジェクトに関するすべてに対して machinelearningforkids.co.uk の Dale 氏に感謝します。
+
+--- /collapse ---
+
+
+
+
+
