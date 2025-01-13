@@ -11,23 +11,23 @@ version: 4.0.0
 last_tested: '2019-06-04'
 steps:
   - 
-    title: Introducción
+    title: What you will make
   - 
-    title: Usa un modelo preentrenado
+    title: Set up the project
   - 
-    title: Crea un nuevo proyecto
+    title: Invent two words
     completion:
       - engaged
   - 
-    title: Crea palabras alienígenas
+    title: Train the model
   - 
-    title: Entrena un nuevo modelo de aprendizaje automático
-  - 
-    title: Usa palabras alienígenas en Scratch
+    title: Control the alien
     completion:
       - internal
   - 
-    title: 'Desafío: añadir nuevos comandos'
+    title: 'Challenge'
     challenge: true
   - 
-    title: '¿Qué sigue?'
+    title: What can you do now?
+    completion:
+      - external
