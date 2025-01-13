@@ -11,23 +11,23 @@ version: 4.0.0
 last_tested: '2019-06-04'
 steps:
   - 
-    title: Inleiding
+    title: What you will make
   - 
-    title: Gebruik een vooraf getraind model
+    title: Set up the project
   - 
-    title: Maak een nieuw project
+    title: Invent two words
     completion:
       - engaged
   - 
-    title: Maak buitenaardse woorden
+    title: Train the model
   - 
-    title: Train een nieuw model voor machine learning
-  - 
-    title: Gebruik buitenaardse woorden in Scratch
+    title: Control the alien
     completion:
       - internal
   - 
-    title: 'Uitdaging: voeg nieuwe opdrachten toe'
+    title: 'Challenge'
     challenge: true
   - 
-    title: Wat kun je verder nog doen?
+    title: What can you do now?
+    completion:
+      - external
