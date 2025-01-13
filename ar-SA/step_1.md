@@ -1,53 +1,44 @@
-## المقدمة
+## ما الذي ستصنعه
 
-في هذا المشروع ، سوف تقوم بتدريب الكمبيوتر لفهم لغة كائن الفضاء. ستستخدم ذلك للتحكم في شخصية غريبة حتى تتمكن من فهم ما تطلب منه للقيام به.
+Train a machine learning model to recognise an alien language and use it in Scratch to control an alien.
 
-### ما الذي ستصنعه
+You will need a **microphone**.
 
-- بدون طباعة -
-
-![كائن الفضاء يتحرك يسار ويمين إلى كلمات جديدة ، Eeek و Bop](images/journey.gif)
-
---- /بدون طباعة ---
-
---- طباعة فقط ---
-
-![نظرة عامة على مشروع سكراتش بأكمله](images/test-new-blocks.png)
-
---- / للطباعة فقط -
+![An alien moving left and right with the commands Eek and Bop](images/whatyouwillmake.gif)
 
 --- collapse ---
+
 ---
-title: ما ستحتاج إليه
+title: Where are my voice recordings stored?
 ---
 
-+ كمبيوتر مع ميكروفون
-
-+ خدمة الإنترنت
+- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data.
+- This project does not require you to create an account or log in. For this project, the examples you use to make the model are only stored temporarily in your browser (only on your machine).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: ما الذي ستتعلمه
+title: No YouTube? Download the videos!
 ---
-+ كيفية استخدام ملحق الكلام إلى نص في Scratch 3 مع نموذج prerained
-+ كيفية تدريب نموذج تعلُّم الآلة للتعرف على الأصوات
-+ كيفية استخدام نموذجك في تدريب الالة في سكراتش 3
+
+You can [download all the videos for this project](https://rpf.io/p/en/alien-language-go){:target="_blank"}.
+
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: معلومات إضافية للمعلمين
+title: License
 ---
 
-إذا كنت بحاجة إلى طباعة هذا المشروع ، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/en/projects/alien-language/print){:target="_blank"}.
-
---- /collapse ---
-
-### رخصة
-
-هذا المشروع مرخص بشكل مزدوج بموجب [ ترخيص Creative Commons Attribution Non-Commercial Share-Alike ](http://creativecommons.org/licenses/by-nc-sa/4.0/) {: target = "_ blank"} و [ ترخيص Apache الإصدار 2.0 ](http://www.apache.org/licenses/LICENSE-2.0) {: target = "_ blank"}
+This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
 
 نود أن نشكر دايل من machinelearningforkids.co.uk على جميع أعماله في هذا المشروع.
+
+--- /collapse ---
+
+
+
+
+
