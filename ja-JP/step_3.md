@@ -1,20 +1,34 @@
-## 新しいプロジェクトを作成 (さくせい) する
-ここからのステップでは、機械学習 (きかいがくしゅう) モデルをトレーニングして、どのように行うのかを見ていきます。 プロジェクトの次の部分では、声を使って、日本語が分からないエイリアンのキャラクターを操作 (そうさ) します。 辞書 (じしょ) にはない2つの新しい単語 (たんご) を考え出してください。 その単語を使ってエイリアンのキャラクターを操作します。また機械学習モデルがその単語を認識 (にんしき) するようにトレーニングします。
+## Invent two words
 
-まず、Machine Learning for Kidsのウェブサイトにアクセスして、プロジェクトを作成します。
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/au4cDSYW_EQ?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
---- task ---
-+ ウェブブラウザで [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_ blank"} を開きます。
-
-+ **開始**をクリックします。
-
-+ **すぐに試す** (ためす) をクリックします。 --- /task ---
+First, you will collect samples of background noise. This will help your machine learning model to tell the difference between the sounds that you will train it to recognise, and the background noise where you are.
 
 --- task ---
-+ ページ上部のメニューバーで**プロジェクト**をクリックします。
++ Click the **+ Add example** button in **background noise**.
 
-+ **新しいプロジェクトの追加** (ついか) ボタンをクリックします。
++ Click on the microphone, but don't say anything. Record 2 seconds of background noise. ![Arrow pointing to microphone button](images/record-button.png)
 
-+ プロジェクト名に `Alien Language` (エイリアン語) と入力して、 `音声`を認識させるように設定 (せってい) します。(プロジェクト名に日本語は使えません) 次に、 **作成** ボタンをクリックします。 ![プロジェクトを作成する](images/create.png)
++ Click the **Add** button to save your recording. --- /task ---
 
-+ プロジェクトのリストに `Alien Language` が表示 (ひょうじ) されます。 `Alien Language` プロジェクトをクリックします。 --- /task ---
+--- task ---
++ Repeat those steps until you have **at least eight examples** of background noise. ![Bucket filled with 8 background examples](images/8-background.png) --- /task ---
+
+Invent two alien words — a word that means "left" and a word that means "right".
+
+Now you will record eight examples of each word so that your machine learning model can learn to recognise them.
+
+--- task ---
++ Click on **+ Add new label** on the top right of the screen and add a label called `left`. --- /task ---
+
+--- task ---
++ Click on **+ Add example** inside the box for the new `left` label, and record yourself saying your alien word for "left".
+
++ Repeat until you have recorded **at least eight examples**. --- /task ---
+
+--- task ---
++ Click on **+ Add new label** to create another label called `right` and record eight examples of your alien word for "right". --- /task ---
