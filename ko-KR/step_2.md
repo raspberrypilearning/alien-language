@@ -1,22 +1,33 @@
-## 사전 훈련 된 모델 사용
+## Set up the project
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/KdybBTJ979k?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
 --- task ---
-+ [machinelearningforkids.co.uk/scratch3으로 이동](https://machinelearningforkids.co.uk/scratch3/){: target = "_ blank"}
---- / task ---
++ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
 
-**경고** 이 프로젝트의 이번 단계는 구글 크롬 웹브라우져를 사용해야 완료할 수 있습니다. 이 브라우져를 사용할 수 없는 경우 [단계 3: 새 프로젝트 만들기](https://projects.raspberrypi.org/en/projects/alien-language/3)로 건너 뛰십시오.
++ Click on **Get started**.
+
++ Click on **Try it now**. --- /task ---
 
 --- task ---
-+ 그런 다음 **Speech to Text** 확장명을 로드하십시오. 왼쪽 하단에서 **확장** 단추를 클릭 한 다음 목록에서 **Speech to Text** 를 선택합니다. **참고 :** **Text to Speech** 확장이 아닌 **Speech to Text** 확장을 선택하십시오. ![확장 버튼을 가리키는 화살표](images/extensions-annotated.png)
++ Click on **Projects** in the menu bar at the top.
 
-+ **이벤트** 블록, **모션** 블록 및 새로운 **Speech to Text** 블록을 사용하여 다음 스크립트를 작성하십시오. ![추가 할 새로운 스크립트](images/S-to-T-blocks.png)
++ Click on the **+ Add a new project** button.
 
---- /task ---
++ Name your project `Alien language` and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**. ![Creating a project](images/create-project.png)
 
---- task --- 이제 녹색 깃발을 클릭하여 코드를 실행하십시오. "왼쪽"또는 "오른쪽"이라고 말합니다. 스크래치 고양이는 당신이 말한 방향으로 움직여야 합니다. 음성을 사용하여 스크래치 고양이를 화면에서 앞뒤로 움직여보십시오. 차분하고 명확하게 말해보세요.
++ You should now see 'Alien language' in the projects list. Click on the project. ![Project list with alien language listed](images/projects-list.png) --- /task ---
 
-작동시키기가 어려울 수 있습니다. 작동하지 않으면 스크립트가 아래 스크립트처럼 보이도록 `말하기` 블록을 추가하여 사용자가 말하는 것을 보여줍니다. ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
+--- task ---
++ Click on the **Train** button. ![Project main menu with an arrow pointing to the train button](images/project-train.png)
 
-이제 음성 인식을 사용하여 스크래치에서 캐릭터를 제어했습니다.
++ If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
 
-이 단계에서는 프로그램이 빠르게 작동하도록 하기 위해 이미 훈련 된 기계 학습 모델을 사용했습니다. 이것은 영어 사전에서 단어를 인식하도록 훈련 된 일반적인 기계 학습 모델입니다. 
+![Popup asking you to allow the microphone, with an arrow pointing to allow every visit](images/allow-microphone.png) --- /task ---
+
+
+
