@@ -1,53 +1,44 @@
-## Εισαγωγή
+## Τι θα φτιάξεις
 
-Σε αυτό το πρόγραμμα, θα εκπαιδεύσεις τον υπολογιστή να καταλαβαίνει μια ξένη γλώσσα. Θα το χρησιμοποιήσεις για να ελέγξεις έναν εξωγήινο χαρακτήρα, ώστε να καταλαβαίνει τι του λες να κάνει.
+Train a machine learning model to recognise an alien language and use it in Scratch to control an alien.
 
-### Τι θα φτιάξεις
+You will need a **microphone**.
 
---- no-print ---
-
-![Εξωγήινος κινείται αριστερά και δεξιά σε νέες λέξεις, Eeek και Bop](images/journey.gif)
-
---- /no-print ---
-
---- print-only ---
-
-![Επισκόπηση ολόκληρου του προγράμματος Scratch](images/test-new-blocks.png)
-
---- /print-only ---
+![An alien moving left and right with the commands Eek and Bop](images/whatyouwillmake.gif)
 
 --- collapse ---
+
 ---
-title: Τι θα χρειαστείς
+title: Where are my voice recordings stored?
 ---
 
-+ Έναν υπολογιστή με μικρόφωνο
-
-+ Πρόσβαση στο διαδίκτυο
+- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data.
+- This project does not require you to create an account or log in. For this project, the examples you use to make the model are only stored temporarily in your browser (only on your machine).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Τι θα μάθεις
+title: No YouTube? Download the videos!
 ---
-+ Πώς να χρησιμοποιείς την επέκταση Ομιλία σε Κείμενο στο Scratch 3 με ένα ήδη ρυθμισμένο μοντέλο
-+ Πώς να εκπαιδεύσεις ένα μοντέλο μηχανικής μάθησης για να αναγνωρίζει τους ήχους
-+ Πώς να χρησιμοποιείς το εκπαιδευμένο μοντέλο εκμάθησης μηχανών σας στο Scratch 3
+
+You can [download all the videos for this project](https://rpf.io/p/en/alien-language-go){:target="_blank"}.
+
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Πρόσθετες πληροφορίες για εκπαιδευτικούς
+title: License
 ---
 
-Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/alien-language/print)"{:target="_blank"}.
-
---- /collapse ---
-
-### Άδεια
-
-Το έργο διπλής άδειας σύμφωνα με την άδεια τόσο από [Creative Commons Attribution Μη Εμπορική Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){: target = "_ blank"} και [άδεια Apache 2.0 Έκδοση](http://www.apache.org/licenses/LICENSE-2.0){: target = "_ blank"}
+This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
 
 Θα θέλαμε να ευχαριστήσουμε τον Dale από το machinelearningforkids.co.uk για όλη τη δουλειά του σε αυτό το έργο.
+
+--- /collapse ---
+
+
+
+
+
