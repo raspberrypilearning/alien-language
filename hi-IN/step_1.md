@@ -1,53 +1,44 @@
-## भूमिका
+## आप क्या बनाएँगे
 
-इस परियोजना में, आप एक एलियन भाषा को समझने के लिए कंप्यूटर को प्रशिक्षित करेंगे। आप एक एलियन चरित्र को नियंत्रित करने के लिए इसका उपयोग करेंगे ताकि वो समझ सके कि आप उसे क्या करने के लिए कहते हैं।
+Train a machine learning model to recognise an alien language and use it in Scratch to control an alien.
 
-### आप क्या बनाएँगे
+You will need a **microphone**.
 
---- no-print ---
-
-![नए शब्दों Eeek और Bop पर एलियन बाएं और दाएं जाता है](images/journey.gif)
-
---- /no-print ---
-
---- print-only ---
-
-![संपूर्ण Scratch परियोजना का अवलोकन](images/test-new-blocks.png)
-
---- /print-only ---
+![An alien moving left and right with the commands Eek and Bop](images/whatyouwillmake.gif)
 
 --- collapse ---
+
 ---
-title: आपको किन चीज़ों की आवश्यकता होगी
+title: Where are my voice recordings stored?
 ---
 
-+ एक कंप्यूटर जिसमें माइक्रोफोन हो
-
-+ इंटरनेट प्रवेश
+- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data.
+- This project does not require you to create an account or log in. For this project, the examples you use to make the model are only stored temporarily in your browser (only on your machine).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: आप क्या सीखेंगे
+title: No YouTube? Download the videos!
 ---
-+ Scratch 3 में एक पूर्व प्रशिक्षित नमूने के साथ Speech to Text extension का उपयोग कैसे करें
-+ आवाज़ों को पहचानने के लिए मशीन लर्निंग मॉडल को कैसे प्रशिक्षित किया जाए
-+ Scratch 3 में अपने प्रशिक्षित मशीन लर्निंग मॉडल का उपयोग कैसे करें
+
+You can [download all the videos for this project](https://rpf.io/p/en/alien-language-go){:target="_blank"}.
+
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: शिक्षकों के लिए अतिरिक्त जानकारी
+title: License
 ---
 
-अगर आपको इस परियोजना को प्रिंट करने की आवश्यकता है, तो कृप्या [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/alien-language/print){: target = "_ blank"} का उपयोग करें।
-
---- /collapse ---
-
-### लाइसेंस
-
-यह परियोजना दोनों [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} और [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"} के तहत डुअल-लाइसेंस है
+This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
 
 हम इस परियोजना पर machinelearningforkids.co.uk से डेल को अपने सभी काम के लिए धन्यवाद देना चाहते हैं।
+
+--- /collapse ---
+
+
+
+
+
