@@ -1,22 +1,45 @@
-## Εκπαίδευσε ένα νέο μοντέλο μηχανικής μάθησης
-Σε αυτό το βήμα, θα χρησιμοποιήσεις τα παραδείγματα που δημιούργησες στο τελευταίο βήμα για να εκπαιδεύσεις τον υπολογιστή πώς να αναγνωρίζει τις νέες λέξεις.
+## Control the alien
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/cAovIpUuiGo?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
+
+Now that your model can distinguish between words, you can use it in a Scratch program to control an alien.
 
 --- task ---
++ Click on the **< Back to project** link.
 
-+ Κάνε κλικ στον σύνδεσμο **Επιστροφή στο έργο** στην επάνω αριστερή γωνία. ![Βέλος που δείχνει στο κουμπί "επιστροφή στο έργο"](images/8-right-annotated.png)
++ Click on **Make**.
 
-+ Κάνε κλικ στο κουμπί **Εκμάθηση & Δοκιμή**. ![Βέλος που δείχνει το κουμπί Εκμάθηση και Δοκιμή](images/learn-test-annotated.png)
++ Click on **Scratch 3**.
 
-+ Κάνε κλικ στο **Εκπαίδευση νέου μοντέλου μηχανικής μάθησης**. Αυτό μπορεί να διαρκέσει μερικά λεπτά για να ολοκληρωθεί. ![Βέλος που δείχνει στο κουμπί Εκπαίδευση νέου μοντέλου μηχανικής μάθησης](images/train-annotated.png)
++ Click on **Open in Scratch 3**.
 
 --- /task ---
 
 --- task ---
++ Click on **Project templates** at the top and select the 'Alien language' project to load the alien sprite, which already has some code added.
 
-+ Μόλις τελειώσει η εκπαίδευση, κάνε κλικ στο πλήκτρο **Εκκίνηση ακρόασης** για να ελέγξεις το μοντέλο μηχανικής μάθησης. Πες μία από τις λέξεις (ή κάνε έναν από τους ήχους) που έχεις εκπαιδεύσει τον υπολογιστή σου να αναγνωρίζει ως "αριστερά" ή "δεξιά". Αν το μοντέλο της μηχανικής μάθησης το αναγνωρίσει, θα εμφανίσει αυτό που νομίζει ότι είπες. ![Βέλος που δείχνει προς αυτό που ο υπολογιστής πιστεύει ότι είπες](images/start-listening-annotated.png)
+![Alien language project is selected in the Scratch templates](images/alien-language.png) --- /task ---
 
-+ Αν δεν είσαι ευχαριστημένος με το πώς το μοντέλο λειτουργεί, πήγαινε πίσω στην **Εκπαίδευση** και πρόσθεσε περισσότερα παραδείγματα στα τρία σύνολα εκπαίδευσης.
+Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. This project template also contains special 'walk left' and 'walk right' blocks inside "My Blocks". Find both at the bottom of the blocks list.
 
-+ Όταν είσαι ικανοποιημένος με το μοντέλο μηχανικής μάθησης, προχώρησε στο επόμενο βήμα.
+![Alien language blocks shown in the menu underneath My Blocks and Images](images/new-blocks.png)
+
+--- task ---
+
++ Make sure you have the **Alien** sprite selected, then click on the **Code** tab and add this code. (Keep the code that is already there!) ![Add code to control the alien: When flag clicked, start listening. When I hear left, say left and walk left. When I hear right, say right and walk right.](images/control-alien-blocks.png)
 
 --- /task ---
+
+--- task ---
++ Click the **green flag** and say your alien words for "left" and "right". Check that the alien moves the way you expected.
+
+--- /task ---
+
+
+
+
+
