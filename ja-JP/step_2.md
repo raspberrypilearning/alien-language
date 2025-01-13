@@ -1,21 +1,33 @@
-## 事前学習ずみのモデルを使用する
+## Set up the project
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/KdybBTJ979k?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
 --- task ---
-+ ウェブブラウザで [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_ blank"} を開きます。 --- / task ---
++ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
 
-**(注意)**プロジェクトのこのステップは、Google Chrome ウェブブラウザ上でしかできません。 Google Chrome ブラウザがない場合は、[ステップ3: 新しいプロジェクトを作成する](https://projects.raspberrypi.org/en/projects/alien-language/3)に進んでください。
++ Click on **Get started**.
+
++ Click on **Try it now**. --- /task ---
 
 --- task ---
-+ 次に、 **Speech to Text** 拡張機能 (かくちょうきのう) を読みこみます。 左下すみの **拡張機能を追加** (ついか) ボタンをクリックし、リストから **Speech to Text** をえらびます。 **(注)** **音声合成** 拡張機能ではなく、 **Speech to Text** 拡張機能をえらびましょう。 ![拡張機能ボタンを指す矢印 (やじるし)](images/extensions-annotated.png)
++ Click on **Projects** in the menu bar at the top.
 
-+ **イベント** ブロック、 **動き** ブロック、および新しい **音声認識** (にんしき) ブロックを使って、このスクリプトを作ります。　 ![追加する新しいスクリプト](images/S-to-T-blocks.png)
++ Click on the **+ Add a new project** button.
 
---- /task ---
++ Name your project `Alien language` and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**. ![Creating a project](images/create-project.png)
 
---- task --- 緑の旗 (はた) をクリックしてプログラムをテストします。 マイクに向かって「左」または「右」と言いましょう。 Scratch のネコはあなたが言う方向に動くはずです。 声を使って Scratch のネコを左右に動かしてみてください。 おちついてはっきりと話すようにしましょう。
++ You should now see 'Alien language' in the projects list. Click on the project. ![Project list with alien language listed](images/projects-list.png) --- /task ---
 
-場合によってはうまく動かないことがあります。 そのときは、（音声）`と言う`ブロックを追加してみてください。スクリプトはこのようになり、声がスプライトにどう聞こえたかが表示 (ひょうじ) されます。 ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
+--- task ---
++ Click on the **Train** button. ![Project main menu with an arrow pointing to the train button](images/project-train.png)
 
-これで、音声認識を使用して Scratch のキャラクターを操作 (そうさ) できました。
++ If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
 
-このステップでは、プログラムがすぐにうまく動くように、すでにトレーニングされた機械学習モデルを使用しました。 これは、辞書 (じしょ) にある単語 (たんご) を認識するようにトレーニングされた、一般的 (いっぱんてき) な機械学習モデルです。 
+![Popup asking you to allow the microphone, with an arrow pointing to allow every visit](images/allow-microphone.png) --- /task ---
+
+
+
