@@ -1,17 +1,3 @@
-## Πρόκληση: πρόσθεσε νέες εντολές
+## What can you do now?
 
---- challenge ---
-
---- task ---
-
-+ Τώρα, θα μπορούσες να προσθέσεις δύο ακόμα σύνολα εκπαίδευσης για το "πάνω" και το "κάτω", έτσι ώστε να μπορείς να κάνεις τον εξωγήινο να κινείται και στις τέσσερις κατευθύνσεις.
-
---- /task ---
-
---- task ---
-
-+ Μπορείς να σκεφτείς κάτι άλλο που θα μπορούσε να χρησιμοποιήσει ένα μοντέλο μηχανικής μάθησης;
-
---- /task ---
-
---- /challenge ---
+There are lots of other machine learning and AI projects in the [Machine learning with Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning) pathway.
