@@ -1,22 +1,33 @@
-## Usa un modello pre-allenato
+## Set up the project
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/KdybBTJ979k?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
 --- task ---
-+ Vai qui [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
---- / task ---
++ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
 
-**Attenzione:** Questo passaggio del progetto può essere completato solo utilizzando il browser Web Google Chrome. Se non hai questo browser, vai al [passaggio 3: crea un nuovo progetto](https://projects.raspberrypi.org/en/projects/alien-language/3)
++ Click on **Get started**.
+
++ Click on **Try it now**. --- /task ---
 
 --- task ---
-+ Successivamente, carica l'estensione **Riconoscimento della voce**. Fai clic sul pulsante **Estensioni** nell'angolo in basso a sinistra, quindi scegli **Riconoscimento della voce** dall'elenco. **Nota:** Assicurarsi di selezionare l'estensione **Riconoscimento della voce**, non l'estensione **Da testo a voce**. ![Freccia che punta al pulsante delle estensioni](images/extensions-annotated.png)
++ Click on **Projects** in the menu bar at the top.
 
-+ Usa i blocchi **Situazioni**, **Movimento** e i nuovi **Riconoscimento della voce** per creare i seguenti codici. ![Nuovi script da aggiungere](images/S-to-T-blocks.png)
++ Click on the **+ Add a new project** button.
 
---- /task ---
++ Name your project `Alien language` and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**. ![Creating a project](images/create-project.png)
 
---- task --- Clicca sulla bandiera verde per eseguire il tuo script. Pronuncia "sinistra" o "destra". Il gatto Scratch dovrebbe muoversi nella direzione in cui gli hai detto. Usa la tua voce per provare a spostare il gatto Scratch avanti e indietro sullo schermo. Cerca di parlare con calma e in modo chiaro.
++ You should now see 'Alien language' in the projects list. Click on the project. ![Project list with alien language listed](images/projects-list.png) --- /task ---
 
-Può essere difficile farlo funzionare. Se non funziona, aggiungi il blocco `dire` in modo che il tuo codice assomigli al seguente, per mostrare cosa pensa che tu stia dicendo. ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
+--- task ---
++ Click on the **Train** button. ![Project main menu with an arrow pointing to the train button](images/project-train.png)
 
-Ora hai usato il riconoscimento vocale per controllare un personaggio in Scratch.
++ If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
 
-In questo passaggio, per far funzionare rapidamente il tuo programma, hai utilizzato un modello di apprendimento automatico che era già stato addestrato per te. È un modello generale di apprendimento automatico che è stato addestrato per riconoscere le parole nel dizionario italiano. 
+![Popup asking you to allow the microphone, with an arrow pointing to allow every visit](images/allow-microphone.png) --- /task ---
+
+
+
