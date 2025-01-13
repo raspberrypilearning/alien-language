@@ -11,23 +11,23 @@ version: 4.0.0
 last_tested: '2019-06-04'
 steps:
   - 
-    title: 소개
+    title: What you will make
   - 
-    title: 사전 훈련 된 모델 사용
+    title: Set up the project
   - 
-    title: 새 프로젝트 만들기
+    title: Invent two words
     completion:
       - engaged
   - 
-    title: 외계인 단어 만들기
+    title: Train the model
   - 
-    title: 새로운 머신 러닝 모델 훈련
-  - 
-    title: 스크래치에서 외계인 단어 사용
+    title: Control the alien
     completion:
       - internal
   - 
-    title: '도전 과제 : 새로운 명령 추가'
+    title: 'Challenge'
     challenge: true
   - 
-    title: 더 나아가기
+    title: What can you do now?
+    completion:
+      - external
