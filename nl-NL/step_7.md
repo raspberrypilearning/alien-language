@@ -1,17 +1,3 @@
-## Uitdaging: voeg nieuwe opdrachten toe
+## What can you do now?
 
---- challenge ---
-
---- task ---
-
-+ Nu zou je nog twee trainings containers toe kunnen voegen voor "omhoog" en "omlaag", zodat je de alien kunt besturen om in alle vier de richtingen te bewegen.
-
----/task---
-
---- task ---
-
-+ Kun je nog iets anders bedenken waarvoor je een machine learning-model zou kunnen gebruiken?
-
---- /task ---
-
---- /challenge ---
+There are lots of other machine learning and AI projects in the [Machine learning with Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning) pathway.
