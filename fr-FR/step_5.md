@@ -1,22 +1,45 @@
-## Entraîner un nouveau modèle d'apprentissage machine
-Dans cette étape, tu utiliseras les exemples que tu as rassemblés lors de la dernière étape pour apprendre à l'ordinateur à reconnaître tes nouveaux mots.
+## Control the alien
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/cAovIpUuiGo?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
+
+Now that your model can distinguish between words, you can use it in a Scratch program to control an alien.
 
 --- task ---
++ Click on the **< Back to project** link.
 
-+ Clique sur le lien **Revenir au projet** dans le coin supérieur gauche. ![Flèche pointant sur le bouton du projet](images/8-right-annotated.png)
++ Click on **Make**.
 
-+ Clique sur le bouton **Apprendre & Tester**. ![Flèche pointant sur le bouton Apprendre et Tester](images/learn-test-annotated.png)
++ Click on **Scratch 3**.
 
-+ Clique sur **Entraîner un nouveau modèle d'apprentissage machine**. Cela peut prendre quelques minutes. ![Flèche pointant vers Entraîner un nouveau modèle d'apprentissage machine](images/train-annotated.png)
++ Click on **Open in Scratch 3**.
 
 --- /task ---
 
 --- task ---
++ Click on **Project templates** at the top and select the 'Alien language' project to load the alien sprite, which already has some code added.
 
-+ Une fois l'entraînement terminé, clique sur le bouton **Commencer à écouter** pour tester ton modèle d'apprentissage machine. Prononce l’un des mots (ou fais l’un des sons) que tu as appris à l’ordinateur à reconnaître comme étant « gauche » ou « droite ». Si ton modèle d'apprentissage machine le reconnaît, il affichera ce qu'il pense que tu as dit. ![Flèche pointant vers ce que l'ordinateur pense que tu as fait](images/start-listening-annotated.png)
+![Alien language project is selected in the Scratch templates](images/alien-language.png) --- /task ---
 
-+ Si tu n'es pas satisfait du fonctionnement du modèle, reviens à la page **Entraîner** et ajoute d'autres exemples aux trois éléments d'entraînement.
+Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. This project template also contains special 'walk left' and 'walk right' blocks inside "My Blocks". Find both at the bottom of the blocks list.
 
-+ Lorsque tu es satisfait de ton modèle d’apprentissage machine, passe à l’étape suivante.
+![Alien language blocks shown in the menu underneath My Blocks and Images](images/new-blocks.png)
+
+--- task ---
+
++ Make sure you have the **Alien** sprite selected, then click on the **Code** tab and add this code. (Keep the code that is already there!) ![Add code to control the alien: When flag clicked, start listening. When I hear left, say left and walk left. When I hear right, say right and walk right.](images/control-alien-blocks.png)
 
 --- /task ---
+
+--- task ---
++ Click the **green flag** and say your alien words for "left" and "right". Check that the alien moves the way you expected.
+
+--- /task ---
+
+
+
+
+
