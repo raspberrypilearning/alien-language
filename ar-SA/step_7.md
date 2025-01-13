@@ -1,17 +1,3 @@
-## التحدي: إضافة أوامر جديدة
+## What can you do now?
 
---- تحدي ---
-
---- task ---
-
-+ الآن ، يمكنك إضافة مجموعتي تدريب إضافيتين "للأعلى" و "للأسفل" ، بحيث يمكنك التحكم في كائن الفضاء للتنقل في جميع الاتجاهات الأربعة.
-
---- /task ---
-
---- task ---
-
-+ هل يمكنك التفكير في أي شيء آخر يمكنك استخدام نموذج تعلم الآلة له؟
-
----/task--
-
---- /تحدي ---
+There are lots of other machine learning and AI projects in the [Machine learning with Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning) pathway.
