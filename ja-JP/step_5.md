@@ -1,22 +1,45 @@
-## 新しい機械学習モデルをトレーニングする
-このステップでは、前のステップで収集したサンプルを使用して、コンピューターが新しい単語を認識するようにトレーニングします。
+## Control the alien
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/cAovIpUuiGo?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
+
+Now that your model can distinguish between words, you can use it in a Scratch program to control an alien.
 
 --- task ---
++ Click on the **< Back to project** link.
 
-+ 左上すみにある**プロジェクトに戻る** (もどる) リンクをクリックします。 ![「プロジェクトに戻る」ボタンを指す矢印](images/8-right-annotated.png)
++ Click on **Make**.
 
-+ **学習 & テスト** ボタンをクリックします。 ![学習 & テストボタンを指す矢印](images/learn-test-annotated.png)
++ Click on **Scratch 3**.
 
-+ **新しい機械学習モデルをトレーニングする**クリックします。 これには数分かかる場合があります。 ![「新しい機械学習モデルをトレーニングする」を指す矢印](images/train-annotated.png)
++ Click on **Open in Scratch 3**.
 
 --- /task ---
 
 --- task ---
++ Click on **Project templates** at the top and select the 'Alien language' project to load the alien sprite, which already has some code added.
 
-+ トレーニングが終わったら、 **聞いてみよう** ボタンをクリックして、機械学習モデルをテストします。 「左」または「右」として認識するようにコンピューターをトレーニングした言葉の1つを発声します（または音を立てます）。 機械学習モデルがそれを認識すると、あなたが言ったと思うことを表示します。 ![コンピューターがあなたが言ったと思うことを指す矢印](images/start-listening-annotated.png)
+![Alien language project is selected in the Scratch templates](images/alien-language.png) --- /task ---
 
-+ モデルの動作に満足 (まんぞく) できない場合は、 **トレーニング** ページにもどって、3つのトレーニングバケットすべてにさらにサンプルを追加してください。
+Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. This project template also contains special 'walk left' and 'walk right' blocks inside "My Blocks". Find both at the bottom of the blocks list.
 
-+ 機械学習モデルに満足したら、次のステップに進みます。
+![Alien language blocks shown in the menu underneath My Blocks and Images](images/new-blocks.png)
+
+--- task ---
+
++ Make sure you have the **Alien** sprite selected, then click on the **Code** tab and add this code. (Keep the code that is already there!) ![Add code to control the alien: When flag clicked, start listening. When I hear left, say left and walk left. When I hear right, say right and walk right.](images/control-alien-blocks.png)
 
 --- /task ---
+
+--- task ---
++ Click the **green flag** and say your alien words for "left" and "right". Check that the alien moves the way you expected.
+
+--- /task ---
+
+
+
+
+
