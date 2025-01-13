@@ -1,22 +1,33 @@
-## Χρησιμοποίησε ένα ήδη εκπαιδευμένο μοντέλο
+## Set up the project
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/KdybBTJ979k?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
 --- task ---
-+ Πήγαινε στο [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
---- /task ---
++ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
 
-**Προειδοποίηση:** Αυτό το βήμα του έργου μπορεί να ολοκληρωθεί μόνο χρησιμοποιώντας το πρόγραμμα περιήγησης ιστού Google Chrome. Εάν αυτό το πρόγραμμα περιήγησης δεν είναι διαθέσιμο για σένα, πήγαινε στο [βήμα 3: Δημιούργησε ένα νέο έργο](https://projects.raspberrypi.org/en/projects/alien-language/3)
++ Click on **Get started**.
+
++ Click on **Try it now**. --- /task ---
 
 --- task ---
-+ Στη συνέχεια, φόρτωσε την επέκταση **Κείμενο σε Ομιλία**. Κάνε κλικ στο κουμπί **Προσθήκη Επέκτασης** στην κάτω αριστερή γωνία και, στη συνέχεια, επέλεξε **Ομιλία σε Κείμενο** από τη λίστα. **Σημείωση:** Βεβαιώσου ότι έχεις επιλέξει την επέκταση **Ομιλία σε Κείμενο** και όχι την επέκταση **Κείμενο σε Ομιλία**. ![Βέλος που δείχνει το κουμπί επεκτάσεων](images/extensions-annotated.png)
++ Click on **Projects** in the menu bar at the top.
 
-+ Χρησιμοποίησε τα μπλοκ από τις κατηγορίες **Συμβάντα**, **Κίνηση** και **Ομιλία σε Κείμενο** για να δημιουργήσεις το παρακάτω σενάριο. ![Νέες εντολές για προσθήκη](images/S-to-T-blocks.png)
++ Click on the **+ Add a new project** button.
 
---- /task ---
++ Name your project `Alien language` and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**. ![Creating a project](images/create-project.png)
 
---- task --- Κάνε κλικ στην πράσινη σημαία για να ελέγξεις τον κώδικά σου. Πες "left" (αριστερά) ή "right" (δεξιά). Η γάτα του Scratch θα πρέπει να κινηθεί προς την κατεύθυνση στην οποία της λες. Χρησιμοποίησε τη φωνή σου για να μετακινήσεις τη γάτα του Scratch εμπρός και πίσω στην οθόνη. Προσπάθησε να μιλάς ήρεμα και καθαρά.
++ You should now see 'Alien language' in the projects list. Click on the project. ![Project list with alien language listed](images/projects-list.png) --- /task ---
 
-Μπορεί να είναι δύσκολο να το κάνεις να λειτουργήσει. Εάν δεν λειτουργεί, βάλε μερικά μπλοκ `πες` έτσι ώστε το σενάριό σου να μοιάζει με το παρακάτω σενάριο, για να δείχνει τι πιστεύει ότι λες. ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
+--- task ---
++ Click on the **Train** button. ![Project main menu with an arrow pointing to the train button](images/project-train.png)
 
-Τώρα έχεις χρησιμοποιήσει την αναγνώριση ομιλίας για τον έλεγχο ενός χαρακτήρα στο Scratch.
++ If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
 
-Σε αυτό το βήμα, για να λειτουργήσει γρήγορα το πρόγραμμά σου, χρησιμοποίησες ένα μοντέλο μηχανικής μάθησης που είχε ήδη εκπαιδευτεί για εσένα. Είναι ένα γενικό μοντέλο μηχανικής μάθησης που έχει εκπαιδευτεί για να αναγνωρίζει λέξεις στο αγγλικό λεξικό. 
+![Popup asking you to allow the microphone, with an arrow pointing to allow every visit](images/allow-microphone.png) --- /task ---
+
+
+
