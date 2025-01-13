@@ -1,21 +1,33 @@
-## एक पूर्व प्रशिक्षित मॉडल का उपयोग करें
+## Set up the project
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/KdybBTJ979k?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
 --- task ---
-+ [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"} पर जाएं --- /task---
++ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
 
-**चेतावनी:** परियोजना का यह चरण केवल Google Chrome वेब ब्राउज़र का उपयोग करके पूरा किया जा सकता है। यदि यह ब्राउज़र आपके लिए उपलब्ध नहीं है, तो कृपया [चरण 3: एक नई परियोजना बनाएं](https://projects.raspberrypi.org/en/projects/alien-language/3) पर जाएं
++ Click on **Get started**.
+
++ Click on **Try it now**. --- /task ---
 
 --- task ---
-+ आगे **Speech to Text** एक्सटेंशन को लोड करें। **Extensions** बटन पर क्लिक करें जो नीचे बाएँ हाथ के कोने में है, और फिर सूची से **Speech to Text** चुनें। **टिप्पणी:** सुनिश्चित करें कि आप **Speech to Text** एक्सटेंशन का चयन कर रहे हैं, **Text to Speech** एक्सटेंशन का नहीं। ![Extensions बटन की ओर इशारा करता हुआ तीर](images/extensions-annotated.png)
++ Click on **Projects** in the menu bar at the top.
 
-+ **Events** खंड, **Motions** खंड, और नए **Speech to Text** खंड का उपयोग करें निम्नलिखित स्क्रिप्ट बनाने के लिए। ![नई स्क्रिप्ट जोड़ने के लिए](images/S-to-T-blocks.png)
++ Click on the **+ Add a new project** button.
 
---- /task ---
++ Name your project `Alien language` and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**. ![Creating a project](images/create-project.png)
 
---- task --- अपने कोड का परीक्षण करने के लिए हरे झंडे पर क्लिक करें। "left" या "right" कहें। Scratch बिल्ली को उस दिशा में आगे बढ़ना चाहिए जो आप उसे बताते हैं। Scratch बिल्ली को स्क्रीन पर आगे और पीछे ले जाने की कोशिश करने के लिए अपनी आवाज़ का उपयोग करें। शांत और स्पष्ट रूप से बोलने की कोशिश करें।
++ You should now see 'Alien language' in the projects list. Click on the project. ![Project list with alien language listed](images/projects-list.png) --- /task ---
 
-इसे काम में लाना मुश्किल हो सकता है। यदि यह काम नहीं करता है, तो `say` खंड जोड़ें, ताकि आपकी स्क्रिप्ट नीचे दी गई स्क्रिप्ट की तरह दिखे, यह दिखाने के लिए कि उसके हिसाब से आप क्या कह रहे हैं। ![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
+--- task ---
++ Click on the **Train** button. ![Project main menu with an arrow pointing to the train button](images/project-train.png)
 
-अब आपने Scratch में एक चरित्र को नियंत्रित करने के लिए भाषण मान्यता का उपयोग किया है।
++ If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
 
-इस चरण में, अपने प्रोग्राम को तेज़ी से काम करने के लिए, आपने एक मशीन लर्निंग मॉडल का उपयोग किया जो आपके लिए पहले से ही प्रशिक्षित था। यह एक सामान्य मशीन लर्निंग मॉडल है जिसे अंग्रेजी शब्दकोश में शब्दों को पहचानने के लिए प्रशिक्षित किया गया था। 
+![Popup asking you to allow the microphone, with an arrow pointing to allow every visit](images/allow-microphone.png) --- /task ---
+
+
+
