@@ -11,7 +11,7 @@ version: 4.0.0
 last_tested: '2019-06-04'
 steps:
   - 
-    title: What you will make
+    title: आप क्या बनाएँगे
   - 
     title: Set up the project
   - 
