@@ -14,7 +14,7 @@
 
 + Click on **Try it now**.
 
---- /task ---
+---/task---
 
 --- task ---
 
@@ -26,7 +26,7 @@
 
 + You should now see 'Alien language' in the projects list. Click on the project. ![Project list with alien language listed](images/projects-list.png)
 
---- /task ---
+---/task---
 
 --- task ---
 
@@ -36,7 +36,7 @@
 
 ![Popup asking you to allow the microphone, with an arrow pointing to allow every visit](images/allow-microphone.png)
 
---- /task ---
+---/task---
 
 
 
