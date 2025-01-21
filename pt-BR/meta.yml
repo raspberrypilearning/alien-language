@@ -11,7 +11,7 @@ version: 3
 last_tested: '2019-06-04'
 steps:
   - 
-    title: What you will make
+    title: O que você vai fazer
   - 
     title: Set up the project
   - 
