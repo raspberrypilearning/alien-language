@@ -16,13 +16,13 @@ First, you will collect samples of background noise. This will help your machine
 
 + Click the **Add** button to save your recording.
 
----/task---
+--- /task ---
 
 --- task ---
 
 + Repeat those steps until you have **at least eight examples** of background noise. ![Bucket filled with 8 background examples](images/8-background.png)
 
----/task---
+--- /task ---
 
 Invent two alien words — a word that means "left" and a word that means "right".
 
@@ -32,7 +32,7 @@ Now you will record eight examples of each word so that your machine learning mo
 
 + Click on **+ Add new label** on the top right of the screen and add a label called `left`.
 
----/task---
+--- /task ---
 
 --- task ---
 
@@ -40,10 +40,10 @@ Now you will record eight examples of each word so that your machine learning mo
 
 + Repeat until you have recorded **at least eight examples**.
 
----/task---
+--- /task ---
 
 --- task ---
 
 + Click on **+ Add new label** to create another label called `right` and record eight examples of your alien word for "right".
 
----/task---
+--- /task ---
