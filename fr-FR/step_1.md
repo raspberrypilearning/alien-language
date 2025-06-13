@@ -1,4 +1,4 @@
-## Ce que tu feras
+## Ce que tu vas faire
 
 Train a machine learning model to recognise an alien language and use it in Scratch to control an alien.
 
