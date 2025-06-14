@@ -1,4 +1,4 @@
-## Invent two words
+## Inventer deux mots
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,44 +6,44 @@
   </div>
 </html>
 
-First, you will collect samples of background noise. This will help your machine learning model to tell the difference between the sounds that you will train it to recognise, and the background noise where you are.
+Tout d'abord, tu vas collecter des échantillons de bruit de fond. Cela aidera ton modèle d’apprentissage machine à faire la différence entre les sons que tu vas l’entraîner à reconnaître et le bruit de fond où tu te trouves.
 
 --- task ---
 
-+ Click the **+ Add example** button in **background noise**.
++ Clique sur le bouton **+ Ajouter un exemple** dans **background noise**.
 
-+ Click on the microphone, but don't say anything. Record 2 seconds of background noise. ![Arrow pointing to microphone button](images/record-button.png)
++ Clique sur le microphone, mais ne dis rien. Enregistre 2 secondes de bruit de fond. ![Flèche pointant sur le bouton du microphone](images/record-button.png)
 
-+ Click the **Add** button to save your recording.
++ Clique sur le bouton **Ajouter** pour enregistrer ton enregistrement.
 
 --- /task ---
 
 --- task ---
 
-+ Repeat those steps until you have **at least eight examples** of background noise. ![Bucket filled with 8 background examples](images/8-background.png)
++ Répète ces étapes jusqu'à obtenir **au moins huit exemples** de bruit de fond. ![Élément rempli de 8 exemples de référence](images/8-background.png)
 
 --- /task ---
 
-Invent two alien words — a word that means "left" and a word that means "right".
+Invente deux mots extraterrestres : un mot qui signifie « gauche » et un mot qui signifie « droite ».
 
-Now you will record eight examples of each word so that your machine learning model can learn to recognise them.
-
---- task ---
-
-+ Click on **+ Add new label** on the top right of the screen and add a label called `left`.
-
---- /task ---
+Tu vas maintenant enregistrer huit exemples pour chaque mot pour que ton modèle d’apprentissage automatique puisse apprendre à les reconnaître.
 
 --- task ---
 
-+ Click on **+ Add example** inside the box for the new `left` label, and record yourself saying your alien word for "left".
-
-+ Repeat until you have recorded **at least eight examples**.
++ Clique sur **+ Ajouter une nouvelle étiquette** en haut à droite de l'écran et ajoute une étiquette appelée `gauche`.
 
 --- /task ---
 
 --- task ---
 
-+ Click on **+ Add new label** to create another label called `right` and record eight examples of your alien word for "right".
++ Clique sur **+ Ajouter un exemple** à l'intérieur de la case pour la nouvelle étiquette `gauche`, et enregistre-toi en disant ton mot extraterrestre pour « gauche ».
+
++ Répète jusqu'à ce que tu aies enregistré **au moins huit exemples**.
+
+--- /task ---
+
+--- task ---
+
++ Clique sur **+ Ajouter une nouvelle étiquette** pour créer une autre étiquette appelée `droite` et enregistre huit exemples de ton mot extraterrestre pour « droite ».
 
 --- /task ---
