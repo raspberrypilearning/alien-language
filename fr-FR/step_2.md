@@ -1,4 +1,4 @@
-## Set up the project
+## Configurer le projet
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,33 +8,33 @@
 
 --- task ---
 
-+ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
++ Va sur [https://machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} dans un navigateur web.
 
-+ Click on **Get started**.
++ Clique sur **Démarrez**.
 
-+ Click on **Try it now**.
-
---- /task ---
-
---- task ---
-
-+ Click on **Projects** in the menu bar at the top.
-
-+ Click on the **+ Add a new project** button.
-
-+ Name your project `Alien language` and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**. ![Creating a project](images/create-project.png)
-
-+ You should now see 'Alien language' in the projects list. Click on the project. ![Project list with alien language listed](images/projects-list.png)
++ Clique sur **Essayer maintenant**.
 
 --- /task ---
 
 --- task ---
 
-+ Click on the **Train** button. ![Project main menu with an arrow pointing to the train button](images/project-train.png)
++ Clique sur **Projets** dans la barre de menus en haut de la page.
 
-+ If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
++ Clique sur le bouton **+ Ajouter un nouveau projet**.
 
-![Popup asking you to allow the microphone, with an arrow pointing to allow every visit](images/allow-microphone.png)
++ Nomme ton projet `Langage extraterrestre` et configure-le pour qu'il apprenne à reconnaître les **sons** et stocke les données **dans ton navigateur web**. Clique ensuite sur **Faire**. ![Créer un projet](images/create-project.png)
+
++ Tu devrais maintenant voir « Langage extraterrestre » dans la liste des projets. Clique sur le projet. ![Liste de projets avec langage extraterrestre répertoriée](images/projects-list.png)
+
+--- /task ---
+
+--- task ---
+
++ Clique sur le bouton **Entraîner**. ![Menu principal du projet avec une flèche pointant vers le bouton Entraîner](images/project-train.png)
+
++ Si tu vois un message contextuel te demandant d'utiliser le microphone, clique sur **Autoriser pendant la visite du site**.
+
+![Popup te demandant d'autoriser le microphone, avec une flèche pointant pour autoriser pendant la visite du site](images/allow-microphone.png)
 
 --- /task ---
 
