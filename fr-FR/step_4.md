@@ -1,4 +1,4 @@
-## Train the model
+## Entraîner le modèle
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,31 +6,31 @@
   </div>
 </html>
 
-You have gathered the examples you need, now you will use these examples to train your machine learning model.
+Tu as rassemblé les exemples dont tu as besoin, tu vas maintenant utiliser ces exemples pour entraîner ton modèle d'apprentissage automatique.
 
 --- task ---
 
-+ Click on **Back to project** in the top left-hand corner.
++ Clique sur **Revenir au projet** dans le coin supérieur gauche.
 
-+ Click on **Learn & Test**.
++ Clique sur **Apprendre & Tester**.
 
-+ Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete. ![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
++ Clique sur le bouton **Entraîner un nouveau modèle d'apprentissage machine**. Cela peut prendre quelques minutes. ![Flèche pointant vers un bouton indiquant Entraîner un nouveau modèle d'apprentissage machine](images/train-new-model.png)
 
 --- /task ---
 
-Once the training has finished, you can test how well your model recognises the alien words you have invented.
+Une fois l'entraînement terminé, tu peux tester dans quelle mesure ton modèle reconnaît les mots extraterrestres que tu as inventés.
 
 --- task ---
 
-+ Click the **Start listening** button, then say your alien word for "left".
++ Clique sur le bouton **Commencez à écouter**, puis dis ton mot extraterrestre pour « gauche ».
 
-If your machine learning model recognises it, it will display what it predicts you said. ![Arrow pointing to the start listening button](images/test-your-model.png)
+Si ton modèle d'apprentissage automatique le reconnaît, il affichera ce qu'il te prédit. ![Flèche pointant vers le bouton Commencez à écouter](images/test-your-model.png)
 
-+ Test whether the model recognises your alien word for "right" as well.
++ Teste si le modèle reconnaît également ton mot extraterrestre pour « droite ».
 
 --- /task ---
 
-If you are not happy with how the model is working, go back to the **Train** page and add more examples, then train your model again.
+Si tu n'es pas satisfait·e de la façon dont le modèle fonctionne, retourne à la page **Entraîner** et ajoute d'autres exemples, puis entraîne ton modèle à nouveau.
 
 
 
