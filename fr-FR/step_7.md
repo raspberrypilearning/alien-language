@@ -1,3 +1,3 @@
-## What can you do now?
+## Que peux-tu faire maintenant ?
 
-There are lots of other machine learning and AI projects in the [Machine learning with Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning) pathway.
+Il existe de nombreux autres projets d'apprentissage automatique et d'IA dans le parcours [Apprentissage automatique avec Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning).
