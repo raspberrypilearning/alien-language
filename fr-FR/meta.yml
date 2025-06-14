@@ -1,5 +1,5 @@
 ---
-title: Langage extraterrestre
+title: Langue extraterrestre
 hero_image: images/banner.png
 description: Créer ton propre langage extraterrestre pour déplacer un sprite
 theme: orange
@@ -13,21 +13,21 @@ steps:
   - 
     title: Ce que tu vas faire
   - 
-    title: Set up the project
+    title: Configurer le projet
   - 
-    title: Invent two words
+    title: Inventer deux mots
     completion:
       - engaged
   - 
-    title: Train the model
+    title: Entraîner le modèle
   - 
-    title: Control the alien
+    title: Contrôler l'extraterrestre
     completion:
       - internal
   - 
-    title: 'Challenge'
+    title: 'Défi'
     challenge: true
   - 
-    title: What can you do now?
+    title: Que peux-tu faire maintenant ?
     completion:
       - external
