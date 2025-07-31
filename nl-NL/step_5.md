@@ -1,46 +1,46 @@
-## Control the alien
+## Bestuur het buitenaardse wezen
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/cAovIpUuiGo?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
   </div>
 </html>
 
-Now that your model can distinguish between words, you can use it in a Scratch program to control an alien.
+Nu je model verschillende woorden kan onderscheiden, kun je het gebruiken in een Scratch-programma om een buitenaards wezen te besturen.
 
 --- task ---
 
-+ Click on the **< Back to project** link.
++ Klik op de link **Terug naar project** in de linkerbovenhoek.
 
-+ Click on **Make**.
++ Klik op de knop **Leer & Test**.
 
-+ Click on **Scratch 3**.
++ Klik op **Train nieuw machine learning model**.
 
-+ Click on **Open in Scratch 3**.
++ Klik op **Open in Scratch 3**.
 
 --- /task ---
 
 --- task ---
 
-+ Click on **Project templates** at the top and select the 'Alien language' project to load the alien sprite, which already has some code added.
++ Klik bovenaan op **Project templates** en selecteer het project 'Alien language' om de Alien sprite te laden, waaraan al wat code is toegevoegd.
 
-![Alien language project is selected in the Scratch templates](images/alien-language.png)
-
---- /task ---
-
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. This project template also contains special 'walk left' and 'walk right' blocks inside "My Blocks". Find both at the bottom of the blocks list.
-
-![Alien language blocks shown in the menu underneath My Blocks and Images](images/new-blocks.png)
-
---- task ---
-
-+ Make sure you have the **Alien** sprite selected, then click on the **Code** tab and add this code. (Keep the code that is already there!) ![Add code to control the alien: When flag clicked, start listening. When I hear left, say left and walk left. When I hear right, say right and walk right.](images/control-alien-blocks.png)
+![Het project 'Alien language' is geselecteerd in de Scratch sjablonen](images/alien-language.png)
 
 --- /task ---
 
+Machine Learning for Kids heeft een paar speciale blokken aan Scratch toegevoegd om het model dat je net hebt getraind te kunnen gebruiken. Dit projectsjabloon bevat ook speciale blokken 'loop naar links' en 'loop naar rechts' in 'Mijn blokken'. Je vindt ze onderaan de lijst met blokken.
+
+![Buitenaardse taalblokken worden weergegeven in het menu onder Mijn blokken en afbeeldingen](images/new-blocks.png)
+
 --- task ---
 
-+ Click the **green flag** and say your alien words for "left" and "right". Check that the alien moves the way you expected.
++ Zorg ervoor dat je de sprite **Alien** hebt geselecteerd en klik vervolgens op het tabblad **Code** en voeg deze code toe. (Behoud de code die er al is!) ![Voeg code toe om de alien te besturen: wanneer op groene vlag wordt geklikt start listening. Als ik links hoor, zeg dan links en loop naar links. Als ik rechts hoor, zeg dan rechts en loop naar rechts.](images/control-alien-blocks.png)
+
+--- /task ---
+
+--- task ---
+
++ Klik op de **groene vlag** en zeg jouw buitenaardse woorden voor "links" en "rechts". Controleer of de Alien beweegt zoals je verwacht.
 
 --- /task ---
 
