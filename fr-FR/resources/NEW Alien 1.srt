@@ -1,0 +1,26 @@
+1
+00:00:04,760 --> 00:00:11,520
+Va sur rpf.io/ML4K et clique sur « Démarrez ».
+
+2
+00:00:11,520 --> 00:00:15,560
+Clique sur « Essayer maintenant ».
+
+3
+00:00:15,560 --> 00:00:20,560
+Ajoute un nouveau projet appelé « Langage extraterrestre ».
+
+4
+00:00:20,560 --> 00:00:28,280
+Définis le type de projet sur « reconnaissance sons »,
+et stockage sur « dans votre navigateur ».
+
+5
+00:00:28,280 --> 00:00:34,840
+Crée le projet, puis 
+clique sur le titre du projet.
+
+6
+00:00:34,840 --> 00:00:40,000
+Clique maintenant sur « Entraîner ».
+
