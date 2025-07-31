@@ -1,25 +1,20 @@
 1
 00:00:03,600 --> 00:00:07,160
-Allow the site to access 
-your microphone if it asks.
+Geef de site toegang tot jouw microfoon als daarom wordt gevraagd.
 
 2
 00:00:07,160 --> 00:00:12,440
-Record a sample of background 
-noise - so just don't say anything.
+Maak een opname van achtergrond geluid - zeg dus niets.
 
 3
 00:00:12,440 --> 00:00:17,800
-Now repeat that until you have 
-eight samples of background noise.
+Herhaal dit totdat je acht samples van achtergrondgeluiden hebt.
 
 4
 00:00:17,800 --> 00:00:27,040
-Add a label for left, and record your 
-made up alien word for left, eight times.
+Voeg een label voor links toe en neem het door jou verzonnen buitenaardse woord voor links acht keer op.
 
 5
 00:00:27,040 --> 00:00:38,120
-Next, add a label for right and record 
-a different made up word, eight times.
+Voeg vervolgens een label voor rechts toe en maak acht keer een opname van een ander zelfbedacht woord.
 
