@@ -1,10 +1,10 @@
-## Challenge
+## Uitdaging
 
 --- challenge ---
 
 --- task ---
 
-**Move up and down**: Go back to your model and add two more labels for "up" and "down", then modify your Scratch code so that you can move the alien in all four directions.
+**Omhoog en omlaag bewegen**: Ga terug naar je model en voeg nog twee labels toe voor "omhoog" en "omlaag". Pas vervolgens je Scratch code aan zodat je de alien in alle vier de richtingen kunt bewegen.
 
 --- /task ---
 
