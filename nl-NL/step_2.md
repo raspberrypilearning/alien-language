@@ -1,4 +1,4 @@
-## Set up the project
+## Gebruik een vooraf getraind model
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,33 +8,34 @@
 
 --- task ---
 
-+ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
++ Ga naar [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
+--- /task ---
 
-+ Click on **Get started**.
++ Klik op **Begin**.
 
-+ Click on **Try it now**.
++ Klik op **Probeer nu**.
 
 --- /task ---
 
 --- task ---
 
-+ Click on **Projects** in the menu bar at the top.
++ Klik op **Projecten** in de menubalk bovenaan.
 
-+ Click on the **+ Add a new project** button.
++ Klik op de knop **+ Voeg een nieuw project toe**.
 
-+ Name your project `Alien language` and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**. ![Creating a project](images/create-project.png)
++ Geef je project de naam `Buitenaardse taal` en stel het in om geluiden te leren herkennen ****en sla gegevens op **in je webbrowser**. Klik vervolgens op **Creëer**. ![Een project maken](images/create-project.png)
 
-+ You should now see 'Alien language' in the projects list. Click on the project. ![Project list with alien language listed](images/projects-list.png)
++ Je zou nu 'Buitenaardse taal' in de projectenlijst moeten zien. Klik op dit project. ![Projectlijst met vermelding van buitenaardse taal](images/projects-list.png)
 
 --- /task ---
 
 --- task ---
 
-+ Click on the **Train** button. ![Project main menu with an arrow pointing to the train button](images/project-train.png)
++ Klik op de knop **Train**. ![Project hoofdmenu met een pijl naar de Train button](images/project-train.png)
 
-+ If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
++ Als je een pop-upbericht ziet met de vraag om de microfoon te gebruiken, klik dan op **Toestaan bij elk bezoek**.
 
-![Popup asking you to allow the microphone, with an arrow pointing to allow every visit](images/allow-microphone.png)
+![Pop-up waarin je wordt gevraagd de microfoon toe te staan, met een pijl die wijst naar elk bezoek](images/allow-microphone.png)
 
 --- /task ---
 
