@@ -1,4 +1,4 @@
-## Train the model
+## Maak buitenaardse woorden
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,31 +6,31 @@
   </div>
 </html>
 
-You have gathered the examples you need, now you will use these examples to train your machine learning model.
+Je hebt de voorbeelden verzameld die je nodig hebt, nu ga je deze gebruiken om jouw machine learning model te trainen.
 
 --- task ---
 
-+ Click on **Back to project** in the top left-hand corner.
++ Klik op **Terug naar project** in de linkerbovenhoek.
 
-+ Click on **Learn & Test**.
++ Klik op **Leer & Test**.
 
-+ Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete. ![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
++ Klik op de knop met het label **Train nieuw machine learning model**. Dit kan enkele minuten duren. ![Pijl die naar de knop wijst met de tekst Train nieuw machine learning model](images/train-new-model.png)
 
 --- /task ---
 
-Once the training has finished, you can test how well your model recognises the alien words you have invented.
+Zodra het trainen is voltooid, kun je testen hoe goed jouw model jouw zelfbedachte buitenaardse woorden herkent.
 
 --- task ---
 
-+ Click the **Start listening** button, then say your alien word for "left".
++ Neem **minimaal 8 voorbeelden** van je buitenaardse woord op voor 'rechts'.
 
-If your machine learning model recognises it, it will display what it predicts you said. ![Arrow pointing to the start listening button](images/test-your-model.png)
+Als je machine learning model dit herkent, wordt weergegeven wat het model voorspelt dat jij hebt gezegd. ![Pijl die naar de knop 'Start listening' wijst](images/test-your-model.png)
 
-+ Test whether the model recognises your alien word for "right" as well.
++ Test of het model ook jouw buitenaardse woord voor "rechts" herkent.
 
 --- /task ---
 
-If you are not happy with how the model is working, go back to the **Train** page and add more examples, then train your model again.
+Als je niet tevreden bent met hoe het model werkt, ga dan terug naar de **Train** pagina en voeg meer voorbeelden toe, en train daarna je model opnieuw.
 
 
 
