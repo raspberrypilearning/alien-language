@@ -1,0 +1,25 @@
+1
+00:00:03,600 --> 00:00:07,160
+Autorise le site à accéder à 
+ton microphone s'il le demande.
+
+2
+00:00:07,160 --> 00:00:12,440
+Enregistre un échantillon de bruit 
+de fond - alors ne dis rien.
+
+3
+00:00:12,440 --> 00:00:17,800
+Répète maintenant cela jusqu’à ce que tu aies 
+huit échantillons de bruit de fond.
+
+4
+00:00:17,800 --> 00:00:27,040
+Ajoute une étiquette pour gauche et enregistre ton 
+mot extraterrestre inventé pour gauche, huit fois.
+
+5
+00:00:27,040 --> 00:00:38,120
+Ensuite, ajoute une étiquette pour droite et enregistre 
+un mot inventé différent, huit fois.
+

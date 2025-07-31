@@ -1,0 +1,16 @@
+1
+00:00:04,160 --> 00:00:11,320
+Clique sur « Revenir au projet », puis sur « Apprendre & Tester ».
+
+2
+00:00:11,320 --> 00:00:15,520
+Il est temps d'entraîner ton modèle !
+
+3
+00:00:15,520 --> 00:00:19,160
+Teste le modèle en prononçant un de tes mots :
+
+4
+00:00:19,160 --> 00:00:27,520
+Blop !
+

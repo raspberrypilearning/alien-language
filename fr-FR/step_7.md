@@ -1,17 +1,12 @@
-## Défi : ajouter de nouvelles commandes
+## Que peux-tu faire maintenant ?
 
---- challenge ---
+Il existe de nombreux autres projets d'apprentissage automatique et d'IA dans le parcours [Apprentissage automatique avec Scratch](https://projects.raspberrypi.org/fr-FR/pathways/scratch-machine-learning).
 
---- task ---
+***
 
-+ Maintenant, tu peux ajouter deux autres éléments d’entraînement pour « haut » et « bas », de manière à pouvoir contrôler l’extraterrestre à se déplacer dans les quatre directions.
+Ce projet a été traduit par des bénévoles:
 
---- /task ---
+Jonathan Vannieuwkerke
+Michel Arnols
 
---- task ---
-
-+ Peux-tu réfléchir à autre chose pour laquelle tu pourrais utiliser un modèle d’apprentissage machine ?
-
---- /task ---
-
---- /challenge ---
+Grâce aux bénévoles, nous pouvons donner aux gens du monde entier la chance d'apprendre dans leur propre langue. Vous pouvez nous aider à atteindre plus de personnes en vous portant volontaire pour la traduction - plus d'informations sur [rpf.io/translate](https://rpf.io/translate).

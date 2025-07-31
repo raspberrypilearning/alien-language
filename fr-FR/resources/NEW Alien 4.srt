@@ -1,0 +1,35 @@
+1
+00:00:04,680 --> 00:00:08,640
+Clique maintenant à nouveau sur « Revenir au projet » et 
+cette fois, choisis « Faire ».
+
+2
+00:00:08,640 --> 00:00:14,160
+Utilisons le modèle dans Scratch !
+
+3
+00:00:14,160 --> 00:00:21,920
+Va dans « Modèles de projets » et sélectionne 
+le modèle pour « Alien language ».
+
+4
+00:00:21,920 --> 00:00:24,360
+Du code a été ajouté pour toi.
+
+5
+00:00:24,360 --> 00:00:29,960
+Fais glisser les blocs de code pour déplacer 
+l'extraterrestre lorsque tu parles.
+
+6
+00:00:36,800 --> 00:00:40,800
+Testons.
+
+7
+00:00:40,800 --> 00:00:43,840
+Blop !
+
+8
+00:00:43,840 --> 00:00:50,200
+Waouh !
+

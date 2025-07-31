@@ -1,53 +1,44 @@
-## Introduction
+## Ce que tu vas faire
 
-Dans ce projet, tu vas apprendre à l'ordinateur à comprendre une langue extraterrestre. Tu vas utiliser cela pour contrôler un personnage extraterrestre afin qu'il puisse comprendre ce que tu lui dis de faire.
+Entraîne un modèle d’apprentissage automatique pour reconnaître une langue extraterrestre et utilise-le dans Scratch pour contrôler un extraterrestre.
 
-### Ce que tu feras
+Tu auras besoin d'un **microphone**.
 
---- no-print ---
-
-![L'extraterrestre se déplaçant de gauche à droite pour de nouveaux mots, Eeek et Bop](images/journey.gif)
-
---- /no-print ---
-
---- print-only ---
-
-![Vue d'ensemble du projet Scratch complet](images/test-new-blocks.png)
-
---- /print-only ---
+![L'extraterrestre se déplaçant de gauche à droite pour de nouveaux mots, Eeek et Bop](images/whatyouwillmake.gif)
 
 --- collapse ---
+
 ---
-title: Ce qu'il te faut
+title: Où sont stockés mes enregistrements vocaux ?
 ---
 
-+ Un ordinateur avec un micro
-
-+ Un accès à Internet
+- Ce projet utilise une technologie appelée « apprentissage automatique ». Les systèmes d'apprentissage automatique sont entraînés à l'aide d'une grande quantité de données.
+- Ce projet ne nécessite pas la création d'un compte ou d'une connexion. Pour ce projet, les exemples que tu utilises pour réaliser le modèle ne sont stockés que temporairement dans ton navigateur (uniquement sur ta machine).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Ce que tu vas apprendre
+title: Pas de YouTube ? Télécharge les vidéos !
 ---
-+ Comment utiliser l'extension « Synthèse vocale » dans Scratch 3 avec un modèle prédéfini
-+ Comment entraîner un modèle d'apprentissage machine pour reconnaître des sons
-+ Comment utiliser ton modèle d'apprentissage machine entraîné dans Scratch 3
+
+Tu peux [télécharger l'ensemble des vidéos de ce projet](https://rpf.io/p/fr-FR/alien-language-go){:target="_blank"}.
+
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Informations supplémentaires pour les éducateurs
+title: License
 ---
-
-Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/fr-FR/projects/alien-language/print){:target="_blank"}.
-
---- /collapse ---
-
-### Licence
 
 Ce projet fait l'objet d'une double licence, à la fois sous une licence [Creative Commons Attribution, une licence à part égale et non commerciale](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} et une licence [Apache, version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
 
 Nous aimerions remercier Dale de machinelearningforkids.co.uk pour tout son travail sur ce projet.
+
+--- /collapse ---
+
+
+
+
+
