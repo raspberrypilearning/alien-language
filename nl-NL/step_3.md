@@ -1,4 +1,4 @@
-## Invent two words
+## Maak een nieuw project
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,44 +6,44 @@
   </div>
 </html>
 
-First, you will collect samples of background noise. This will help your machine learning model to tell the difference between the sounds that you will train it to recognise, and the background noise where you are.
+Eerst verzamel je voorbeelden van achtergrondgeluiden. Door achtergrondgeluid op te nemen, kan je machine learning-model het verschil horen tussen de geluiden die je zult gebruiken om te herkennen en het achtergrondgeluid van waar je bent.
 
 --- task ---
 
-+ Click the **+ Add example** button in **background noise**.
++ Klik op de **+ voeg een voorbeeld toe** knop in **background noise**.
 
-+ Click on the microphone, but don't say anything. Record 2 seconds of background noise. ![Arrow pointing to microphone button](images/record-button.png)
++ Klik op de microfoon, maar zeg niets. Neem 2 seconden achtergrondgeluid op. ![Pijl wijzend naar microfoonknop](images/record-button.png)
 
-+ Click the **Add** button to save your recording.
++ Klik op de knop **VOEG TOE** om jouw opname op te slaan.
 
 --- /task ---
 
 --- task ---
 
-+ Repeat those steps until you have **at least eight examples** of background noise. ![Bucket filled with 8 background examples](images/8-background.png)
++ Herhaal deze stappen totdat je **minimaal acht voorbeelden** van achtergrondgeluiden hebt. ![Container gevuld met 8 achtergrond voorbeelden](images/8-background.png)
 
 --- /task ---
 
-Invent two alien words — a word that means "left" and a word that means "right".
+Bedenk twee buitenaardse woorden: een woord dat "links" betekent en een woord dat "rechts" betekent.
 
-Now you will record eight examples of each word so that your machine learning model can learn to recognise them.
-
---- task ---
-
-+ Click on **+ Add new label** on the top right of the screen and add a label called `left`.
-
---- /task ---
+Nu ga je acht voorbeelden van elk woord vastleggen, zodat jouw machine learning-model deze kan leren herkennen.
 
 --- task ---
 
-+ Click on **+ Add example** inside the box for the new `left` label, and record yourself saying your alien word for "left".
-
-+ Repeat until you have recorded **at least eight examples**.
++ Klik rechtsboven in het scherm op **+ Voeg een nieuw label toe** en voeg een label toe met de naam `links`.
 
 --- /task ---
 
 --- task ---
 
-+ Click on **+ Add new label** to create another label called `right` and record eight examples of your alien word for "right".
++ Klik op **+ Voeg een voorbeeld toe** in het vak voor het nieuwe `links` label en neem jezelf op terwijl je jouw buitenaards woord voor "links" zegt.
+
++ Herhaal dit totdat je **minstens acht voorbeelden** hebt opgenomen.
+
+--- /task ---
+
+--- task ---
+
++ Klik op **+ Voeg een nieuw label toe** om een ander label te maken met de naam `rechts` en neem acht voorbeelden van jouw buitenaardse woord voor "rechts" op.
 
 --- /task ---
