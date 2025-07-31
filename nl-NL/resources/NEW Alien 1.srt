@@ -1,26 +1,25 @@
 1
 00:00:04,760 --> 00:00:11,520
-Go to rpf.io/ML4K and click 'Get started'.
+Ga naar rpf.io/ml4k en klik op 'Begin'.
 
 2
 00:00:11,520 --> 00:00:15,560
-Click 'Try it now'.
+Klik op 'Probeer nu'.
 
 3
 00:00:15,560 --> 00:00:20,560
-Add a new project called 'Alien language'.
+Voeg een nieuw project toe met de naam 'Buitenaardse taal.
 
 4
 00:00:20,560 --> 00:00:28,280
-Set the project type to 'recognising sound,' 
-and the storage to 'in your browser'.
+Stel het projecttype in op 'herkenning sounds', en de opslag op 'in your webbrowser'.
 
 5
 00:00:28,280 --> 00:00:34,840
-Create the project, then 
-click on the project title.
+Creëer het project en klik vervolgens
+op de projecttitel.
 
 6
 00:00:34,840 --> 00:00:40,000
-Now click on 'Train'.
+Klik nu op 'Train'.
 
