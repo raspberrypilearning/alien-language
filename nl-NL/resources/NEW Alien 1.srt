@@ -12,12 +12,13 @@ Voeg een nieuw project toe met de naam 'Buitenaardse taal.
 
 4
 00:00:20,560 --> 00:00:28,280
-Stel het projecttype in op 'herkenning sounds', en de opslag op 'in your webbrowser'.
+Stel het projecttype in op 'herkenning sounds',
+en de opslag op 'in your webbrowser'.
 
 5
 00:00:28,280 --> 00:00:34,840
-Creëer het project en klik vervolgens
-op de projecttitel.
+Creëer het project en klik 
+vervolgens op de projecttitel.
 
 6
 00:00:34,840 --> 00:00:40,000
