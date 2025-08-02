@@ -1,4 +1,4 @@
-## Maak buitenaardse woorden
+## Train het model
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -22,7 +22,7 @@ Zodra het trainen is voltooid, kun je testen hoe goed jouw model jouw zelfbedach
 
 --- task ---
 
-+ Neem **minimaal 8 voorbeelden** van je buitenaardse woord op voor 'rechts'.
++ Klik op de knop **Begin met luisteren** en zeg vervolgens het buitenaardse woord voor "links".
 
 Als je machine learning model dit herkent, wordt weergegeven wat het model voorspelt dat jij hebt gezegd. ![Pijl die naar de knop 'Start listening' wijst](images/test-your-model.png)
 
