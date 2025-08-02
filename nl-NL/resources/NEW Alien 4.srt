@@ -18,8 +18,8 @@ Er is al wat code voor je toegevoegd.
 
 5
 00:00:24,360 --> 00:00:29,960
-Versleep de codeblokken zodat de alien
-beweegt als je praat.
+Versleep de codeblokken zodat 
+de alien beweegt als je praat.
 
 6
 00:00:36,800 --> 00:00:40,800
