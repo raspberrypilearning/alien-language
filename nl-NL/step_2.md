@@ -1,4 +1,4 @@
-## Gebruik een vooraf getraind model
+## Het project opzetten
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,8 +8,7 @@
 
 --- task ---
 
-+ Ga naar [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
---- /task ---
++ Ga naar [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in een webbrowser.
 
 + Klik op **Begin**.
 
@@ -23,7 +22,7 @@
 
 + Klik op de knop **+ Voeg een nieuw project toe**.
 
-+ Geef je project de naam `Buitenaardse taal` en stel het in om geluiden te leren herkennen ****en sla gegevens op **in je webbrowser**. Klik vervolgens op **Creëer**. ![Een project maken](images/create-project.png)
++ Geef je project de naam `Buitenaardse taal` en stel het in om geluiden te leren herkennen **** en sla gegevens op **in je webbrowser**. Klik vervolgens op **Creëer**. ![Een project maken](images/create-project.png)
 
 + Je zou nu 'Buitenaardse taal' in de projectenlijst moeten zien. Klik op dit project. ![Projectlijst met vermelding van buitenaardse taal](images/projects-list.png)
 
@@ -31,11 +30,11 @@
 
 --- task ---
 
-+ Klik op de knop **Train**. ![Project hoofdmenu met een pijl naar de Train button](images/project-train.png)
++ Klik op de knop **Train**. ![Project hoofdmenu met een pijl naar de train-knop](images/project-train.png)
 
 + Als je een pop-upbericht ziet met de vraag om de microfoon te gebruiken, klik dan op **Toestaan bij elk bezoek**.
 
-![Pop-up waarin je wordt gevraagd de microfoon toe te staan, met een pijl die wijst naar elk bezoek](images/allow-microphone.png)
+![Pop-up waarin je wordt gevraagd de microfoon toe te staan, met een pijl die wijst toestaan bij elk bezoek](images/allow-microphone.png)
 
 --- /task ---
 
