@@ -12,9 +12,9 @@ Nu je model verschillende woorden kan onderscheiden, kun je het gebruiken in een
 
 + Klik op de link **Terug naar project** in de linkerbovenhoek.
 
-+ Klik op de knop **Leer & Test**.
++ Klik op **Maak**.
 
-+ Klik op **Train nieuw machine learning model**.
++ Klik op **Scratch 3**.
 
 + Klik op **Open in Scratch 3**.
 
@@ -30,11 +30,11 @@ Nu je model verschillende woorden kan onderscheiden, kun je het gebruiken in een
 
 Machine Learning for Kids heeft een paar speciale blokken aan Scratch toegevoegd om het model dat je net hebt getraind te kunnen gebruiken. Dit projectsjabloon bevat ook speciale blokken 'loop naar links' en 'loop naar rechts' in 'Mijn blokken'. Je vindt ze onderaan de lijst met blokken.
 
-![Buitenaardse taalblokken worden weergegeven in het menu onder Mijn blokken en afbeeldingen](images/new-blocks.png)
+![Buitenaardse taal-blokken worden weergegeven in het menu onder Mijn blokken en Afbeeldingen](images/new-blocks.png)
 
 --- task ---
 
-+ Zorg ervoor dat je de sprite **Alien** hebt geselecteerd en klik vervolgens op het tabblad **Code** en voeg deze code toe. (Behoud de code die er al is!) ![Voeg code toe om de alien te besturen: wanneer op groene vlag wordt geklikt start listening. Als ik links hoor, zeg dan links en loop naar links. Als ik rechts hoor, zeg dan rechts en loop naar rechts.](images/control-alien-blocks.png)
++ Zorg ervoor dat je de sprite **Alien** hebt geselecteerd en klik vervolgens op het tabblad **Code** en voeg deze code toe. (Behoud de code die er al is!) ![Voeg code toe om de alien te besturen: Wanneer op groene vlag wordt geklikt start listening. Als ik links hoor, zeg dan links en loop naar links. Als ik rechts hoor, zeg dan rechts en loop naar rechts.](images/control-alien-blocks.png)
 
 --- /task ---
 
