@@ -1,4 +1,4 @@
-## Maak een nieuw project
+## Verzin twee woorden
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,11 +6,11 @@
   </div>
 </html>
 
-Eerst verzamel je voorbeelden van achtergrondgeluiden. Door achtergrondgeluid op te nemen, kan je machine learning-model het verschil horen tussen de geluiden die je zult gebruiken om te herkennen en het achtergrondgeluid van waar je bent.
+Eerst verzamel je voorbeelden van achtergrondgeluiden. Dit helpt je machine learning-model om het verschil te horen tussen de geluiden die je zult gebruiken om te herkennen en het achtergrondgeluid van waar je bent.
 
 --- task ---
 
-+ Klik op de **+ voeg een voorbeeld toe** knop in **background noise**.
++ Klik op de **+ Voeg een voorbeeld toe** knop in **background noise**.
 
 + Klik op de microfoon, maar zeg niets. Neem 2 seconden achtergrondgeluid op. ![Pijl wijzend naar microfoonknop](images/record-button.png)
 
