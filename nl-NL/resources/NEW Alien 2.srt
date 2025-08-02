@@ -1,20 +1,25 @@
 1
 00:00:03,600 --> 00:00:07,160
-Geef de site toegang tot jouw microfoon als daarom wordt gevraagd.
+Geef de site toegang tot jouw microfoon 
+als daarom wordt gevraagd.
 
 2
 00:00:07,160 --> 00:00:12,440
-Maak een opname van achtergrond geluid - zeg dus niets.
+Maak een opname van achtergrond- 
+geluid - zeg dus niets.
 
 3
 00:00:12,440 --> 00:00:17,800
-Herhaal dit totdat je acht samples van achtergrondgeluiden hebt.
+Herhaal dit totdat je acht samples 
+van achtergrondgeluiden hebt.
 
 4
 00:00:17,800 --> 00:00:27,040
-Voeg een label voor links toe en neem het door jou verzonnen buitenaardse woord voor links acht keer op.
+Voeg een label voor links toe en neem het door jou 
+verzonnen buitenaardse woord voor links acht keer op.
 
 5
 00:00:27,040 --> 00:00:38,120
-Voeg vervolgens een label voor rechts toe en maak acht keer een opname van een ander zelfbedacht woord.
+Voeg vervolgens een label voor rechts toe en maak 
+acht keer een opname van een ander zelfbedacht woord.
 
