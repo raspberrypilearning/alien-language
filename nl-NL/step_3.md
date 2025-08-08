@@ -1,20 +1,51 @@
-## Maak een nieuw project
-In de volgende paar stappen train je een machine learning-model om te zien hoe dat wordt gedaan. Voor het volgende deel van het project gebruik je je stem om een buitenaards personage te besturen dat geen Engels begrijpt! Je zult twee nieuwe woorden uitvinden die je niet in een woordenboek zult vinden. Vervolgens zul je de woorden gebruiken om het buitenaardse karakter te besturen en een machine learning-model trainen om ze te herkennen.
+## Verzin twee woorden
 
-Ga eerst naar de website Machine Learning for Kids en maak een project.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/au4cDSYW_EQ?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
---- task ---
-+ Ga naar [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}.
-
-+ Klik op **Begin**.
-
-+ Klik op **Probeer nu**. --- /task ---
+Eerst verzamel je voorbeelden van achtergrondgeluiden. Dit helpt je machine learning-model om het verschil te horen tussen de geluiden die je zult gebruiken om te herkennen en het achtergrondgeluid van waar je bent.
 
 --- task ---
-+ Klik op **Projecten** in de menubalk bovenaan de pagina.
 
-+ Klik op de knop **Voeg een nieuw project toe**.
++ Klik op de **+ Voeg een voorbeeld toe** knop in **background noise**.
 
-+ Geef je project als naam `Buitenaardse taal` en stel het in om te leren hoe het `geluiden (sounds)` herkent. Klik vervolgens op de knop **Creëer**. ![Een project maken](images/create.png)
++ Klik op de microfoon, maar zeg niets. Neem 2 seconden achtergrondgeluid op.
+![Pijl wijzend naar microfoonknop](images/record-button.png)
 
-+ Je zou `Buitenaardse taal` in de projectenlijst moeten zien. Klik op het project `Buitenaardse taal`. --- /task ---
++ Klik op de knop **VOEG TOE** om jouw opname op te slaan.
+
+--- /task ---
+
+--- task ---
+
++ Herhaal deze stappen totdat je **minimaal acht voorbeelden** van achtergrondgeluiden hebt.
+![Container gevuld met 8 achtergrond voorbeelden](images/8-background.png)
+
+--- /task ---
+
+Bedenk twee buitenaardse woorden: een woord dat "links" betekent en een woord dat "rechts" betekent.
+
+Nu ga je acht voorbeelden van elk woord vastleggen, zodat jouw machine learning-model deze kan leren herkennen.
+
+--- task ---
+
++ Klik rechtsboven in het scherm op **+ Voeg een nieuw label toe** en voeg een label toe met de naam `links`.
+
+--- /task ---
+
+--- task ---
+
++ Klik op **+ Voeg een voorbeeld toe** in het vak voor het nieuwe `links` label en neem jezelf op terwijl je jouw buitenaards woord voor "links" zegt.
+
++ Herhaal dit totdat je **minstens acht voorbeelden** hebt opgenomen.
+
+--- /task ---
+
+--- task ---
+
++ Klik op **+ Voeg een nieuw label toe** om een ander label te maken met de naam `rechts` en neem acht voorbeelden van jouw buitenaardse woord voor "rechts" op.
+
+--- /task ---

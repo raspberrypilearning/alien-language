@@ -10,15 +10,16 @@ software: scratch
 version: 4.0.0
 last_tested: '2019-06-04'
 steps:
-- title: Inleiding
-- title: Gebruik een vooraf getraind model
-- title: Maak een nieuw project
+- title: Wat ga je maken
+- title: Het project opzetten
+- title: Verzin twee woorden
   completion:
   - engaged
-- title: Maak buitenaardse woorden
-- title: Train een nieuw model voor machine learning
-- title: Gebruik buitenaardse woorden in Scratch
+- title: Train het model
+- title: Bestuur het buitenaardse wezen
   completion:
   - internal
-- title: 'Uitdaging: voeg nieuwe opdrachten toe'
+- title: 'Uitdaging'
   challenge: true
+  completion:
+  - external

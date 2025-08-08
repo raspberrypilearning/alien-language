@@ -1,22 +1,51 @@
-## Train een nieuw model voor machine learning
-In deze stap gebruik je de voorbeelden die je in de laatste stap hebt verzameld om de computer te trainen in het herkennen van jouw nieuwe woorden.
+## Bestuur het buitenaardse wezen
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/cAovIpUuiGo?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
+
+Nu je model verschillende woorden kan onderscheiden, kun je het gebruiken in een Scratch-programma om een buitenaards wezen te besturen.
 
 --- task ---
 
-+ Klik op de link **Terug naar project** in de linkerbovenhoek. ![Pijl wijzend naar Terug naar project knop](images/8-right-annotated.png)
++ Klik op de link **Terug naar project** in de linkerbovenhoek.
 
-+ Klik op de knop **Leer & Test**. ![Pijl wijzend naar de knop Leren en testen](images/learn-test-annotated.png)
++ Klik op **Maak**.
 
-+ Klik op **Train nieuw machine learning model**. Dit kan enkele minuten duren. ![Pijl wijzend naar Train nieuw machine learning-model](images/train-annotated.png)
++ Klik op **Scratch 3**.
+
++ Klik op **Open in Scratch 3**.
 
 --- /task ---
 
 --- task ---
 
-+ Nadat de training is voltooid, klik je op de knop **Start listening** om je machine learning-model te testen. Zeg een van de woorden (of maak een van de geluiden) die je de computer hebt getraind om te herkennen als "links" of "rechts". Als je machine learning-model dit herkent, wordt weergegeven wat het denkt te hebben gezegd. ![Pijl wijzend naar wat de computer denkt dat je hebt gezegd](images/start-listening-annotated.png)
++ Klik bovenaan op **Project templates** en selecteer het project 'Alien language' om de Alien sprite te laden, waaraan al wat code is toegevoegd.
 
-+ Als je niet tevreden bent met hoe het model werkt, ga je terug naar de pagina **Train** en voeg je meer voorbeelden toe aan alle drie de trainings containers.
-
-+ Als je tevreden bent met jouw machine learning-model, ga je verder met de volgende stap.
+![Het project 'Alien language' is geselecteerd in de Scratch sjablonen](images/alien-language.png)
 
 --- /task ---
+
+Machine Learning for Kids heeft een paar speciale blokken aan Scratch toegevoegd om het model dat je net hebt getraind te kunnen gebruiken. Dit projectsjabloon bevat ook speciale blokken 'loop naar links' en 'loop naar rechts' in 'Mijn blokken'. Je vindt ze onderaan de lijst met blokken.
+
+![Buitenaardse taal-blokken worden weergegeven in het menu onder Mijn blokken en Afbeeldingen](images/new-blocks.png)
+
+--- task ---
+
++ Zorg ervoor dat je de sprite **Alien** hebt geselecteerd en klik vervolgens op het tabblad **Code** en voeg deze code toe. (Behoud de code die er al is!)
+![Voeg code toe om de alien te besturen: Wanneer op groene vlag wordt geklikt start listening. Als ik links hoor, zeg dan links en loop naar links. Als ik rechts hoor, zeg dan rechts en loop naar rechts.](images/control-alien-blocks.png)
+
+--- /task ---
+
+--- task ---
+
++ Klik op de **groene vlag** en zeg jouw buitenaardse woorden voor "links" en "rechts". Controleer of de Alien beweegt zoals je verwacht.
+
+--- /task ---
+
+
+
+
+
