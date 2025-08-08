@@ -22,7 +22,7 @@
 
 + Klik op de knop **+ Voeg een nieuw project toe**.
 
-+ Geef je project de naam `Buitenaardse taal` en stel het in om geluiden te leren herkennen **** en sla gegevens op **in je webbrowser**. Klik vervolgens op **Creëer**.
++ Geef je project de naam `Buitenaardse taal` en stel het in om **geluiden** te leren herkennen en sla gegevens op **in je webbrowser**. Klik vervolgens op **Creëer**.
 ![Een project maken](images/create-project.png)
 
 + Je zou nu 'Buitenaardse taal' in de projectenlijst moeten zien. Klik op dit project.
