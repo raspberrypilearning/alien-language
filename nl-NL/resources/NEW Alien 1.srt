@@ -1,0 +1,26 @@
+1
+00:00:04,760 --> 00:00:11,520
+Ga naar rpf.io/ml4k en klik op 'Begin'.
+
+2
+00:00:11,520 --> 00:00:15,560
+Klik op 'Probeer nu'.
+
+3
+00:00:15,560 --> 00:00:20,560
+Voeg een nieuw project toe met de naam 'Buitenaardse taal.
+
+4
+00:00:20,560 --> 00:00:28,280
+Stel het projecttype in op 'herkenning sounds',
+en de opslag op 'in your webbrowser'.
+
+5
+00:00:28,280 --> 00:00:34,840
+Creëer het project en klik 
+vervolgens op de projecttitel.
+
+6
+00:00:34,840 --> 00:00:40,000
+Klik nu op 'Train'.
+

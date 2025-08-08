@@ -1,53 +1,44 @@
-## Inleiding
+## Wat ga je maken
 
-In dit project zul je de computer trainen om een buitenaardse taal te begrijpen. Je zult dat gebruiken om een buitenaards karakter te besturen, zodat het kan begrijpen wat je zegt dat het moet doen.
+Train een machine learning-model om een buitenaardse taal te herkennen en gebruik dit in Scratch om een buitenaards wezen te besturen.
 
-### Wat ga je maken
+Je hebt een **microfoon** nodig.
 
---- no-print ---
-
-![Alien beweegt links en rechts door nieuwe woorden, Eeek en Bop](images/journey.gif)
-
---- /no-print ---
-
---- print-only ---
-
-![Overzicht van het volledige Scratch-project](images/test-new-blocks.png)
-
---- /print-only ---
+![Alien beweegt links en rechts door nieuwe woorden, Eek en Bop](images/whatyouwillmake.gif)
 
 --- collapse ---
+
 ---
-title: Wat heb je nodig
+title: Waar worden mijn spraakopnames opgeslagen?
 ---
 
-+ Een computer met een microfoon
-
-+ Internettoegang
+- Dit project maakt gebruik van een technologie genaamd 'machine learning'. Machine learning-systemen worden getraind met behulp van een grote hoeveelheid data.
+- Voor dit project hoef je geen account aan te maken of in te loggen. Voor dit project worden de voorbeelden die je gebruikt om het model te maken tijdelijk opgeslagen in je browser (alleen op je machine).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Wat ga je leren
+title: Geen YouTube? Download de video's!
 ---
-+ De extensie spraak naar tekst in Scratch 3 gebruiken met een vooraf getraind model
-+ Hoe een machine learning model te trainen om geluiden te herkennen
-+ Gebruik van jouw getraind machine learning-model in Scratch 3
+
+Je kunt [alle video's voor dit project downloaden](https://rpf.io/p/nl-NL/alien-language-go){:target="_blank"}.
+
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Aanvullende informatie voor docenten
+title: Licentie
 ---
 
-Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/alien-language/print){:target="_ blank"}.
-
---- /collapse ---
-
-### Licentie
-
-Dit project heeft een dubbele licentie onder zowel een [Creative Commons Attribution Non-Commercial Share-Alike-licentie](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} en een [Apache-licentie versie 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
+Dit project heeft een dubbele licentie onder zowel een [Creative Commons Attribution Non-Commercial Share-Alike-licentie](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} en een [Apache-licentie versie 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
 
 We willen Dale van machinelearningforkids.co.uk graag bedanken voor al zijn werk aan dit project.
+
+--- /collapse ---
+
+
+
+
+

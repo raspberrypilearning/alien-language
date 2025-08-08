@@ -1,0 +1,35 @@
+1
+00:00:04,680 --> 00:00:08,640
+Klik nu opnieuw op 'Terug' en
+kies ditmaal voor 'Maak'.
+
+2
+00:00:08,640 --> 00:00:14,160
+Laten we het model in Scratch gebruiken!
+
+3
+00:00:14,160 --> 00:00:21,920
+Ga naar 'Project templates' en selecteer
+het sjabloon voor 'Alien language'.
+
+4
+00:00:21,920 --> 00:00:24,360
+Er is al wat code voor je toegevoegd.
+
+5
+00:00:24,360 --> 00:00:29,960
+Versleep de codeblokken zodat 
+de alien beweegt als je praat.
+
+6
+00:00:36,800 --> 00:00:40,800
+Laten we het eens proberen.
+
+7
+00:00:40,800 --> 00:00:43,840
+Bloep!
+
+8
+00:00:43,840 --> 00:00:50,200
+Wauw!
+

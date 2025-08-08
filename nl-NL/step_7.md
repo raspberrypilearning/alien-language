@@ -1,17 +1,13 @@
-## Uitdaging: voeg nieuwe opdrachten toe
+## Wat kun je verder nog doen?
 
---- challenge ---
+Er zijn nog veel meer machine learning en AI-projecten in het [Machine learning with Scratch](https://projects.raspberrypi.org/nl-NL/pathways/scratch-machine-learning)-pad.
 
---- task ---
+***
 
-+ Nu zou je nog twee trainings containers toe kunnen voegen voor "omhoog" en "omlaag", zodat je de alien kunt besturen om in alle vier de richtingen te bewegen.
+Dit project werd vertaald door vrijwilligers:
 
---- /task ---
+iny van beuningen
+Florus van der Rhee
+Robert-Jan Kempenaar
 
---- task ---
-
-+ Kun je nog iets anders bedenken waarvoor je een machine learning-model zou kunnen gebruiken?
-
---- /task ---
-
---- /challenge ---
+Dankzij vrijwilligers kunnen we mensen over de hele wereld de kans geven om in hun eigen taal te leren. Jij kunt ons helpen meer mensen te bereiken door vrijwillig te starten met vertalen - meer informatie op [rpf.io/translate](https://rpf.io/translate).
