@@ -1,25 +1,25 @@
 1
 00:00:03,600 --> 00:00:07,160
-Allow the site to access 
-your microphone if it asks.
+Permite que o site aceda
+ao teu microfone, se este te pedir.
 
 2
 00:00:07,160 --> 00:00:12,440
-Record a sample of background 
-noise - so just don't say anything.
+Grava uma amostra do ruído
+de fundo - basicamente, não digas nada.
 
 3
 00:00:12,440 --> 00:00:17,800
-Now repeat that until you have 
-eight samples of background noise.
+Agora, repete isso até teres
+oito amostras de ruído de fundo.
 
 4
 00:00:17,800 --> 00:00:27,040
-Add a label for left, and record your 
-made up alien word for left, eight times.
+Adiciona um rótulo para "esquerda", e grava a tua
+palavra extraterrestre inventada para "esquerda", oito vezes.
 
 5
 00:00:27,040 --> 00:00:38,120
-Next, add a label for right and record 
-a different made up word, eight times.
+De seguida, adiciona um rótulo para "direita", e grava 
+outra palavra inventada, oito vezes.
 
