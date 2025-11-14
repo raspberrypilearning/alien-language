@@ -1,4 +1,4 @@
-## Invent two words
+## Вигадай два слова
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,44 +6,44 @@
   </div>
 </html>
 
-First, you will collect samples of background noise. This will help your machine learning model to tell the difference between the sounds that you will train it to recognise, and the background noise where you are.
+Перш за все, ти збереш зразки фонового шуму. Це допоможе твій моделі машинного навчання відрізняти звуки, на яких ти її тренуватимеш, від фонового шуму твого місця знаходження.
 
 --- task ---
 
-+ Click the **+ Add example** button in **background noise**.
++ Натисни на кнопку **+ Додати приклад** у панелі **background noise** (фоновий шум).
 
-+ Click on the microphone, but don't say anything. Record 2 seconds of background noise. ![Arrow pointing to microphone button](images/record-button.png)
++ Натисни на мікрофон, але нічого не кажи. Запиши 2 секунди фонового шуму. ![Стрілка, що вказує на кнопку з зображенням мікрофону](images/record-button.png)
 
-+ Click the **Add** button to save your recording.
++ Натисни на кнопку **Додати**, щоб зберегти запис.
 
 --- /task ---
 
 --- task ---
 
-+ Repeat those steps until you have **at least eight examples** of background noise. ![Bucket filled with 8 background examples](images/8-background.png)
++ Повторюй ці кроки, поки не матимеш **щонайменше вісім зразків** фонового шуму. ![Група з 8 прикладами фонового шуму](images/8-background.png)
 
 --- /task ---
 
-Invent two alien words — a word that means "left" and a word that means "right".
+Придумай два слова інопланетною мовою: слово на позначення «ліворуч» і слово на позначення «праворуч».
 
-Now you will record eight examples of each word so that your machine learning model can learn to recognise them.
-
---- task ---
-
-+ Click on **+ Add new label** on the top right of the screen and add a label called `left`.
-
---- /task ---
+Тепер ти запишеш приклади для кожного слова, щоб твоя модель машинного навчання могла їх розрізняти.
 
 --- task ---
 
-+ Click on **+ Add example** inside the box for the new `left` label, and record yourself saying your alien word for "left".
-
-+ Repeat until you have recorded **at least eight examples**.
++ Натисни на **+ Додати нову мітку** у верхньому правому куті екрану і додай мітку з назвою `left` («ліворуч»).
 
 --- /task ---
 
 --- task ---
 
-+ Click on **+ Add new label** to create another label called `right` and record eight examples of your alien word for "right".
++ Натисни на **+ Додати приклад** у прямокутнику з міткою `left` і запиши, як ти промовляєш своє іншопланетне слово на позначення «ліворуч».
+
++ Повторюй, поки не матимеш **щонайменше вісім** зразків.
+
+--- /task ---
+
+--- task ---
+
++ Натисни на **+ Додати нову мітку**, щоб створити нову мітку з назвою `right` («праворуч»), і запиши вісім зразків іншопланетного слова на позначення «праворуч».
 
 --- /task ---
