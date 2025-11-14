@@ -1,0 +1,25 @@
+---
+title: Мова прибульців
+hero_image: images/banner.png
+description: Створи власну інопланетну мов для переміщення спрайту
+theme: orange
+listed: true
+copyedit: true
+technologies: scratch
+software: scratch
+version: 4.0.0
+last_tested: '2019-06-04'
+steps:
+- title: Що ти зробиш
+- title: Створи проєкт
+- title: Вигадай два слова
+  completion:
+  - engaged
+- title: Натренуй модель
+- title: Контролюй інопланетянина
+  completion:
+  - internal
+- title: 'Додаткове завдання'
+  challenge: true
+  completion:
+  - external
