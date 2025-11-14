@@ -1,4 +1,4 @@
-## Set up the project
+## Prepara o teu projeto
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,33 +8,33 @@
 
 --- task ---
 
-+ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
++ Vai para [https://machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} num navegador web.
 
-+ Click on **Get started**.
++ Clica em **Começar**.
 
-+ Click on **Try it now**.
-
---- /task ---
-
---- task ---
-
-+ Click on **Projects** in the menu bar at the top.
-
-+ Click on the **+ Add a new project** button.
-
-+ Name your project `Alien language` and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**. ![Creating a project](images/create-project.png)
-
-+ You should now see 'Alien language' in the projects list. Click on the project. ![Project list with alien language listed](images/projects-list.png)
++ Clica em **Experimente agora**.
 
 --- /task ---
 
 --- task ---
 
-+ Click on the **Train** button. ![Project main menu with an arrow pointing to the train button](images/project-train.png)
++ Clica em **Projetos** na barra do menu na parte superior.
 
-+ If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
++ Clica no botão **+ Adicionar um novo projeto**.
 
-![Popup asking you to allow the microphone, with an arrow pointing to allow every visit](images/allow-microphone.png)
++ Dá nome ao teu projeto `Linguagem extraterrestre` e configura-o para aprender a reconhecer **sons**, e armazenar os dados **no teu navegador web**. E clica em **Criar**. ![Criar um projeto](images/create-project.png)
+
++ Agora, deves ver 'Linguagem Extraterrestre' na tua lista de projetos. Clica no projeto. ![Lista de projetos com linguagem extraterrestre publicada](images/projects-list.png)
+
+--- /task ---
+
+--- task ---
+
++ Clica no botão **Treinar**. ![Menu principal do projeto com uma seta a apontar para o botão de treinar](images/project-train.png)
+
++ Se vires uma mensagem pop-up a pedir permissão para usar o microfone, clica em **Permitir em todas as visitas**.
+
+![Pop-up a pedir que dês permissão ao microfone, com uma seta a apontar para permitir em todas as visitas](images/allow-microphone.png)
 
 --- /task ---
 
