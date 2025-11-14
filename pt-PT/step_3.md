@@ -1,4 +1,4 @@
-## Invent two words
+## Inventa duas palavras
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,44 +6,44 @@
   </div>
 </html>
 
-First, you will collect samples of background noise. This will help your machine learning model to tell the difference between the sounds that you will train it to recognise, and the background noise where you are.
+Primeiro, vais recolher amostras do ruído de fundo. Isto vai ajudar o teu modelo de machine learning a distinguir entre os sons que o vais treinar a reconhecer e o ruído de fundo do local onde estás.
 
 --- task ---
 
-+ Click the **+ Add example** button in **background noise**.
++ Clica no botão **+ Adicionar exemplos** em **background noise**.
 
-+ Click on the microphone, but don't say anything. Record 2 seconds of background noise. ![Arrow pointing to microphone button](images/record-button.png)
++ Clica no microfone, mas não digas nada. Grava 2 segundos de ruído de fundo. ![Seta a apontar para o botão do microfone](images/record-button.png)
 
-+ Click the **Add** button to save your recording.
++ Clica no botão **Adicionar** para guardar a tua gravação.
 
 --- /task ---
 
 --- task ---
 
-+ Repeat those steps until you have **at least eight examples** of background noise. ![Bucket filled with 8 background examples](images/8-background.png)
++ Repete estes passos até teres **pelo menos 8 exemplos** de ruído de fundo. ![Balde cheio com 8 exemplos de ruído de fundo](images/8-background.png)
 
 --- /task ---
 
-Invent two alien words — a word that means "left" and a word that means "right".
+Inventa duas palavras extraterrestres — uma palavra que signifique "esquerda" e outra palavra que signifique "direita".
 
-Now you will record eight examples of each word so that your machine learning model can learn to recognise them.
-
---- task ---
-
-+ Click on **+ Add new label** on the top right of the screen and add a label called `left`.
-
---- /task ---
+Agora vais gravar oito exemplos de cada palavra para que o teu modelo de machine learning possa aprender a reconhecê-las.
 
 --- task ---
 
-+ Click on **+ Add example** inside the box for the new `left` label, and record yourself saying your alien word for "left".
-
-+ Repeat until you have recorded **at least eight examples**.
++ Clica em **+ Adicionar um novo rótulo** no canto superior direito do ecrã e adiciona um rótulo chamado `esquerda`.
 
 --- /task ---
 
 --- task ---
 
-+ Click on **+ Add new label** to create another label called `right` and record eight examples of your alien word for "right".
++ Clica em **+ Adicionar exemplos** na caixa para o novo rótulo `esquerda`, e grava-te a dizer a tua palavra extraterrestre para "esquerda".
+
++ Repete até teres registado **pelo menos oito exemplos**.
+
+--- /task ---
+
+--- task ---
+
++ Clica em **+ Adicionar um novo rótulo** para criar outro rótulo chamado `direita` e regista oito exemplos da tua palavra extraterrestre para "direita".
 
 --- /task ---
