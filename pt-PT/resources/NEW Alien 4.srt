@@ -1,29 +1,29 @@
 1
 00:00:04,680 --> 00:00:08,640
-Now click 'Back' again, and 
-this time choose 'Make'.
+Agora clica em "Voltar" outra vez, e
+desta vez escolhe "Fazer".
 
 2
 00:00:08,640 --> 00:00:14,160
-Let's use the model in Scratch!
+Vamos usar o modelo no Scratch!
 
 3
 00:00:14,160 --> 00:00:21,920
-Go to 'Project templates' and select 
-the template for 'Alien language'.
+Acede a "Project templates" e seleciona 
+o template para "Linguagem Extraterrestre".
 
 4
 00:00:21,920 --> 00:00:24,360
-Some code has been added for you.
+Algum código foi adicionado para ti.
 
 5
 00:00:24,360 --> 00:00:29,960
-Drag the code blocks to make 
-the alien move when you speak.
+Arrasta os blocos de código para fazer 
+com que o extraterrestre se mova quando falas.
 
 6
 00:00:36,800 --> 00:00:40,800
-Let's test it out.
+Vamos testar.
 
 7
 00:00:40,800 --> 00:00:43,840
@@ -31,5 +31,5 @@ Bloop!
 
 8
 00:00:43,840 --> 00:00:50,200
-Wow!
+Uau!
 
