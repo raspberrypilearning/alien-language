@@ -1,4 +1,4 @@
-## Control the alien
+## Контролюй інопланетянина
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,41 +6,41 @@
   </div>
 </html>
 
-Now that your model can distinguish between words, you can use it in a Scratch program to control an alien.
+Тепер твоя модель може розрізняти два слова, і ти можеш її використати у програмі Скретч для керування прибульцем.
 
 --- task ---
 
-+ Click on the **< Back to project** link.
++ Натисни на **Назад до проєкту**.
 
-+ Click on **Make**.
++ Натисни на кнопку **Створити**.
 
-+ Click on **Scratch 3**.
++ Натисни на **Scratch 3**.
 
-+ Click on **Open in Scratch 3**.
++ Натисни на **Відкрити в Scratch 3**.
 
 --- /task ---
 
 --- task ---
 
-+ Click on **Project templates** at the top and select the 'Alien language' project to load the alien sprite, which already has some code added.
++ Натисни на **Шаблони проєктів** угорі та обери проєкт Alien Language («Мова інопланетян»), щоб завантажити спрайт прибульця, до якого вже додано певний код.
 
-![Alien language project is selected in the Scratch templates](images/alien-language.png)
-
---- /task ---
-
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. This project template also contains special 'walk left' and 'walk right' blocks inside "My Blocks". Find both at the bottom of the blocks list.
-
-![Alien language blocks shown in the menu underneath My Blocks and Images](images/new-blocks.png)
-
---- task ---
-
-+ Make sure you have the **Alien** sprite selected, then click on the **Code** tab and add this code. (Keep the code that is already there!) ![Add code to control the alien: When flag clicked, start listening. When I hear left, say left and walk left. When I hear right, say right and walk right.](images/control-alien-blocks.png)
+![Проєкт Alien Language («Мова інопланетян») обрано в шаблонах Скретчу](images/alien-language.png)
 
 --- /task ---
 
+Machine Learning for Kids додали до Скретчу деякі спеціальні блоки, які дозволяють використовувати щойно навчену модель. Цей шаблон проєкту також містить спеціальні блоки walk left («йти ліворуч») та walk right («йти праворуч») у категорії «Мої блоки». Знайди їх внизу списку блоків.
+
+![Блоки мови прибульців у меню під категоріями «Мої блоки» та Images («Зображення»)](images/new-blocks.png)
+
 --- task ---
 
-+ Click the **green flag** and say your alien words for "left" and "right". Check that the alien moves the way you expected.
++ Обери спрайт інопланетянина (**Alien**), потім натисни на вкладку **Код** та додай це код. (Не видаляй код, який там уже є!) ![Додай код для керування прибульцем: коли прапорець натиснуто — почни слухати. Коли я чую «ліворуч» (when I hear left), сказати «ліворуч» (say left) і йти ліворуч (walk left). Коли я чую «праворуч» (when I hear right), сказати «праворуч» (say right) і йти праворуч (walk right).](images/control-alien-blocks.png)
+
+--- /task ---
+
+--- task ---
+
++ Натисни на **зелений прапорець** і скажи свої іншопланетні слова, котрі означають «ліворуч» та «праворуч». Переконайся, що інопланетянин рухається, як треба.
 
 --- /task ---
 
