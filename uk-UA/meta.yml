@@ -1,7 +1,7 @@
 ---
-title: Alien language
+title: Мова прибульців
 hero_image: images/banner.png
-description: Create your own alien language to move a sprite
+description: Створи власну інопланетну мов для переміщення спрайту
 theme: orange
 listed: true
 copyedit: true
@@ -11,21 +11,21 @@ version: 4.0.0
 last_tested: '2019-06-04'
 steps:
   - 
-    title: What you will make
+    title: Що ти зробиш
   - 
-    title: Set up the project
+    title: Створи проєкт
   - 
-    title: Invent two words
+    title: Вигадай два слова
     completion:
       - engaged
   - 
-    title: Train the model
+    title: Натренуй модель
   - 
-    title: Control the alien
+    title: Контролюй інопланетянина
     completion:
       - internal
   - 
-    title: 'Challenge'
+    title: 'Додаткове завдання'
     challenge: true
     completion:
       - external
