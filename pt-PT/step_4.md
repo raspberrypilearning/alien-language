@@ -1,4 +1,4 @@
-## Train the model
+## Treina o modelo
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,31 +6,31 @@
   </div>
 </html>
 
-You have gathered the examples you need, now you will use these examples to train your machine learning model.
+Reuniste os exemplos de que precisas, e agora vais usar estes exemplos para treinar o teu modelo de machine learning.
 
 --- task ---
 
-+ Click on **Back to project** in the top left-hand corner.
++ Clica em **< Voltar para o projeto** no canto superior esquerdo.
 
-+ Click on **Learn & Test**.
++ Clica em **Aprender & Testar**.
 
-+ Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete. ![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
++ Clica no botão chamado **Treinar um novo modelo de Machine Learning**. Isto pode levar alguns minutos até terminar. ![Seta que aponta para um botão a dizer Treinar um novo modelo de Machine Learning](images/train-new-model.png)
 
 --- /task ---
 
-Once the training has finished, you can test how well your model recognises the alien words you have invented.
+Quando o treino acabar, podes testar o quão bem o teu modelo reconhece as palavras extraterrestres que inventaste.
 
 --- task ---
 
-+ Click the **Start listening** button, then say your alien word for "left".
++ Clica no botão **Começar a ouvir** e diz a tua palavra extraterrestre para "esquerda".
 
-If your machine learning model recognises it, it will display what it predicts you said. ![Arrow pointing to the start listening button](images/test-your-model.png)
+Se o teu modelo de machine learning a reconhecer, vai exibir a previsão do que disseste. ![Seta que aponta para o botão de começar a ouvir](images/test-your-model.png)
 
-+ Test whether the model recognises your alien word for "right" as well.
++ Testa se o modelo também reconhece a tua palavra extraterrestre para "direita".
 
 --- /task ---
 
-If you are not happy with how the model is working, go back to the **Train** page and add more examples, then train your model again.
+Se não ficares satisfeito com o funcionamento do modelo, volta à página **Treinar** e adiciona mais exemplos, depois treina o modelo outra vez.
 
 
 
