@@ -1,40 +1,40 @@
-## What you will make
+## O que vais fazer
 
-Train a machine learning model to recognise an alien language and use it in Scratch to control an alien.
+Treina um modelo de machine learning para reconhecer linguagem extraterrestre e usá-la no Scratch para controlar um extraterrestre.
 
-You will need a **microphone**.
+Vais precisar de um **microfone**.
 
-![An alien moving left and right with the commands Eek and Bop](images/whatyouwillmake.gif)
+![Um extraterrestre a mover-se para a esquerda e para a direita com os comandos Eek e Bop](images/whatyouwillmake.gif)
 
 --- collapse ---
 
 ---
-title: Where are my voice recordings stored?
+title: Onde ficam guardadas as minhas gravações de voz?
 ---
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data.
-- This project does not require you to create an account or log in. For this project, the examples you use to make the model are only stored temporarily in your browser (only on your machine).
+- Este projeto usa uma tecnologia chamada 'machine learning'. Os sistemas de machine learning são treinados com uma grande quantidade de dados.
+- Este projeto não exige que cries uma conta ou faças login. Para este projeto, os exemplos que usas para fazer o modelo são armazenados temporariamente no teu navegador (apenas na tua máquina).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: No YouTube? Download the videos!
+title: Não tens Youtube? Descarrega estes vídeos!
 ---
 
-You can [download all the videos for this project](https://rpf.io/p/en/alien-language-go){:target="_blank"}.
+Podes [descarregar todos os vídeos para este projeto](https://rpf.io/p/en/alien-language-go){:target="_blank"}.
 
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: License
+title: Licença
 ---
 
-This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
+Este projeto possui uma licença dupla abrigo da [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} e da [Apache License Versão 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
 
-We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
+Gostaríamos de agradecer a Dale da machinelearningforkids.co.uk por todo o seu trabalho neste projeto.
 
 --- /collapse ---
 
