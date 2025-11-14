@@ -1,10 +1,10 @@
-## Challenge
+## Додаткове завдання
 
 --- challenge ---
 
 --- task ---
 
-**Move up and down**: Go back to your model and add two more labels for "up" and "down", then modify your Scratch code so that you can move the alien in all four directions.
+**Рух вгору та вниз**: Повернись до своєї моделі та додай ще дві мітки: up («вгору») і down («вниз»), потім зміни свій код у Скретчі так, щоб рухати прибульця в усіх чотирьох напрямках.
 
 --- /task ---
 
