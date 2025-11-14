@@ -1,26 +1,24 @@
 1
 00:00:04,760 --> 00:00:11,520
-Go to rpf.io/ML4K and click 'Get started'.
+Перейди на сторінку rpf.io/ml4k і натисни «Почати».
 
 2
 00:00:11,520 --> 00:00:15,560
-Click 'Try it now'.
+Натисни «Спробувати зараз».
 
 3
 00:00:15,560 --> 00:00:20,560
-Add a new project called 'Alien language'.
+Додай новий проєкт з назвою «Мова інопланетян».
 
 4
 00:00:20,560 --> 00:00:28,280
-Set the project type to 'recognising sound,' 
-and the storage to 'in your browser'.
+Обери тип проєкту recognising sound («розпізнавання звуків») та тип сховища in your browser («у твоєму браузері»).
 
 5
 00:00:28,280 --> 00:00:34,840
-Create the project, then 
-click on the project title.
+Створи проєкт, потім натисни на назву проєкту.
 
 6
 00:00:34,840 --> 00:00:40,000
-Now click on 'Train'.
+Тепер натисни на кнопку «Навчити».
 
