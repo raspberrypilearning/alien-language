@@ -1,7 +1,7 @@
 ---
-title: Alien language
+title: Linguagem extraterrestre
 hero_image: images/banner.png
-description: Create your own alien language to move a sprite
+description: Cria a tua própria linguagem extraterrestre para mover um ator
 theme: orange
 listed: true
 copyedit: true
@@ -11,21 +11,21 @@ version: 4.0.0
 last_tested: '2019-06-04'
 steps:
   - 
-    title: What you will make
+    title: O que vais fazer
   - 
-    title: Set up the project
+    title: Prepara o teu projeto
   - 
-    title: Invent two words
+    title: Inventa duas palavras
     completion:
       - engaged
   - 
-    title: Train the model
+    title: Treina o modelo
   - 
-    title: Control the alien
+    title: Controla o extraterrestre
     completion:
       - internal
   - 
-    title: 'Challenge'
+    title: 'Desafio'
     challenge: true
     completion:
       - external
