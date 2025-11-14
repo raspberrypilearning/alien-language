@@ -1,10 +1,10 @@
-## Challenge
+## Desafio
 
 --- challenge ---
 
 --- task ---
 
-**Move up and down**: Go back to your model and add two more labels for "up" and "down", then modify your Scratch code so that you can move the alien in all four directions.
+**Move para cima e para baixo**: Volta ao teu modelo e adiciona mais dois rótulos para "cima" e "baixo", depois modifica o teu código Scratch, para que possas mover o extraterrestre em todas as quatro direções.
 
 --- /task ---
 
