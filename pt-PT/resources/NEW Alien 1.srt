@@ -1,26 +1,26 @@
 1
 00:00:04,760 --> 00:00:11,520
-Go to rpf.io/ML4K and click 'Get started'.
+Vai a rpf.io/ml4k e clica em "Primeiros Passos".
 
 2
 00:00:11,520 --> 00:00:15,560
-Click 'Try it now'.
+Clica em "Experimente agora".
 
 3
 00:00:15,560 --> 00:00:20,560
-Add a new project called 'Alien language'.
+Adiciona um novo projeto com o nome "Linguagem Extraterrestre".
 
 4
 00:00:20,560 --> 00:00:28,280
-Set the project type to 'recognising sound,' 
-and the storage to 'in your browser'.
+Define o tipo de projeto para "reconhecer sons",
+e armazenar "no teu navegador".
 
 5
 00:00:28,280 --> 00:00:34,840
-Create the project, then 
-click on the project title.
+Cria o projeto, depois 
+clica no título do projeto.
 
 6
 00:00:34,840 --> 00:00:40,000
-Now click on 'Train'.
+Agora, clica em "Treinar".
 
