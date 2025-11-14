@@ -1,4 +1,4 @@
-## Control the alien
+## Controla o extraterrestre
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,41 +6,41 @@
   </div>
 </html>
 
-Now that your model can distinguish between words, you can use it in a Scratch program to control an alien.
+Agora que o teu modelo consegue distinguir as palavras, podes usá-lo no programa Scratch para movimentar o extraterrestre.
 
 --- task ---
 
-+ Click on the **< Back to project** link.
++ Clica no link **< Voltar para o projeto**.
 
-+ Click on **Make**.
++ Clica em **Fazer**.
 
-+ Click on **Scratch 3**.
++ Clica em **Scratch 3**.
 
-+ Click on **Open in Scratch 3**.
++ Clica em **Open in Scratch 3**.
 
 --- /task ---
 
 --- task ---
 
-+ Click on **Project templates** at the top and select the 'Alien language' project to load the alien sprite, which already has some code added.
++ Clica em **Project templates** na parte superior e seleciona o projeto 'Alien language' para carregar o ator extraterrestre, que já tem algum código adicionado.
 
-![Alien language project is selected in the Scratch templates](images/alien-language.png)
-
---- /task ---
-
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. This project template also contains special 'walk left' and 'walk right' blocks inside "My Blocks". Find both at the bottom of the blocks list.
-
-![Alien language blocks shown in the menu underneath My Blocks and Images](images/new-blocks.png)
-
---- task ---
-
-+ Make sure you have the **Alien** sprite selected, then click on the **Code** tab and add this code. (Keep the code that is already there!) ![Add code to control the alien: When flag clicked, start listening. When I hear left, say left and walk left. When I hear right, say right and walk right.](images/control-alien-blocks.png)
+![O projeto de linguagem extraterrestre é selecionado nos "templates" do Scratch](images/alien-language.png)
 
 --- /task ---
 
+Machine learning for Kids adicionou alguns blocos especiais ao Scratch para permitir que utilizes o modelo que acabaste de treinar. Este modelo de projeto contém também blocos especiais 'walk left' e 'walk right' dentro de "Os Meus Blocos". Encontras ambos na última parte da lista de blocos.
+
+![Os blocos da linguagem extraterrestre estão presentes no menu, abaixo de Os meus Blocos e Imagens](images/new-blocks.png)
+
 --- task ---
 
-+ Click the **green flag** and say your alien words for "left" and "right". Check that the alien moves the way you expected.
++ Certifica-te que tens o ator **Extraterrestre** selecionado, depois clica no separador **Código** e adiciona este código. (Mantém o código que já existe!) ![Adiciona código para controlar o extraterrestre: Quando a bandeira for clicada, começa a ouvir. Quando eu ouvir "esquerda", diz "esquerda" e anda para a esquerda. Quando eu ouvir "direita", diz "direita" e anda para a direita.](images/control-alien-blocks.png)
+
+--- /task ---
+
+--- task ---
+
++ Clica na **bandeira verde** e diz as tuas palavras extraterrestres para "esquerda" e "direita". Verifica se o extraterrestre se move na direção que estás à espera.
 
 --- /task ---
 
