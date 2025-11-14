@@ -1,4 +1,4 @@
-## Set up the project
+## Створи проєкт
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -8,33 +8,33 @@
 
 --- task ---
 
-+ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
++ Перейди до [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} у браузері.
 
-+ Click on **Get started**.
++ Натисни на **Почати**.
 
-+ Click on **Try it now**.
-
---- /task ---
-
---- task ---
-
-+ Click on **Projects** in the menu bar at the top.
-
-+ Click on the **+ Add a new project** button.
-
-+ Name your project `Alien language` and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**. ![Creating a project](images/create-project.png)
-
-+ You should now see 'Alien language' in the projects list. Click on the project. ![Project list with alien language listed](images/projects-list.png)
++ Натисни на **Спробуйте зараз**.
 
 --- /task ---
 
 --- task ---
 
-+ Click on the **Train** button. ![Project main menu with an arrow pointing to the train button](images/project-train.png)
++ Натисни на **Проєкти** в меню угорі.
 
-+ If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
++ Натисни на кнопку **+ Додати новий проєкт**.
 
-![Popup asking you to allow the microphone, with an arrow pointing to allow every visit](images/allow-microphone.png)
++ Назви свій проєкт `Мова інопланетян` і налаштуй його для **розпізнавання звуку** зі **збереженням даних у браузері**. Тепер натисни на **Створити**. ![Створення проєкту](images/create-project.png)
+
++ Тепер ти маєш бачити проєкт «Мова інопланетян» у переліку. Натисни на проєкт. ![Список проєктів з «Мовою інопланетян»](images/projects-list.png)
+
+--- /task ---
+
+--- task ---
+
++ Натисни на кнопку **Навчити**. ![Головне меню проєкту зі стрілочкою, що вказує на кнопку «Навчити»](images/project-train.png)
+
++ Якщо побачиш вікно із запитом на використання мікрофону, натисни **Дозволити під час кожного відвідування**.
+
+![Вікно, що запитує доступ до мікрофона, зі стрілочкою, яка вказує на «Дозволити під час кожного відвідування»](images/allow-microphone.png)
 
 --- /task ---
 
