@@ -1,40 +1,40 @@
-## What you will make
+## Що ти зробиш
 
-Train a machine learning model to recognise an alien language and use it in Scratch to control an alien.
+Натренуй модель машинного навчання для розпізнавання інопланетної мови та контролюй за її допомогою прибульця у Скретчі.
 
-You will need a **microphone**.
+Тобі знадобиться **мікрофон**.
 
-![An alien moving left and right with the commands Eek and Bop](images/whatyouwillmake.gif)
+![Прибулець рухається вліво і вправо командами Eek і Bop](images/whatyouwillmake.gif)
 
 --- collapse ---
 
 ---
-title: Where are my voice recordings stored?
+title: Де зберігатимуться записи мого голосу?
 ---
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data.
-- This project does not require you to create an account or log in. For this project, the examples you use to make the model are only stored temporarily in your browser (only on your machine).
+- Цей проєкт використовує технологію під назвою «машинне навчання». Системи машинного навчання тренують на великій кількості даних.
+- Цей проєкт не потребує створення облікового запису або входу в наявний. Приклади, котрі ти запишеш для цього проєкту, зберігаються тимчасово у твоєму браузері (тільки на твоєму комп'ютері).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: No YouTube? Download the videos!
+title: Немає доступу до YouTube? Завантаж відео!
 ---
 
-You can [download all the videos for this project](https://rpf.io/p/en/alien-language-go){:target="_blank"}.
+Ти можеш [завантажити усі відео для цього проєкту](https://rpf.io/p/en/alien-language-go){:target="_blank"}.
 
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: License
+title: Ліцензія
 ---
 
-This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
+Цей проєкт має подвійну ліцензію: [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} та [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
 
-We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
+Ми хочемо подякувати Дейлу з machinelearningforkids.co.uk за його роботу над цим проєктом.
 
 --- /collapse ---
 
