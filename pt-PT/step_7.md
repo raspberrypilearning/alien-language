@@ -1,3 +1,3 @@
-## What can you do now?
+## O que se segue?
 
-There are lots of other machine learning and AI projects in the [Machine learning with Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning) pathway.
+Existem muitos outros projetos de machine learning e IA em [Machine learning com Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning).
