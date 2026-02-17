@@ -10,15 +10,22 @@ software: scratch
 version: 4.0.0
 last_tested: '2019-06-04'
 steps:
-- title: はじめに
-- title: 事前学習ずみのモデルを使用する
-- title: 新しいプロジェクトを作成 (さくせい) する
-  completion:
-  - engaged
-- title: エイリアン語を作る
-- title: 新しい機械学習モデルをトレーニングする
-- title: Scratch でエイリアン語を使う
-  completion:
-  - internal
-- title: 'チャレンジ: 新しいコマンドを追加する'
-  challenge: true
+  - 
+    title: 作るもの
+  - 
+    title: Set up the project
+  - 
+    title: Invent two words
+    completion:
+      - engaged
+  - 
+    title: Train the model
+  - 
+    title: Control the alien
+    completion:
+      - internal
+  - 
+    title: 'Challenge'
+    challenge: true
+    completion:
+      - external

@@ -1,45 +1,36 @@
-## Δημιουργία ξένων λέξεων
-Σε αυτό το βήμα, θα επινοήσεις τις εξωγήινες λέξεις σου.
+## Train the model
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/o4J5c0o5lVE?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
+
+You have gathered the examples you need, now you will use these examples to train your machine learning model.
 
 --- task ---
 
-Χρειάζεσαι δύο λέξεις - μια εξωγήινη λέξη για το "αριστερά" και μια εξωγήινη λέξη για το "δεξιά". Επινόησε δύο νέες λέξεις που δε βρίσκονται σε ένα αγγλικό λεξικό. Μπορεί να είναι τυχαίοι θόρυβοι, εφ 'όσον μπορείς να τις επαναλάβεις με τον ίδιο τρόπο κάθε φορά και είναι αναγνωρίσιμα διαφορετικές μεταξύ τους. Εάν δεν θέλεις να κάνεις θορύβους με τη φωνή σου, αυτό είναι εντάξει - μπορείς να βρεις άλλους τρόπους για να κάνεις θορύβους. Μπορείς να κάνεις κλικ με τα δάχτυλά σου, να χτυπήσεις τα χέρια σου, να συμπιέσεις ένα φουσκωτό παιχνίδι ή να κάνεις οτιδήποτε άλλο μπορείς να σκεφτείς! Απλά βεβαιώσου ότι θυμάσαι τα νέα σου λόγια!
++ Click on **Back to project** in the top left-hand corner.
+
++ Click on **Learn & Test**.
+
++ Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete. ![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
 
 --- /task ---
 
---- task ---
+Once the training has finished, you can test how well your model recognises the alien words you have invented.
 
-+ Κάνε κλικ στο κουμπί **Εκπαίδευση** για να ξεκινήσεις να συλλέγεις δείγματα. ![Βέλος που δείχνει προς το κουμπί της εκπαίδευσης](images/click-train.png)
+--- task --
 
-+ Κάνε κλικ στο πλήκτρο **Προσθήκη παραδείγματος** στην περιοχή **background noise**. Η εγγραφή θορύβου παρασκηνίου θα βοηθήσει το μοντέλο εκμάθησης της μηχανής σου να βρίσκει τη διαφορά μεταξύ των ήχων που θα εκπαιδεύσεις για να αναγνωρίζει και του θορύβου του χώρου που βρίσκεσαι. ![Βέλος που δείχνει στο κουμπί "Προσθήκη Παραδείγματος"](images/background-noise-annotated.png)
++ Click the **Start listening** button, then say your alien word for "left".
 
-+ Κάνε κλικ στο μικρόφωνο για να εγγράψεις 2 δευτερόλεπτα θορύβου υπόβαθρου. ![Βέλος που δείχνει προς το κουμπί μικροφώνου](images/add-example-annotated.png)
+If your machine learning model recognises it, it will display what it predicts you said. ![Arrow pointing to the start listening button](images/test-your-model.png)
 
-+ Κάνε κλικ στο πλήκτρο **Προσθήκη** για να αποθηκεύσεις την εγγραφή σου. ![Βέλος που δείχνει το κουμπί προσθήκης](images/save-example-annotated.png)
-
-+ Επανάλαβε αυτά τα βήματα έως ότου έχεις **τουλάχιστον 8 παραδείγματα** θορύβου υπόβαθρου. ![σύνολο (γεμάτο) με 8 παραδείγματα φόντου](images/8-background.png)
++ Test whether the model recognises your alien word for "right" as well.
 
 --- /task ---
 
---- task ---
-
-+ Κάνε κλικ στο **Προσθήκη νέας ετικέτας** στην πάνω δεξιά γωνία, και δημιούργησε ένα νέο σύνολο εκπαίδευσης που λέγεται `left` (αριστερά). ![Βέλος που δείχνει στο κουμπί "Προσθήκη νέας ετικέτας"](images/8-background-annotated.png)
-
-+ Κάνε κλικ στο πλήκτρο **Προσθήκη παραδείγματος** στο νέο χώρο **left**. ![Βέλος που δείχνει στο κουμπί "Προσθήκη Παραδείγματος"](images/left-empty-annotated.png)
-
-+ Κατάγραψε **τουλάχιστον 8 παραδείγματα** της εξωγήινης λέξης για το "αριστερά". ![σύνολο γεμάτο με 8 παραδείγματα "αριστερά"](images/8-left.png)
-
---- /task ---
+If you are not happy with how the model is working, go back to the **Train** page and add more examples, then train your model again.
 
 
---- task ---
 
-+ Κάνε ξανά κλικ στο **Προσθήκη νέας ετικέτας** στην πάνω δεξιά γωνία, και δημιούργησε ένα νέο σύνολο εκπαίδευσης που λέγεται `right` (δεξιά).
-
-+ Κάνε κλικ στο πλήκτρο **Προσθήκη παραδείγματος** στην περιοχή **right**.
-
-+ Κατάγραψε **τουλάχιστον 8 παραδείγματα** της εξωγήινης λέξης για το "δεξιά". ![σύνολο (γεμάτο) με 8 παραδείγματα "δεξιά"](images/8-right.png)
-
-+ **Σημείωση:** Στο τέλος αυτού του βήματος, θα πρέπει να έχεις τουλάχιστον οκτώ παραδείγματα σε κάθε ένα από τα τρία σύνολα.
-
---- /task ---
