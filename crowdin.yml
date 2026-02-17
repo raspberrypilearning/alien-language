@@ -6,8 +6,6 @@ preserve_hierarchy: true
 
 files:
   - source: /en/**/*.*
-    ignore:
-      - /en/**/*.mp4
     translation: /%locale%/**/%original_file_name%
     ignore:
       - /en/**/*.pdf
