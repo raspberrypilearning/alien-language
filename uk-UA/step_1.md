@@ -22,7 +22,7 @@ title: Де зберігатимуться записи мого голосу?
 title: Немає доступу до YouTube? Завантаж відео!
 ---
 
-Ти можеш [завантажити усі відео для цього проєкту](https://rpf.io/p/uk-UA/alien-language-go){:target="_blank"}.
+Ти можеш [завантажити усі відео для цього проєкту](https://rpf.io/p/en/alien-language-go){:target="_blank"}.
 
 
 --- /collapse ---

@@ -1,0 +1,26 @@
+1
+00:00:04,760 --> 00:00:11,520
+Vai a rpf.io/ml4k e clica em 'Experimenta agora'.
+
+2
+00:00:11,520 --> 00:00:15,560
+Clica em "Experimenta agora".
+
+3
+00:00:15,560 --> 00:00:20,560
+Adiciona um novo projeto com o nome "Linguagem Extraterrestre".
+
+4
+00:00:20,560 --> 00:00:28,280
+Define o tipo de projeto para "a reconhecer sons", 
+e armazenar "no teu navegador web".
+
+5
+00:00:28,280 --> 00:00:34,840
+Cria o projeto, depois 
+clica no título do projeto.
+
+6
+00:00:34,840 --> 00:00:40,000
+Agora, clica em "Treinar".
+

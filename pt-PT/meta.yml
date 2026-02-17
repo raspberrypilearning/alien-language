@@ -1,0 +1,31 @@
+---
+title: Linguagem extraterrestre
+hero_image: images/banner.png
+description: Cria a tua própria linguagem extraterrestre para mover um ator
+theme: orange
+listed: true
+copyedit: true
+technologies: scratch
+software: scratch
+version: 4.0.0
+last_tested: '2019-06-04'
+steps:
+  - 
+    title: O que vais fazer
+  - 
+    title: Prepara o teu projeto
+  - 
+    title: Inventa duas palavras
+    completion:
+      - engaged
+  - 
+    title: Treina o modelo
+  - 
+    title: Controla o extraterrestre
+    completion:
+      - internal
+  - 
+    title: 'Desafio'
+    challenge: true
+    completion:
+      - external
