@@ -1,45 +1,36 @@
-## إنشاء كلمات كائن الفضاء
-في هذه الخطوة ، سوف تخترع كلمات كائن الفضاء.
+## Train the model
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/o4J5c0o5lVE?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
+
+You have gathered the examples you need, now you will use these examples to train your machine learning model.
 
 --- task ---
 
-تحتاج إلى كلمتين - كلمة كائن الفضاء لل "يسار" وكلمة كائن الفضاء لـل "يمين". اخترع كلمتين جديدتين لن تكونا في قاموس اللغة الإنجليزية. يمكن أن تكون ضوضاء بشكل عشوائي ، طالما يمكنك تكرارها بالطريقة نفسها في كل مرة وتكون مختلفة بشكل ملحوظ عن بعضها البعض. إذا كنت لا تريد أن تصدر أصواتًا بصوتك ، فلا بأس بذلك - يمكنك العثور على طرق أخرى لعمل الضوضاء. يمكنك النقر فوق أصابعك أو تصفيق يديك أو الضغط على لعبة صاربة أو القيام بأي شيء آخر يمكنك التفكير فيه! فقط تأكد من تذكر كلماتك الجديدة!
++ Click on **Back to project** in the top left-hand corner.
 
---- /task ---
++ Click on **Learn & Test**.
 
---- task ---
++ Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete. ![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
 
-+ انقر على زر **تدريب** للبدء في جمع الأمثلة. ![سهم يشير إلى زر ملحقات](images/click-train.png)
+---/task--
 
-+ انقر على زر **إضافة مثال** لاضافته في **background noise** (المقصود بها المكان الذي انت به خلال تسجيل صوت يختلف عن الكلمتين التي سوف تحرك بها كائن الفضاء). سيساعد تسجيل background noise نموذج تدريب الالة على تحديد الفرق بين الأصوات التي ستقوم بتدريبها للتعرف عليها ، والاصوات التي في مكانك. ![سهم يشير إلى زر إضافة مثال](images/background-noise-annotated.png)
-
-+ انقر على الميكروفون لتسجيل ضجيج الخلفية لمدة ثانيتين. ![السهم مشيرا إلى زر الميكروفون](images/add-example-annotated.png)
-
-+ انقر فوق زر **اضافة** لحفظ التسجيل الخاص بك. ![سهم يشير إلى إضافة زر](images/save-example-annotated.png)
-
-+ كرر هذه الخطوات حتى يكون لديك **8 أمثلة على الأقل** لضوضاء الخلفية. ![محتوى يحتوي على 8 امثلة](images/8-background.png)
-
---- /task ---
+Once the training has finished, you can test how well your model recognises the alien words you have invented.
 
 --- task ---
 
-+ انقر فوق زر **اضافة تسمية جديدة** في أعلى الزاوية اليمنى للصفحة، وانشاء محتوى تدريب جديد باسم`left` يجب ان تكون التسمية باللغة الانكليزية. ![سهم يشير إلى زر إضافة تسمية جديدة](images/8-background-annotated.png)
++ Click the **Start listening** button, then say your alien word for "left".
 
-+ انقر على زر**إضافة مثال** الموجود في المحتوى**left** الجديد. ![سهم يشير إلى زر إضافة مثال](images/left-empty-annotated.png)
+If your machine learning model recognises it, it will display what it predicts you said. ![Arrow pointing to the start listening button](images/test-your-model.png)
 
-+ سجل عن لا يقل عن 8 أمثلة لكلمة "left" لكائن الفضاء. ![محتو يحتوي على 8 امثلة لكلمة اليسار](images/8-left.png)
-
---- /task ---
-
-
---- task ---
-
-+ انقر فوق زر **اضافة تسمية جديدة** في أعلى الزاوية اليمنى للصفحة، وانشاء محتوى تدريب جديد باسم`Right` يجب ان تكون التسمية باللغة الانكليزية.
-
-+ انقر على زر**إضافة مثال** الموجود في المحتوى**Right** الجديد.
-
-+ سجل عن لا يقل عن 8 أمثلة لكلمة "Right" لكائن الفضاء. ![محتو يحتوي على 8 امثلة لكلمة اليمين](images/8-right.png)
-
-+ **ملاحظة:** بنهاية هذه الخطوة ، يجب أن يكون لديك ثمانية أمثلة في كل محتوى من المجموعات الثلاثة.
++ Test whether the model recognises your alien word for "right" as well.
 
 --- /task ---
+
+If you are not happy with how the model is working, go back to the **Train** page and add more examples, then train your model again.
+
+
+
