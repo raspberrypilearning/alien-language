@@ -1,0 +1,25 @@
+1
+00:00:03,600 --> 00:00:07,160
+Permite que o site aceda
+ao teu microfone, se este te pedir.
+
+2
+00:00:07,160 --> 00:00:12,440
+Grava uma amostra do ruído
+de fundo - basicamente, não digas nada.
+
+3
+00:00:12,440 --> 00:00:17,800
+Agora, repete isso até teres
+oito amostras de ruído de fundo.
+
+4
+00:00:17,800 --> 00:00:27,040
+Adiciona um rótulo para "esquerda", e grava a tua
+palavra extraterrestre inventada para "esquerda", oito vezes.
+
+5
+00:00:27,040 --> 00:00:38,120
+De seguida, adiciona um rótulo para "direita", e grava 
+outra palavra inventada, oito vezes.
+

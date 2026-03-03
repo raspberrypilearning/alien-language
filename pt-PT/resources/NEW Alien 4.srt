@@ -1,0 +1,35 @@
+1
+00:00:04,680 --> 00:00:08,640
+Agora clica em "Voltar" outra vez, e
+desta vez escolhe "Criar".
+
+2
+00:00:08,640 --> 00:00:14,160
+Vamos usar o modelo no Scratch!
+
+3
+00:00:14,160 --> 00:00:21,920
+Acede a "Project templates" e seleciona 
+o template para "Linguagem Extraterrestre".
+
+4
+00:00:21,920 --> 00:00:24,360
+Algum código foi adicionado para ti.
+
+5
+00:00:24,360 --> 00:00:29,960
+Arrasta os blocos de código para fazer 
+com que o extraterrestre se mova quando falas.
+
+6
+00:00:36,800 --> 00:00:40,800
+Vamos testar.
+
+7
+00:00:40,800 --> 00:00:43,840
+Bloop!
+
+8
+00:00:43,840 --> 00:00:50,200
+Uau!
+
