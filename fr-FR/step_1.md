@@ -22,7 +22,7 @@ title: Où sont stockés mes enregistrements vocaux ?
 title: Pas de YouTube ? Télécharge les vidéos !
 ---
 
-Tu peux [télécharger l'ensemble des vidéos de ce projet](https://rpf.io/p/fr-FR/alien-language-go){:target="_blank"}.
+Tu peux [télécharger l'ensemble des vidéos de ce projet](https://rpf.io/p/en/alien-language-go){:target="_blank"}.
 
 
 --- /collapse ---
