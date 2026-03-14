@@ -1,0 +1,31 @@
+---
+title: Lingua straniera
+hero_image: images/banner.png
+description: Crea la tua lingua aliena per spostare uno sprite
+theme: orange
+listed: true
+copyedit: true
+technologies: scratch
+software: scratch
+version: 4.0.0
+last_tested: '2019-06-04'
+steps:
+  - 
+    title: Che cosa creerai
+  - 
+    title: Set up the project
+  - 
+    title: Invent two words
+    completion:
+      - engaged
+  - 
+    title: Train the model
+  - 
+    title: Control the alien
+    completion:
+      - internal
+  - 
+    title: 'Challenge'
+    challenge: true
+    completion:
+      - external
