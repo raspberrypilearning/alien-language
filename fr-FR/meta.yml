@@ -10,16 +10,22 @@ software: scratch
 version: 4.0.0
 last_tested: '2019-06-04'
 steps:
-- title: Ce que tu vas faire
-- title: Configurer le projet
-- title: Inventer deux mots
-  completion:
-  - engaged
-- title: Entraîner le modèle
-- title: Contrôler l'extraterrestre
-  completion:
-  - internal
-- title: 'Défi'
-  challenge: true
-  completion:
-  - external
+  - 
+    title: Ce que tu vas faire
+  - 
+    title: Configurer le projet
+  - 
+    title: Inventer deux mots
+    completion:
+      - engaged
+  - 
+    title: Entraîner le modèle
+  - 
+    title: Contrôler l'extraterrestre
+    completion:
+      - internal
+  - 
+    title: 'Défi'
+    challenge: true
+    completion:
+      - external

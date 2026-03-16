@@ -22,7 +22,7 @@ title: Waar worden mijn spraakopnames opgeslagen?
 title: Geen YouTube? Download de video's!
 ---
 
-Je kunt [alle video's voor dit project downloaden](https://rpf.io/p/nl-NL/alien-language-go){:target="_blank"}.
+Je kunt [alle video's voor dit project downloaden](https://rpf.io/p/en/alien-language-go){:target="_blank"}.
 
 
 --- /collapse ---
@@ -32,7 +32,7 @@ Je kunt [alle video's voor dit project downloaden](https://rpf.io/p/nl-NL/alien-
 title: Licentie
 ---
 
-Dit project heeft een dubbele licentie onder zowel een [Creative Commons Attribution Non-Commercial Share-Alike-licentie](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} en een [Apache-licentie versie 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
+Dit project heeft een dubbele licentie onder zowel een [Creative Commons Attribution Non-Commercial Share-Alike-licentie](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} en een [Apache-licentie versie 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
 
 We willen Dale van machinelearningforkids.co.uk graag bedanken voor al zijn werk aan dit project.
 
