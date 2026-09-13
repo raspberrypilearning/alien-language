@@ -1,17 +1,3 @@
-## チャレンジ: 新しいコマンドを追加する
+## What can you do now?
 
---- challenge ---
-
---- task ---
-
-+ 次に、「up」(上) と「down」(下) の2つのトレーニングバケットを追加するとエイリアンを4方向すべてに動かすことができます。
-
---- /task ---
-
---- task ---
-
-+ 機械学習モデルを使用できるものは他にありますか？
-
---- /task ---
-
---- /challenge ---
+There are lots of other machine learning and AI projects in the [Machine learning with Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning) pathway.
