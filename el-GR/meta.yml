@@ -10,15 +10,22 @@ software: scratch
 version: 4.0.0
 last_tested: '2019-06-04'
 steps:
-- title: Εισαγωγή
-- title: Χρησιμοποίησε ένα ήδη εκπαιδευμένο μοντέλο
-- title: Δημιούργησε ένα νέο έργο
-  completion:
-  - engaged
-- title: Δημιουργία ξένων λέξεων
-- title: Εκπαίδευσε ένα νέο μοντέλο μηχανικής μάθησης
-- title: Χρησιμοποίησε εξωγήινες λέξεις στο Scratch
-  completion:
-  - internal
-- title: 'Πρόκληση: πρόσθεσε νέες εντολές'
-  challenge: true
+  - 
+    title: Τι θα φτιάξεις
+  - 
+    title: Set up the project
+  - 
+    title: Invent two words
+    completion:
+      - engaged
+  - 
+    title: Train the model
+  - 
+    title: Control the alien
+    completion:
+      - internal
+  - 
+    title: 'Challenge'
+    challenge: true
+    completion:
+      - external

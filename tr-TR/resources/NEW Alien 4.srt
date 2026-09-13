@@ -1,0 +1,32 @@
+1
+00:00:04,680 --> 00:00:08,640
+Şimdi tekrar 'Geri' seçeneğine tıklayın ve  bu kez 'Yap' seçeneğini seçin.
+
+2
+00:00:08,640 --> 00:00:14,160
+Hadi bu modeli Scratch'te kullanalım!
+
+3
+00:00:14,160 --> 00:00:21,920
+'Proje şablonları'na gidin ve 'Uzaylı dili'  şablonunu seçin.
+
+4
+00:00:21,920 --> 00:00:24,360
+Sizin için bazı kodlar eklendi.
+
+5
+00:00:24,360 --> 00:00:29,960
+Konuştuğunuzda uzaylının hareket etmesini  sağlamak için kod bloklarını sürükleyin.
+
+6
+00:00:36,800 --> 00:00:40,800
+Hadi deneyelim.
+
+7
+00:00:40,800 --> 00:00:43,840
+Bloop!
+
+8
+00:00:43,840 --> 00:00:50,200
+Vay!
+

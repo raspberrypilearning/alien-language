@@ -8,7 +8,7 @@
 
 --- task ---
 
-+ Va sur [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} dans un navigateur web.
++ Va sur [https://machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} dans un navigateur web.
 
 + Clique sur **Démarrez**.
 

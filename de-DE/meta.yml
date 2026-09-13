@@ -10,15 +10,22 @@ software: Scratch
 version: 4.0.0
 last_tested: '2019-06-04'
 steps:
-- title: Einleitung
-- title: Verwende ein vortrainiertes Modell
-- title: Erstelle ein neues Projekt
-  completion:
-  - engaged
-- title: Erstelle außerirdische Wörter
-- title: Trainiere ein neues maschinelles Lernmodell
-- title: Verwende außerirdische Wörter in Scratch
-  completion:
-  - internal
-- title: 'Herausforderung: Neue Befehle hinzufügen'
-  challenge: true
+  - 
+    title: Was du machen wirst
+  - 
+    title: Set up the project
+  - 
+    title: Invent two words
+    completion:
+      - engaged
+  - 
+    title: Train the model
+  - 
+    title: Control the alien
+    completion:
+      - internal
+  - 
+    title: 'Challenge'
+    challenge: true
+    completion:
+      - external
