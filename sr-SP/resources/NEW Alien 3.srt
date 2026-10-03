@@ -1,0 +1,16 @@
+1
+00:00:04,160 --> 00:00:11,320
+Click 'Back', then click on 'Learn & Test'.
+
+2
+00:00:11,320 --> 00:00:15,520
+It's time to train your model!
+
+3
+00:00:15,520 --> 00:00:19,160
+Test the model by saying one of your words:
+
+4
+00:00:19,160 --> 00:00:27,520
+Bloop!
+

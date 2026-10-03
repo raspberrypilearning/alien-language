@@ -1,0 +1,16 @@
+1
+00:00:04,160 --> 00:00:11,320
+'Geri'ye tıklayın, ardından 'Öğren ve Test Et'e tıklayın.
+
+2
+00:00:11,320 --> 00:00:15,520
+Modelinizi eğitme zamanı geldi!
+
+3
+00:00:15,520 --> 00:00:19,160
+Modelinizi test etmek için kendi kelimelerinizden birini söyleyin:
+
+4
+00:00:19,160 --> 00:00:27,520
+Bloop!
+

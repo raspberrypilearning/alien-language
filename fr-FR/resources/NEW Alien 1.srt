@@ -1,6 +1,6 @@
 1
 00:00:04,760 --> 00:00:11,520
-Va sur rpf.io/ML4K et clique sur « Démarrez ».
+Va sur rpf.io/ml4k et clique sur « Démarrez ».
 
 2
 00:00:11,520 --> 00:00:15,560
