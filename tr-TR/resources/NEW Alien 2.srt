@@ -1,0 +1,23 @@
+1
+00:00:03,600 --> 00:00:07,160
+Sorarsa sitenin mikrofonunuza erişmesine  
+izin verin.
+
+2
+00:00:07,160 --> 00:00:12,440
+Arka plan gürültüsünün bir örneğini 
+kaydedin - yani hiçbir şey söylemeyin.
+
+3
+00:00:12,440 --> 00:00:17,800
+Şimdi bunu, sekiz adet arka plan gürültüsü  örneği elde edene kadar tekrarlayın.
+
+4
+00:00:17,800 --> 00:00:27,040
+Sol için bir etiket ekleyin ve sol anlamına gelen  uydurma uzaylı kelimenizi sekiz kez kaydedin.
+
+5
+00:00:27,040 --> 00:00:38,120
+Ardından, sağ için bir etiket ekleyin ve 
+sekiz kez farklı bir uydurma kelime  kaydedin.
+
