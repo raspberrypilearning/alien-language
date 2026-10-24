@@ -22,7 +22,7 @@ title: Onde ficam guardadas as minhas gravações de voz?
 title: Não tens Youtube? Descarrega estes vídeos!
 ---
 
-Podes [descarregar todos os vídeos para este projeto](https://rpf.io/p/pt-PT/alien-language-go){:target="_blank"}.
+Podes [descarregar todos os vídeos para este projeto](https://rpf.io/p/en/alien-language-go){:target="_blank"}.
 
 
 --- /collapse ---
