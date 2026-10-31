@@ -1,0 +1,35 @@
+1
+00:00:04,680 --> 00:00:08,640
+Now click 'Back' again, and 
+this time choose 'Make'.
+
+2
+00:00:08,640 --> 00:00:14,160
+Let's use the model in Scratch!
+
+3
+00:00:14,160 --> 00:00:21,920
+Go to 'Project templates' and select 
+the template for 'Alien language'.
+
+4
+00:00:21,920 --> 00:00:24,360
+Some code has been added for you.
+
+5
+00:00:24,360 --> 00:00:29,960
+Drag the code blocks to make 
+the alien move when you speak.
+
+6
+00:00:36,800 --> 00:00:40,800
+Let's test it out.
+
+7
+00:00:40,800 --> 00:00:43,840
+Bloop!
+
+8
+00:00:43,840 --> 00:00:50,200
+Wow!
+
