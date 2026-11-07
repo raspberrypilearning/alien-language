@@ -1,17 +1,3 @@
-## चुनौती: नए आदेश जोड़ें
+## What can you do now?
 
---- challenge ---
-
---- task ---
-
-+ अब, आप "up" और "down" के लिए दो और प्रशिक्षण बाल्टियां जोड़ सकते हैं, ताकि आप एलियन को चारों दिशाओं में जाने के लिए नियंत्रित कर सकें।
-
---- /task ---
-
---- task ---
-
-+ क्या आप कुछ और सोच सकते हैं जिसके लिए आप मशीन लर्निंग मॉडल का उपयोग कर सकते हैं?
-
---- /task ---
-
---- /challenge ---
+There are lots of other machine learning and AI projects in the [Machine learning with Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning) pathway.

@@ -1,0 +1,31 @@
+---
+title: Uzaylı dili
+hero_image: images/banner.png
+description: Karakteri taşımak için kendi uzaylı dilinizi oluşturun
+theme: turuncu
+listed: true
+copyedit: true
+technologies: scratch
+software: scratch
+version: 4.0.0
+last_tested: '2019/06/04'
+steps:
+  - 
+    title: Ne yapacaksınız
+  - 
+    title: Projeyi kurun
+  - 
+    title: İki kelime uydurun
+    completion:
+      - engaged
+  - 
+    title: Modeli eğitin
+  - 
+    title: Uzaylıyı kontrol edin
+    completion:
+      - internal
+  - 
+    title: 'Meydan okuma'
+    challenge: true
+    completion:
+      - external

@@ -1,0 +1,31 @@
+---
+title: 외계인 언어
+hero_image: images/banner.png
+description: 스프라이트를 움직일 수있는 나만의 외국어 만들기
+theme: orange
+listed: true
+copyedit: true
+technologies: 스크래치
+software: scratch
+version: 4.0.0
+last_tested: '2019-06-04'
+steps:
+  - 
+    title: 만들 작품
+  - 
+    title: Set up the project
+  - 
+    title: Invent two words
+    completion:
+      - engaged
+  - 
+    title: Train the model
+  - 
+    title: Control the alien
+    completion:
+      - internal
+  - 
+    title: 'Challenge'
+    challenge: true
+    completion:
+      - external

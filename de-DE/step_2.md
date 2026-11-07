@@ -1,22 +1,42 @@
-## Verwende ein vortrainiertes Modell
+## Set up the project
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/F4HePu4SNrs?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
 --- task ---
-+ Gehe zu [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
---- /task ---
 
-**Warnung:** Dieser Schritt des Projekts kann nur mit dem Google Chrome-Webbrowser ausgeführt werden. Wenn Dir dieser Browser nicht zur Verfügung steht, fahre mit [Schritt 3: Erstelle ein neues Projekt](https://projects.raspberrypi.org/de-DE/projects/alien-language/3) fort
++ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
+
++ Click on **Get started**.
+
++ Click on **Try it now**.
+
+--- /task ---
 
 --- task ---
-+ Lade als Nächstes die Erweiterung **Sprache zu Text**. Klicke auf die Schaltfläche **Erweiterungen** in der unteren linken Ecke und wähle dann aus der Liste **Sprache zu Text** aus. **Hinweis:** Stelle sicher, dass du die Erweiterung **Sprache zu Text** und nicht die Erweiterung **Text zu Sprache** auswählst. ![Pfeil, der auf die Schaltfläche "Erweiterungen" zeigt](images/extensions-annotated.png)
 
-+ Verwende die Blöcke **Ereignisse**, **Steuerung** und die neuen Blöcke **Sprache zu Text**, um die folgenden Skripte zu erstellen. ![Neue hinzuzufügende Skripte](images/S-to-T-blocks.png)
++ Click on **Projects** in the menu bar at the top.
+
++ Click on the **+ Add a new project** button.
+
++ Name your project `Alien language` and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**. ![Creating a project](images/create-project.png)
+
++ You should now see 'Alien language' in the projects list. Click on the project. ![Project list with alien language listed](images/projects-list.png)
 
 --- /task ---
 
---- task --- Klicke auf die grüne Flagge, um dein Projekt zu testen. Sage "links" oder "rechts". Die Scratch-Katze sollte sich in die Richtung bewegen, die du ihr sagst. Verwende deine Stimme, um zu versuchen, die Scratch-Katze über den Bildschirm hin und her zu bewegen. Versuche, ruhig und klar zu sprechen.
+--- task ---
 
-Es kann schwierig sein, es zum Laufen zu bringen. Wenn es nicht funktioniert, füge `sage`-Blöcke hinzu, sodass dein Skript, wie das folgende Skript aussieht, um zu zeigen, was es denkt, was du gesagt hast. --- /task ---
++ Click on the **Train** button. ![Project main menu with an arrow pointing to the train button](images/project-train.png)
 
-Du hast jetzt die Spracherkennung verwendet, um einen Charakter in Scratch zu steuern.
++ If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
 
-In diesem Schritt hast du ein maschinelles Lernmodell verwendet, das bereits für dich trainiert wurde, damit dein Programm schnell funktioniert. Es ist ein allgemeines maschinelles Lernmodell, das darauf trainiert wurde, Wörter im deutschen Wörterbuch zu erkennen. 
+![Popup asking you to allow the microphone, with an arrow pointing to allow every visit](images/allow-microphone.png)
+
+--- /task ---
+
+
+
