@@ -1,0 +1,31 @@
+---
+title: 外星語
+hero_image: images/banner.png
+description: 創建自己的外星語來移動精靈
+theme: orange
+listed: true
+copyedit: true
+technologies: scratch
+software: scratch
+version: 4.0.0
+last_tested: '2019-06-04'
+steps:
+  - 
+    title: 你會做出：
+  - 
+    title: Set up the project
+  - 
+    title: Invent two words
+    completion:
+      - engaged
+  - 
+    title: Train the model
+  - 
+    title: Control the alien
+    completion:
+      - internal
+  - 
+    title: 'Challenge'
+    challenge: true
+    completion:
+      - external

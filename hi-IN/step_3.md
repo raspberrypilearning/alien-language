@@ -1,20 +1,49 @@
-## एक नई परियोजना बनाएं
-अगले कुछ चरणों में, आप मशीन लर्निंग मॉडल को यह देखने के लिए प्रशिक्षित करेंगे कि यह कैसे किया गया था। परियोजना के अगले भाग के लिए, आप अपनी आवाज़ का उपयोग एक एलियन चरित्र को नियंत्रित करने के लिए करेंगे जो अंग्रेजी नहीं समझता है! आप दो नए शब्दों का आविष्कार करेंगे जो एक अंग्रेजी शब्दकोश में नहीं मिलेंगे। फिर, आप एलियन चरित्र को नियंत्रित करने के लिए शब्दों का उपयोग करेंगे, और उन्हें पहचानने के लिए मशीन लर्निंग मॉडल को प्रशिक्षित करेंगे।
+## Invent two words
 
-सबसे पहले, Machine Learning for Kids वेबसाइट पर जाएं और एक परियोजना बनाएं।
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/au4cDSYW_EQ?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
---- task ---
-+ [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} पर जाएं।
-
-+ **Get started** पर क्लिक करें।
-
-+ **Try it now** पर क्लिक करें। --- /task ---
+First, you will collect samples of background noise. This will help your machine learning model to tell the difference between the sounds that you will train it to recognise, and the background noise where you are.
 
 --- task ---
-+ पृष्ठ के शीर्ष पर मेन्यू बार में **Projects** पर क्लिक करें।
 
-+ **Add a new project** बटन पर क्लिक करें।
++ Click the **+ Add example** button in **background noise**.
 
-+ अपनी परियोजना का नाम `Alien Language` रखें और यह निर्धारित करे कि `sounds` को पहचाना कैसे सीखा जाए। फिर, **Create** बटन पर क्लिक करें। ![एक परियोजना बनाएँ](images/create.png)
++ Click on the microphone, but don't say anything. Record 2 seconds of background noise. ![Arrow pointing to microphone button](images/record-button.png)
 
-+ आपको परियोजनाओं की सूची में `Alien Language` दिखना चाहिए। `Alien Language` परियोजना पर क्लिक करें। --- /task ---
++ Click the **Add** button to save your recording.
+
+--- /task ---
+
+--- task ---
+
++ Repeat those steps until you have **at least eight examples** of background noise. ![Bucket filled with 8 background examples](images/8-background.png)
+
+--- /task ---
+
+Invent two alien words — a word that means "left" and a word that means "right".
+
+Now you will record eight examples of each word so that your machine learning model can learn to recognise them.
+
+--- task ---
+
++ Click on **+ Add new label** on the top right of the screen and add a label called `left`.
+
+--- /task ---
+
+--- task ---
+
++ Click on **+ Add example** inside the box for the new `left` label, and record yourself saying your alien word for "left".
+
++ Repeat until you have recorded **at least eight examples**.
+
+--- /task ---
+
+--- task ---
+
++ Click on **+ Add new label** to create another label called `right` and record eight examples of your alien word for "right".
+
+--- /task ---
