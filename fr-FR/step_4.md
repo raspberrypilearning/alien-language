@@ -14,8 +14,7 @@ Tu as rassemblé les exemples dont tu as besoin, tu vas maintenant utiliser ces 
 
 + Clique sur **Apprendre & Tester**.
 
-+ Clique sur le bouton **Entraîner un nouveau modèle d'apprentissage machine**. Cela peut prendre quelques minutes.
-![Flèche pointant vers un bouton indiquant Entraîner un nouveau modèle d'apprentissage machine](images/train-new-model.png)
++ Clique sur le bouton **Entraîner un nouveau modèle d'apprentissage machine**. Cela peut prendre quelques minutes. ![Flèche pointant vers un bouton indiquant Entraîner un nouveau modèle d'apprentissage machine](images/train-new-model.png)
 
 --- /task ---
 
@@ -25,8 +24,7 @@ Une fois l'entraînement terminé, tu peux tester dans quelle mesure ton modèle
 
 + Clique sur le bouton **Commencez à écouter**, puis dis ton mot extraterrestre pour « gauche ».
 
-Si ton modèle d'apprentissage automatique le reconnaît, il affichera ce qu'il te prédit.
-![Flèche pointant vers le bouton Commencez à écouter](images/test-your-model.png)
+Si ton modèle d'apprentissage automatique le reconnaît, il affichera ce qu'il te prédit. ![Flèche pointant vers le bouton Commencez à écouter](images/test-your-model.png)
 
 + Teste si le modèle reconnaît également ton mot extraterrestre pour « droite ».
 

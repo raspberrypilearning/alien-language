@@ -1,45 +1,36 @@
-## エイリアン語を作る
-このステップでは、エイリアン語を考え出します。
+## Train the model
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/o4J5c0o5lVE?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
+
+You have gathered the examples you need, now you will use these examples to train your machine learning model.
 
 --- task ---
 
-「左」を表すエイリアン語と「右」を表すエイリアン語の2つが必要です。 辞書にはない2つの新しい単語を考え出しましょう。 毎回同じようにくり返すことができて、2つの音がはっきりとちがう音だと認識されるのであれば、でたらめな音でもかまいません。 声を使いたくなくても、だいじょうぶです。ほかにも音を立てる方法があります。 指を鳴らしたり、手をたたいたり、音の出るおもちゃをにぎるなど、何でもかまいません！ ただし、新しい単語 (または音) が何であるかをわすれないように気をつけましょう！
++ Click on **Back to project** in the top left-hand corner.
+
++ Click on **Learn & Test**.
+
++ Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete. ![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
 
 --- /task ---
+
+Once the training has finished, you can test how well your model recognises the alien words you have invented.
 
 --- task ---
 
-+ **トレーニング** ボタンをクリックして、サンプルの収集 (しゅうしゅう) を開始します。 ![トレーニングボタンを指す矢印](images/click-train.png)
++ Click the **Start listening** button, then say your alien word for "left".
 
-+ **background noise** (バックグラウンドノイズ - まわりのざつ音) バケットにある**例 (れい) を追加**ボタンをクリックします。 バックグラウンドノイズを録音 (ろくおん) すると、機械学習モデルが認識するようにトレーニングする音と、今いる場所のバックグラウンドノイズのちがいを区別 (くべつ) するのに役立ちます。 ![「例を追加」ボタンを指す矢印](images/background-noise-annotated.png)
+If your machine learning model recognises it, it will display what it predicts you said. ![Arrow pointing to the start listening button](images/test-your-model.png)
 
-+ マイクをクリックして、2秒間のバックグラウンドノイズを録音します。 ![マイクボタンを指す矢印](images/add-example-annotated.png)
-
-+ **追加** ボタンをクリックして、録音を保存します。 ![追加ボタンを指す矢印](images/save-example-annotated.png)
-
-+ バックグラウンドノイズの**少なくとも8つのサンプル** ができるまで、この手順 (てじゅん) をくり返します。 ![8つのバックグラウンドノイズのサンプルが入ったバケット](images/8-background.png)
++ Test whether the model recognises your alien word for "right" as well.
 
 --- /task ---
 
---- task ---
-
-+ 右上すみにある**新しいラベルを追加**ボタンをクリックし、 `left` (左) という新しいトレーニングバケットを作成します。 ![「新しいラベルを追加」ボタンを指す矢印](images/8-background-annotated.png)
-
-+ 新しい **left**バケットの **例を追加** ボタンをクリックします。 ![「例を追加」ボタンを指す矢印](images/left-empty-annotated.png)
-
-+ 「左」を表すエイリアン語の **少なくとも8つのサンプル**を録音します。 ![8つの「左」の音のサンプルが入ったバケット](images/8-left.png)
-
---- /task ---
+If you are not happy with how the model is working, go back to the **Train** page and add more examples, then train your model again.
 
 
---- task ---
 
-+ 右上すみにある**新しいラベルを追加**ボタンをもう一度クリックし、 `right` (右) という新しいトレーニングバケットを作成します。
-
-+ 新しい **right** バケットの **例を追加** ボタンをクリックします。
-
-+ 「右」を表すエイリアン語の **少なくとも8つのサンプル**を録音します。 ![8つの「右」の音のサンプルが入ったバケット](images/8-right.png)
-
-+ **(注)** このステップを終わる前に、3つのバケットのそれぞれに8つのサンプルが必要です。
-
---- /task ---
