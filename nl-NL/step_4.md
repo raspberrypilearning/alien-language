@@ -14,8 +14,7 @@ Je hebt de voorbeelden verzameld die je nodig hebt, nu ga je deze gebruiken om j
 
 + Klik op **Leer & Test**.
 
-+ Klik op de knop met het label **Train nieuw machine learning model**. Dit kan enkele minuten duren.
-![Pijl die naar de knop wijst met de tekst Train nieuw machine learning model](images/train-new-model.png)
++ Klik op de knop met het label **Train nieuw machine learning model**. Dit kan enkele minuten duren. ![Pijl die naar de knop wijst met de tekst Train nieuw machine learning model](images/train-new-model.png)
 
 --- /task ---
 
@@ -25,8 +24,7 @@ Zodra het trainen is voltooid, kun je testen hoe goed jouw model jouw zelfbedach
 
 + Klik op de knop **Begin met luisteren** en zeg vervolgens het buitenaardse woord voor "links".
 
-Als je machine learning model dit herkent, wordt weergegeven wat het model voorspelt dat jij hebt gezegd.
-![Pijl die naar de knop 'Start listening' wijst](images/test-your-model.png)
+Als je machine learning model dit herkent, wordt weergegeven wat het model voorspelt dat jij hebt gezegd. ![Pijl die naar de knop 'Start listening' wijst](images/test-your-model.png)
 
 + Test of het model ook jouw buitenaardse woord voor "rechts" herkent.
 
