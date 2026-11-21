@@ -12,8 +12,7 @@ Eerst verzamel je voorbeelden van achtergrondgeluiden. Dit helpt je machine lear
 
 + Klik op de **+ Voeg een voorbeeld toe** knop in **background noise**.
 
-+ Klik op de microfoon, maar zeg niets. Neem 2 seconden achtergrondgeluid op.
-![Pijl wijzend naar microfoonknop](images/record-button.png)
++ Klik op de microfoon, maar zeg niets. Neem 2 seconden achtergrondgeluid op. ![Pijl wijzend naar microfoonknop](images/record-button.png)
 
 + Klik op de knop **VOEG TOE** om jouw opname op te slaan.
 
@@ -21,8 +20,7 @@ Eerst verzamel je voorbeelden van achtergrondgeluiden. Dit helpt je machine lear
 
 --- task ---
 
-+ Herhaal deze stappen totdat je **minimaal acht voorbeelden** van achtergrondgeluiden hebt.
-![Container gevuld met 8 achtergrond voorbeelden](images/8-background.png)
++ Herhaal deze stappen totdat je **minimaal acht voorbeelden** van achtergrondgeluiden hebt. ![Container gevuld met 8 achtergrond voorbeelden](images/8-background.png)
 
 --- /task ---
 
