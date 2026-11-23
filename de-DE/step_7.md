@@ -1,17 +1,3 @@
-## Herausforderung: Neue Befehle hinzufügen
+## What can you do now?
 
---- challenge ---
-
---- task ---
-
-+ Jetzt könntest du zwei weitere Trainingszellen für „hoch“ und „runter“ hinzufügen, damit du den Außerirdischen so steuern kannst, dass er sich in alle vier Richtungen bewegt.
-
---- /task ---
-
---- task ---
-
-+ Kannst du dir noch etwas vorstellen, für das du ein Modell für maschinelles Lernen verwenden könntest?
-
---- /task ---
-
---- /challenge ---
+There are lots of other machine learning and AI projects in the [Machine learning with Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning) pathway.
