@@ -1,25 +1,42 @@
-## استخدم نموذجًا تم تدريبه مسبقًا
+## Set up the project
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/F4HePu4SNrs?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
 --- task ---
-+ انتقل إلى [machinelearningforkids.co.uk/scratch3](https://machinelearningforkids.co.uk/scratch3/){:target="_blank"}
---- /task ---
 
-**تحذير:** لا يمكن إتمام هذه الخطوة من المشروع إلا باستخدام متصفح الويب Google Chrome. إذا لم يكن هذا المتصفح متاحًا لك ، فيرجى التخطي إلى الخطوة 3: إنشاء مشروع جديد ](https://projects.raspberrypi.org/ar-SA/projects/alien-language/3)
++ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
+
++ Click on **Get started**.
+
++ Click on **Try it now**.
+
+--- /task ---
 
 --- task ---
-+ بعد ذلك ، قم بتحميل ملحق **الكلام إلى النص**. انقر على زر **امتداد** في الركن الأيسر السفلي ، ثم اختر **كلام إلى نص** من القائمة. **ملاحظة:** تأكد من تحديد امتداد **Speech to Text** وليس ملحق **Text to Speech**. ![سهم يشير إلى زر ملحقات](images/extensions-annotated.png)
 
-+ استخدم **أحداث** كتل ، **كتل Motions** ، وكتل **الكلام إلى نص** جديدة لإنشاء البرامج النصية التالية. ![نصوص جديدة لإضافتها](images/S-to-T-blocks.png)
++ Click on **Projects** in the menu bar at the top.
+
++ Click on the **+ Add a new project** button.
+
++ Name your project `Alien language` and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**. ![Creating a project](images/create-project.png)
+
++ You should now see 'Alien language' in the projects list. Click on the project. ![Project list with alien language listed](images/projects-list.png)
 
 --- /task ---
 
---- task---
-مهمة --- انقر على العلم الأخضر لاختبار البرنامج الخاص بك. قل "يسار" أو "يمين". يجب أن تتحرك قطة السكراتش في الاتجاه الذي تطلبه. استخدم صوتك لمحاولة تحريك قط السكراتش ذهابًا وإيابًا عبر الشاشة. حاول التحدث بهدوء ووضوح.
+--- task ---
 
-قد يكون من الصعب تشغيلها. إذا لم يفلح ذلك ، أضف التعليمة البرمجية `قل` بحيث يبدو النص الخاص بك مثل النص أدناه ، لإظهار ما يعتقد أنك تقول.
++ Click on the **Train** button. ![Project main menu with an arrow pointing to the train button](images/project-train.png)
 
-![New scripts to see what the computer thinks you are saying](images/S-to-T-blocks-test.png) --- /task ---
++ If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
 
-لقد استخدمت الآن التعرف على الكلام للتحكم في شخصية في سكراتش.
+![Popup asking you to allow the microphone, with an arrow pointing to allow every visit](images/allow-microphone.png)
 
-في هذه الخطوة ، لكي يعمل برنامجك بسرعة ، استخدمت نموذجًا للتعلم الآلي تم تدريبه لك بالفعل. إنه نموذج عام للتعلم الآلي تم تدريبه على التعرف على الكلمات في قاموس اللغة الإنجليزية. 
+--- /task ---
+
+
+
