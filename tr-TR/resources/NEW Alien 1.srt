@@ -1,0 +1,24 @@
+1
+00:00:04,760 --> 00:00:11,520
+rpf.io/ml4k adresine gidin ve 'Başlayın' seçeneğine tıklayın.
+
+2
+00:00:11,520 --> 00:00:15,560
+'Şimdi dene'ye tıklayın.
+
+3
+00:00:15,560 --> 00:00:20,560
+'Uzaylı dili' adında yeni bir proje ekleyin.
+
+4
+00:00:20,560 --> 00:00:28,280
+Proje türünü 'ses tanıma' ve depolama türünü 'tarayıcınızda' olarak ayarlayın.
+
+5
+00:00:28,280 --> 00:00:34,840
+Projeyi oluşturun, ardından projenin adına tıklayın.
+
+6
+00:00:34,840 --> 00:00:40,000
+Şimdi 'Eğit'e tıklayın.
+
